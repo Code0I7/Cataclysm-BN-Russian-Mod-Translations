@@ -1,0 +1,34 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bio_recipes\n"
+"POT-Creation-Date: 2023-12-06 08:49+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\construction_group.json
+msgid "Build Autodoc"
+msgstr "Построить автодок"
+
+#: .\construction_group.json
+msgid "Build Autodoc Couch"
+msgstr "Постоить кушетку автодока"
+
+#: .\modinfo.json
+msgid "Bionics Systems Recipes"
+msgstr ""
+
+#. ~ Description for Bionics Systems Recipes
+#: .\modinfo.json
+msgid ""
+"Adds Autodoc, Autodoc couch to construction menu and Anesthethics to Chem "
+"crafting"
+msgstr ""
+"Добавляет автодок, кушетку для автодока в меню строительства и рецепт "
+"анестетика"

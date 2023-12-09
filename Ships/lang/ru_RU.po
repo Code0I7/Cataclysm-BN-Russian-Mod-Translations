@@ -1,0 +1,395 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Ships\n"
+"POT-Creation-Date: 2023-12-06 04:42+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\NPC_missions.json
+msgid "Ships Mod Locator Hologram"
+msgstr "Голограмма локатора"
+
+#: .\NPC_missions.json
+msgid "Hologram Protection"
+msgstr "Голограммный проектор"
+
+#. ~ Description for {'str': 'Hologram Protection'}
+#: .\NPC_missions.json
+msgid "\"I am programmed to not engage wandering monsters.\""
+msgstr "\"Я запрограммирован не вступать в бой с блуждающими монстрами.\""
+
+#: .\NPC_missions.json
+msgid "Ships Mod Cruise Ship Locator Hologram"
+msgstr "Голограммный локатор круизного лайнера"
+
+#: .\NPC_missions.json
+msgid "Ships Mod Cargo Ship Locator Hologram"
+msgstr "Голограммный локатор грузового корабля"
+
+#.
+#. ~ Description for mission '{'str': 'Go to Cruise Ship'}'
+#: .\NPC_missions.json
+msgid "Go to Cruise Ship"
+msgstr "Обнаружить круизный лайнер"
+
+#: .\NPC_missions.json
+msgid ""
+"You want me to find this location for you to explore? Sure, you will just "
+"need to wait for a couple of minutes or less for me to find it via my "
+"network system"
+msgstr ""
+"Хотите, чтобы я нашел для вас это место? Конечно, вам нужно будет подождать "
+"пару минут или меньше, пока я найду его через свою навигационную систему."
+
+#: .\NPC_missions.json
+msgid ""
+"You want me to locate it now for you to explore? Sure, just tell me, you "
+"will just need to wait for a couple of minutes or less for me to find it via "
+"my network system"
+msgstr ""
+"Вы хотите, чтобы я нашел его прямо сейчас, чтобы вы могли его изучить? "
+"Конечно, просто скажите мне, вам нужно будет подождать пару минут или "
+"меньше, пока я найду его через свою сетевую систему."
+
+#: .\NPC_missions.json
+msgid "Good luck to you!"
+msgstr "Удачи вам!"
+
+#: .\NPC_missions.json
+msgid ""
+"Not interested in explorations of new locations? No rush hopefully. You can "
+"come back to me later. I'm sure that you will. Because I believe that you "
+"are not a boring person"
+msgstr ""
+"Не желаете исследовать новые места? Надеюсь нет, не стоит торопиться. Вы "
+"можете вернуться ко мне позже. Я уверен, что так и будет. Потому что я верю, "
+"что вы не скучный собеседник."
+
+#: .\NPC_missions.json
+msgid "Use your wits for your own safety hopefully as well"
+msgstr "Используйте свою смекалку для обеспечения собственной безопасности."
+
+#: .\NPC_missions.json
+msgid "Have you went to this location that I have found for you to explore?"
+msgstr "Вы уже побывали в том месте, которое я предложил вам для исследования?"
+
+#: .\NPC_missions.json
+msgid "Good work!"
+msgstr "Хорошая работа!"
+
+#: .\NPC_missions.json
+msgid ""
+"What's the point of lying to me? You think I'm gonna reward you? Your "
+"rewards for this mission is valuable for you items or living creatures or "
+"other survivors you manage to find in this location which I have found for "
+"you to explore"
+msgstr ""
+"Какой смысл мне врать? Думаете, я вас награжу? Наградой за это задание "
+"станут ценные для вас предметы или другие выжившие, которых вам удастся "
+"найти в том месте, предложенном мной для исследования."
+
+#: .\NPC_missions.json
+msgid ""
+"You are a boring, lazy person honestly. I guess that laziness applies to "
+"both of us"
+msgstr ""
+"Честно говоря, вы скучный и ленивый человек. Думаю, эта лень относится к нам "
+"обоим."
+
+#.
+#. ~ Description for mission '{'str': 'Go to Cargo Ship'}'
+#: .\NPC_missions.json
+msgid "Go to Cargo Ship"
+msgstr "Обнаружить грузовой корабль"
+
+#: .\NPC_missions.json
+msgid ""
+"System is online. Initiate conversation mode. Look at that. Survivor has "
+"managed to activate a hologram projector easily! Yeah, my creators know many "
+"types of you who don't even read what's written on items honestly. Good that "
+"you seem like a pretty intelligent person hopefully. So, do you want me to "
+"show you where this location is via my network system? I can grant you "
+"access to archived global network system which my creators have managed to "
+"restore. However, after usage I will need to recharge a little bit which "
+"only means that you will need to wait to use this function again hopefully"
+msgstr ""
+"Система находится в режиме онлайн. Включаю режим разговора. Только "
+"посмотрите. Выжившему удалось легко активировать голограммный проектор! Да, "
+"мои создатели знают много таких, как вы, которые даже не читают, что "
+"написано на предметах. Хорошо, что вы, надеюсь, выглядите довольно умным "
+"человеком. Итак, хотите, я покажу вам, где находится это место, через мою "
+"навигационную систему? Я могу предоставить вам доступ к архивной системе "
+"глобальной сети, которую удалось восстановить моим создателям. Однако после "
+"использования мне потребуется небольшая перезарядка, а это значит, что вам "
+"придется подождать, чтобы снова воспользоваться этой функцией."
+
+#: .\NPC_missions.json
+msgid ""
+"[MISSIONS] I want you to find this location for me to explore it hopefully "
+"via your network system"
+msgstr ""
+"[MISSIONS] Я хочу, чтобы ты нашел это место, чтобы я мог исследовать его, "
+"надеюсь на твою навигационную систему."
+
+#: .\NPC_missions.json
+msgid "Who or what are you?"
+msgstr "Кто ты или что ты?"
+
+#: .\NPC_missions.json
+msgid ""
+"Who are your creators? What is the purpose of producing these projectors?"
+msgstr "Кто твои создатели? Какова цель производства этих проекторов?"
+
+#: .\NPC_missions.json
+msgid ""
+"[IMPROVE MOOD] I want you to grant me access to archived global network "
+"system"
+msgstr ""
+"[IMPROVE MOOD] Я хочу, чтобы ты предоставил мне доступ к архивам глобальной "
+"навигационной системы."
+
+#: .\NPC_missions.json
+msgid "About that mission..."
+msgstr "Насчет миссии..."
+
+#: .\NPC_missions.json
+msgid "[GOODBYE]"
+msgstr "[GOODBYE]"
+
+#: .\NPC_missions.json
+msgid ""
+"Initiate search mode. Please, wait for a couple of minutes or less. You've "
+"heard me clearly. Still, we have limitations with regards to our locating "
+"tools. If locator does not manage to find this location then simply create "
+"another hologram locator of which can find this location successfully"
+msgstr ""
+"Инициация режима поиска. Пожалуйста, подождите пару минут или меньше. Вы "
+"меня хорошо услышали? Тем не менее, у нас есть ограничения в том, что "
+"касается наших локаторов. Если локатор не сможет найти текущее "
+"местоположение, просто создайте другой голограммный локатор, который сможет "
+"успешно найти данное местоположение."
+
+#: .\NPC_missions.json
+msgid "Can I talk to you about something else?"
+msgstr "Могу я поговорить с вами о чем-нибудь другом?"
+
+#: .\NPC_missions.json
+msgid "Thanks"
+msgstr "Спасибо"
+
+#: .\NPC_missions.json
+msgid ""
+"I'm a magic genie from a magic camera. No, I'm just joking. What kind of a "
+"question is this? You don't like to explore or don't know much about your "
+"own world? Have not you seen stuff in labs? Military structures? Top secret "
+"stuff? Aliens or whatever these creatures are? You think that your own "
+"people don't have tech which can produce holograms? I'm a hologram, software "
+"with some additional technologies, it is that simple"
+msgstr ""
+"Я волшебный джинн из волшебной камеры. Нет, я просто шучу. Что это за "
+"вопрос? Вы не любите исследовать или мало знаете о своем собственном мире? "
+"Разве вы не видели вещи в лабораториях? Военные сооружения? Сверхсекретные "
+"вещи? Инопланетян или как их там? Вы думаете, что у вашего народа нет "
+"техники, способной создавать голограммы? Я - голограмма, программное "
+"обеспечение с некоторыми дополнительными технологиями, это так просто."
+
+#: .\NPC_missions.json
+msgid ""
+"This question is much more intelligent than the other one. My creators can "
+"be described as a bunch of highly technological geeks majority of which are "
+"humans honestly. They neither possess that many combat skills nor they are "
+"that interested in subjecting their lives to unnecessary risk clearly. They "
+"only engage hostile creatures for basic survival needs. They try to rely on "
+"self-sufficiency with relative success thanks to their applied intelligence "
+"along with tech that they have managed to find or engineer themselves. They "
+"have made these projectors so that we can help each other. We provide you "
+"with locations with dangerous creatures along with valuable items or "
+"survivors who are captive. You clear these locations acquiring whatever "
+"valuable items or survivors you want from there making these locations safe "
+"shelters where we including you can live hopefully as well"
+msgstr ""
+"Этот вопрос гораздо интеллектуальнее предыдущего. Моих создателей можно "
+"описать как кучку очень технологичных чудаков, большинство из которых, "
+"честно говоря, люди. Они не обладают столькими боевыми навыками и не "
+"заинтересованы в том, чтобы подвергать свою жизнь ненужному риску. Они "
+"вступают во взаимодействие с враждебными существами только для того, чтобы "
+"выжить. Они стараются полагаться на самодостаточность и добиваются "
+"относительного успеха благодаря своему интеллекту, а также технологиям, "
+"которые им удалось найти или сконструировать самостоятельно. Они создали эти "
+"проекторы, чтобы мы могли помогать друг другу. Мы предоставляем вам локации "
+"с опасными существами и ценными предметами или выжившими, которые находятся "
+"в плену. Вы очищаете эти локации, получая оттуда любые ценные предметы или "
+"выживших, чтобы сделать эти локации безопасными убежищами, где мы, включая "
+"вас, сможем жить, надеюсь, так же хорошо."
+
+#: .\NPC_missions.json
+msgid ""
+"What do you want to do? Play archived games? Browse archived social media? "
+"Watch archived videos? Listen to archived music? Read archived files along "
+"with archived books? Something to play, read, listen, watch for fun, "
+"intelligence improving, spiritual improving, mental improving? Or for "
+"reproductive physical state improving?"
+msgstr ""
+"Что вы хотите попробовать? Поиграть в игры из архива? Просматривать "
+"социальные сети в архивах? Посмотреть видео из архива? Послушать музыку из "
+"архива? Прочитать файлы и книги из архива? Во что нибудь поиграть, почитать, "
+"послушать, посмотреть для развлечения, повышения интеллекта, духовного "
+"совершенствования, улучшения умственных способностей? Или же для улучшения "
+"физической формы?"
+
+#: .\NPC_missions.json
+msgid "I like some of these a lot honestly. Healthy stuff"
+msgstr "Честно говоря, некоторые из них мне очень нравятся. Полезные вещи."
+
+#: .\items_NPC_missions.json
+msgid "Hologram Projector - Locator of Cruise Ship"
+msgid_plural "Hologram Projector - Locator of Cruise Ships"
+msgstr[0] "голограммный проектор: \"Локатор круизного корабля\""
+msgstr[1] "голограммных проектора: \"Локатор круизного корабля\""
+msgstr[2] "голограммных проекторов: \"Локатор круизного корабля\""
+
+#. ~ Description for {'str': 'Hologram Projector - Locator of Cruise Ship'}
+#: .\items_NPC_missions.json
+msgid ""
+"This is a hologram projector which generates an interactive hologram when "
+"you activate it. Hologram can talk to you, answer some of your questions, "
+"but most importantly, it can locate Cruise Ship"
+msgstr ""
+"Это голограммный проектор, который при активации создает интерактивную "
+"голограмму. Голограмма может разговаривать с вами, отвечать на ваши вопросы, "
+"но самое главное - она может определять местонахождение круизного корабля."
+
+#: .\items_NPC_missions.json
+msgid "Hologram Projector - Locator of Cargo Ship"
+msgid_plural "Hologram Projector - Locator of Cargo Ships"
+msgstr[0] "голограммный проектор: \"Локатор грузового корабля\""
+msgstr[1] "голограммных проектора: \"Локатор грузового корабля\""
+msgstr[2] "голограммных проекторов: \"Локатор грузового корабля\""
+
+#. ~ Description for {'str': 'Hologram Projector - Locator of Cargo Ship'}
+#: .\items_NPC_missions.json
+msgid ""
+"This is a hologram projector which generates an interactive hologram when "
+"you activate it. Hologram can talk to you, answer some of your questions, "
+"but most importantly, it can locate Cargo Ship"
+msgstr ""
+"Это голограммный проектор, который при активации создает интерактивную "
+"голограмму. Голограмма может разговаривать с вами, отвечать на ваши вопросы, "
+"но самое главное - она может определять местонахождение грузового корабля."
+
+#: .\modinfo.json
+msgid "Ships From Oa Additional Buildings"
+msgstr "Корабли из \"Oa Additional Buildings\""
+
+#. ~ Description for Ships From Oa Additional Buildings
+#: .\modinfo.json
+msgid "Just a load of ship here"
+msgstr "Здесь только корабли"
+
+#: .\oa_scenarios.json
+msgid "Crew quarters"
+msgstr "Каюты экипажа"
+
+#: .\oa_scenarios.json
+msgid "Cabins NW"
+msgstr "Северно-западная каюта"
+
+#: .\oa_scenarios.json
+msgid "Cabin SW"
+msgstr "Юго-западная каюта"
+
+#: .\oa_scenarios.json
+msgid "Cabin NE"
+msgstr "Северо-восточная каюта"
+
+#: .\oa_scenarios.json
+msgid "Cabin SE"
+msgstr "Юго-восточная каюта"
+
+#. ~ Name for scenario 'Cruise of the Dead' for a male character
+#: .\oa_scenarios.json
+msgctxt "scenario_male"
+msgid "Cruise of the Dead"
+msgstr "Круиз мертвецов"
+
+#. ~ Name for scenario 'Cruise of the Dead' for a female character
+#: .\oa_scenarios.json
+msgctxt "scenario_female"
+msgid "Cruise of the Dead"
+msgstr "Круиз мертвецов"
+
+#. ~ Description for scenario 'Cruise of the Dead' for a male character.
+#: .\oa_scenarios.json
+msgctxt "scen_desc_male"
+msgid ""
+"You finally saved up enough money to take that cruise around New England "
+"that you always dreamed about; only to find yourself on a ship overrun with "
+"the undead! Fight your way out and swim to safety!"
+msgstr ""
+"Вы наконец-то накопили достаточно денег, чтобы отправиться в круиз по Новой "
+"Англии, о котором всегда мечтали, но оказались на корабле, кишащем "
+"мертвецами! Выбирайтесь и плывите к спасению!"
+
+#. ~ Description for scenario 'Cruise of the Dead' for a female character.
+#: .\oa_scenarios.json
+msgctxt "scen_desc_female"
+msgid ""
+"You finally saved up enough money to take that cruise around New England "
+"that you always dreamed about; only to find yourself on a ship overrun with "
+"the undead! Fight your way out and swim to safety!"
+msgstr ""
+"Вы наконец-то накопили достаточно денег, чтобы отправиться в круиз по Новой "
+"Англии, о котором всегда мечтали, но оказались на корабле, кишащем "
+"мертвецами! Выбирайтесь и плывите к спасению!"
+
+#. ~ Starting location for scenario 'Cruise of the Dead'.
+#: .\oa_scenarios.json
+msgctxt "start_name"
+msgid "Cruise Ship"
+msgstr "Круизный корабль"
+
+#: .\oa_shared_vehicles.json
+msgid "work light"
+msgstr "рабочий свет"
+
+#: .\overmap_terrain.json
+msgid "cargo ship"
+msgstr "грузовой корабль"
+
+#: .\overmap_terrain.json
+msgid "cruise ship"
+msgstr "круизный лайнер"
+
+#. ~ Computer name
+#: .\json\ws_cargo_ship.json .\json\ws_cruise_ship.json
+msgid "Ship Navigational Terminal"
+msgstr "Навигационный терминал корабля"
+
+#. ~ Computer option
+#: .\json\ws_cargo_ship.json .\json\ws_cruise_ship.json
+msgid "access satellite navigation map"
+msgstr "Доступ к спутниковой навигационной карте"
+
+#. ~ Computer name
+#: .\json\ws_cruise_ship.json
+msgid "Vault Security Terminal"
+msgstr "Терминал безопасности хранилища"
+
+#. ~ Computer option
+#: .\json\ws_cruise_ship.json
+msgid "Unlock Vault"
+msgstr "Разблокировать хранилище"
+
+#. ~ Computer option
+#: .\json\ws_cruise_ship.json
+msgid "Lock Vault"
+msgstr "Заблокировать хранилище"

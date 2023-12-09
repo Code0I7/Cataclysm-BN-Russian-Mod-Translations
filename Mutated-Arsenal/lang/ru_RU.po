@@ -1,0 +1,134 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: a_mutated_arsenal\n"
+"POT-Creation-Date: 2023-12-05 05:51+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\Mutated_arsenal.json
+msgid "mutant power armor"
+msgid_plural "mutant power armors"
+msgstr[0] "тяжелая силовая броня XL"
+msgstr[1] "тяжелые силовые брони XL"
+msgstr[2] "тяжелых силовых бронь XL"
+
+#. ~ Use action msg for {'str': 'mutant power armor'}.
+#: .\Mutated_arsenal.json
+msgid "The %s engages."
+msgstr "%s включается."
+
+#. ~ Description for {'str': 'mutant power armor'}
+#: .\Mutated_arsenal.json
+msgid ""
+"A modified suit of DoubleTech Power Armor, Mk. II-H.Designed to be used with "
+"mutated anatomy in the _REDACTED_ project,it stayed a proof of concept since "
+"the _REDACTED_ lifecycle was too short."
+msgstr ""
+"Модифицированная силовая броня DoubleTech, Mk. II-H. Разработанная для "
+"использования с экзотической анатомией в проекте _REDACTED_, она так и "
+"осталась пробным вариантом, поскольку период существования _REDACTED_ был "
+"слишком мал."
+
+#: .\Mutated_arsenal.json
+msgid "mutant power armor (active)"
+msgid_plural "mutant power armors (active)"
+msgstr[0] "силовая броня XL (активно)"
+msgstr[1] "силовых брони XL (активно)"
+msgstr[2] "силовых бронь XL (активно)"
+
+#. ~ Use action menu_text for {'str': 'mutant power armor (active)', 'str_pl':
+#. 'mutant power armors (active)'}.
+#. ~ Use action menu_text for {'str': 'heavy power armor helmet (active)',
+#. 'str_pl': 'heavy power armor helmets (active)'}.
+#: .\Mutated_arsenal.json
+msgid "Turn off"
+msgstr "Выключить"
+
+#. ~ Use action msg for {'str': 'mutant power armor (active)', 'str_pl':
+#. 'mutant power armors (active)'}.
+#: .\Mutated_arsenal.json
+msgid "The %s disengages."
+msgstr "%s отключается."
+
+#. ~ Description for {'str': 'mutant power armor (active)', 'str_pl': 'mutant
+#. power armors (active)'}
+#: .\Mutated_arsenal.json
+msgid ""
+"A modified suit of DoubleTech Power Armor, Mk. II-H.Designed to be used with "
+"mutated anatomy in the _REDACTED_ project,it stayed a proof of concept since "
+"the _REDACTED_ lifecycle was too short.  It is currently turned on, activate "
+"it to turn it off."
+msgstr ""
+"Модифицированная силовая броня DoubleTech, Mk. II-H. Разработанная для "
+"использования с экзотической анатомией в проекте _REDACTED_, она так и "
+"осталась пробным вариантом, поскольку период существования _REDACTED_ был "
+"слишком мал. В настоящее время она включена, активируйте ее, чтобы выключить."
+
+#: .\Mutated_arsenal.json
+msgid "heavy power armor helmet"
+msgid_plural "heavy power armor helmets"
+msgstr[0] "шлем тяжелой силовой брони XL"
+msgstr[1] "шлема тяжелой силовой брони XL"
+msgstr[2] "шлемов тяжелой силовой брони XL"
+
+#. ~ Description for {'str': 'heavy power armor helmet'}
+#: .\Mutated_arsenal.json
+msgid ""
+"A power armor helmet designed for use with the modified DoubleTech Power "
+"Armor, Mk. II-H.Like its accompanying suit, it was never mass produced since "
+"the lifespan of _REDACTED_ soldiers was too short, so only the blueprints "
+"remained."
+msgstr ""
+"Шлем силовой брони, предназначенный для использования с модифицированной "
+"силовой броней DoubleTech Mk. II-H. Как и сопутствующий костюм, он никогда "
+"не производился серийно, поскольку срок службы солдат _REDACTED_ был слишком "
+"коротким, так что остались только чертежи."
+
+#: .\Mutated_arsenal.json
+msgid "heavy power armor helmet (active)"
+msgid_plural "heavy power armor helmets (active)"
+msgstr[0] "шлем тяжелой силовой брони XL (активно)"
+msgstr[1] "шлема тяжелой силовой брони XL (активно)"
+msgstr[2] "шлемов тяжелой силовой брони XL (активно)"
+
+#. ~ Use action msg for {'str': 'heavy power armor helmet (active)', 'str_pl':
+#. 'heavy power armor helmets (active)'}.
+#: .\Mutated_arsenal.json
+msgid "The %s powers down."
+msgstr "%s отключается."
+
+#. ~ Description for {'str': 'heavy power armor helmet (active)', 'str_pl':
+#. 'heavy power armor helmets (active)'}
+#: .\Mutated_arsenal.json
+msgid ""
+"A power armor helmet designed for use with the modified DoubleTech Power "
+"Armor, Mk. II-H.Like its accompanying suit, it was never mass produced since "
+"the lifespan of _REDACTED_ soldiers was too short, so only the blueprints "
+"remained ."
+msgstr ""
+"Шлем силовой брони, предназначенный для использования с модифицированной "
+"силовой броней DoubleTech Mk. II-H. Как и сопутствующий костюм, он никогда "
+"не производился серийно, поскольку срок службы солдат _REDACTED_ был слишком "
+"коротким, так что остались только чертежи."
+
+#: .\modinfo.json
+msgid "Alexs Mutant Power Armor"
+msgstr "Mutant Power Armor"
+
+#. ~ Description for Alexs Mutant Power Armor
+#: .\modinfo.json
+msgid ""
+"Adds Power Armor usable by all mutations lines, to make mutations a little "
+"less suckier"
+msgstr ""
+"Добавляет силовую броню, которую можно использовать со всеми мутациями, "
+"чтобы сделать путь мутаций немного менее отстойными"

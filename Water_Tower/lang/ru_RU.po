@@ -1,0 +1,44 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: water_towers\n"
+"POT-Creation-Date: 2023-12-03 12:01+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\modinfo.json
+msgid "Water Towers"
+msgstr "Водонапорные башни"
+
+#. ~ Description for Water Towers
+#: .\modinfo.json
+msgid "Adds empty water towers.  Underground tank connects to subway tunnels."
+msgstr "Добавляет пустые водонапорные башни.  Подземный резервуар соединяется с туннелями метро."
+
+#: .\overmap_terrain.json
+msgid "water_tower"
+msgstr "водонапорная башня"
+
+#: .\start_locations.json
+msgid "Water Tower"
+msgstr "Водонапорная башня"
+
+#: .\terrain.json
+msgid "metal floor"
+msgstr "металлический пол"
+
+#. ~ Description for metal floor
+#: .\terrain.json
+msgid "High-quality and tough checkered flooring to reduce risk of slips and falls."
+msgstr "Качественное и прочное клетчатое напольное покрытие снижает риск поскользнуться и упасть."
+
+# звук
+#: .\terrain.json
+msgid "thump"
+msgstr "стук"

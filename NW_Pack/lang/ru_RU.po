@@ -1,0 +1,128 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nw_pack\n"
+"POT-Creation-Date: 2023-12-06 23:19+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\modinfo.json
+msgid "Mythological Replicas"
+msgstr "Мифологические копии"
+
+#. ~ Description for Mythological Replicas
+#: .\modinfo.json
+msgid "Adds recipes for replicas of mythological weapons."
+msgstr "Добавляет рецепты копий мифологического оружия."
+
+# Сомнение
+#: .\nw_archery.json
+msgid "Ichaival"
+msgid_plural "Ichaivals"
+msgstr[0] "ихайвал"
+msgstr[1] "ихайвла"
+msgstr[2] "ихайвлов"
+
+#: .\nw_archery.json
+msgid ""
+"This is a replica of the bow possessed by Odin, Ichaival, which is rumored "
+"to fire 10 arrows with every pull of the string.  It has gold and silver "
+"ornaments on it."
+msgstr ""
+"Это копия лука Ихайвал, которым владел Один, и который, по слухам, выпускает "
+"10 стрел при каждом натяжении тетивы. Украшен золотыми и серебряными "
+"орнаментами."
+
+#: .\nw_books.json
+msgid "The Weapons of Asgard"
+msgid_plural "copies of The Weapons of Asgard"
+msgstr[0] "книга \"Оружие Асгарда\""
+msgstr[1] "книги \"Оружие Асгарда\""
+msgstr[2] "книг \"Оружие Асгарда\""
+
+#. ~ Description for {'str': 'The Weapons of Asgard', 'str_pl': 'copies of The
+#. Weapons of Asgard'}
+#: .\nw_books.json
+msgid ""
+"This book is about creating replicas of the weapons used by the Norse Gods, "
+"such as the well-known Mjölnir.  It is well illustrated with lots of "
+"pictures."
+msgstr ""
+"Эта книга рассказывает о создании копий оружия, которым пользовались "
+"норвежские боги, например, знаменитого Мьёльнира.  Книга хорошо оформлена и "
+"содержит множество изображений."
+
+#: .\nw_martialarts.json
+msgid "Medieval Swordsmanship"
+msgstr "Средневековый бой на мечах"
+
+#: .\nw_martialarts.json
+msgid "Ninjutsu"
+msgstr "Ниндзюцу"
+
+#: .\nw_martialarts.json
+msgid "Silat"
+msgstr "Силат"
+
+#: .\nw_martialarts.json
+msgid "Sojutsu"
+msgstr "Содзюцу"
+
+#: .\nw_melee.json
+msgid "Mjölnir"
+msgid_plural "Mjölnirs"
+msgstr[0] "мьёльнир"
+msgstr[1] "мьёльнира"
+msgstr[2] "мьёльниров"
+
+#. ~ Description for {'str': 'Mjölnir'}
+#: .\nw_melee.json
+msgid ""
+"A replica of Mjölnir, the hammer of Thor.  It is rumored to be able to level "
+"mountains with a single blow.  It is decorated with gold and silver "
+"ornaments."
+msgstr ""
+"Точная копия Мьёльнира, молота Тора. По слухам, он способен одним ударом "
+"сравнять горы с землей. Украшен золотыми и серебряными орнаментами."
+
+#: .\nw_melee.json
+msgid "Gungnir"
+msgid_plural "Gungnirs"
+msgstr[0] "гунгнир"
+msgstr[1] "гунгнира"
+msgstr[2] "гунгниров"
+
+#. ~ Description for {'str': 'Gungnir'}
+#: .\nw_melee.json
+msgid ""
+"A replica of Gungnir, the spear of Odin.  It is rumored to be the perfect "
+"spear, perfectly hitting any target regardless of the wielder's strength or "
+"skill.  It is decorated with gold and silver ornaments."
+msgstr ""
+"Точная копия Гунгнира, копья Одина. По слухам, это совершенное копье, "
+"идеально поражающее любую цель, независимо от силы и мастерства владельца. "
+"Украшен золотыми и серебряными орнаментами."
+
+#: .\nw_melee.json
+msgid "Laevateinn"
+msgid_plural "Laevateinns"
+msgstr[0] "лаэватейнн"
+msgstr[1] "лаэватейнна"
+msgstr[2] "лаэватейннов"
+
+#. ~ Description for {'str': 'Laevateinn'}
+#: .\nw_melee.json
+msgid ""
+"A replica of Laevateinn, the sword of Freyr.  It is rumored to be able to "
+"fight by itself.  It is decorated with gold and silver ornaments."
+msgstr ""
+"Точная копия Лаэватейнна, меча Фрейра. По слухам, он может сражаться сам по "
+"себе. Украшен золотыми и серебряными орнаментами."

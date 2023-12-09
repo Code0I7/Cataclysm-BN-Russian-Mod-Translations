@@ -1,0 +1,124 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: trailerpark\n"
+"POT-Creation-Date: 2023-12-03 23:31+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\modinfo.json
+msgid "Trailer Parks"
+msgstr "Трейлерные парки"
+
+#. ~ Description for Trailer Parks
+#: .\modinfo.json
+msgid "Adds Trailer Parks and pre-built trailers."
+msgstr "Добавляет трейлерные парки и готовые трейлеры."
+
+#: .\overmap_terrain.json
+msgid "trailer park"
+msgstr "трейлерный парк"
+
+#: .\overmap_terrain.json
+msgid "trailer park storage"
+msgstr "хранилище трейлерного парка"
+
+#: .\overmap_terrain.json
+msgid "reclaimed trailer park"
+msgstr "восстановленный трейлерный парк"
+
+#: .\vehicle_bandit.json
+msgid "Bandit Trailer"
+msgstr "Бандитский трейлер"
+
+#: .\vehicle_trailers.json
+msgid "House Trailer"
+msgstr "Трейлер дом"
+
+#: .\vehicle_trailers2.json
+msgid "Small Trailer"
+msgstr "Маленький трейлер"
+
+#: .\bandits\TALK_BERZERKER.json
+msgid "What is this place?"
+msgstr "Что это за место?"
+
+#: .\bandits\TALK_BERZERKER.json
+msgid "Who are you?"
+msgstr "Кто вы?"
+
+#: .\bandits\TALK_BERZERKER.json
+msgid "Some third thing."
+msgstr "Что-то еще."
+
+#: .\bandits\TALK_BERZERKER.json
+msgid "None of your goddamn business, that's what it is."
+msgstr "Не твое собачье дело, вот что это."
+
+#: .\bandits\TALK_BERZERKER.json
+msgid "Damn..."
+msgstr "Чёрт..."
+
+#: .\bandits\TALK_BERZERKER.json
+msgid "I'm the one that's going to end you."
+msgstr "Я тот, кто собирается покончить с тобой."
+
+#: .\bandits\TALK_BERZERKER.json
+msgid "Go ahead and try..."
+msgstr "Попробуй..."
+
+#: .\bandits\TALK_BERZERKER.json
+msgid "Yeah."
+msgstr "Ага."
+
+#: .\bandits\TALK_BERZERKER.json
+msgid "What..."
+msgstr "Что..."
+
+#: .\bandits\TALK_BERZERKER.json
+msgid "Nah, mate..."
+msgstr "Не, приятель..."
+
+#: .\bandits\classes.json
+msgid "Berzerker"
+msgstr "Берсерк"
+
+#: .\bandits\classes.json
+msgid "BUG? You shouldn't be able to talk to them."
+msgstr "БАГ? Вы не должны были разговаривать со мной"
+
+#: .\bandits\classes.json
+msgid "Militia King"
+msgstr "Король боевиков"
+
+#: .\bandits\classes.json
+msgid "BUG? You shouldn't be able to talk to me."
+msgstr "БАГ? Вы не должны были разговаривать со мной"
+
+# Копы это или ополоченцы
+#: .\bandits\factions.json
+msgid "Corrupt Militia"
+msgstr "Продажные копы"
+
+#. ~ Description for Corrupt Militia
+#: .\bandits\factions.json
+msgid ""
+"A berserk militia group that turned their skills to causing mayhem after the "
+"cataclysm, calling themselves the Main Force Patrol."
+msgstr ""
+"Группа копов-берсерков, которые после катаклизма занялись наведением порядка "
+"и назвали себя Патрулем Главных Сил."
+
+#: .\bandits\npc.json
+msgid "Militia Berzerker"
+msgstr "Коп-берсерк"
+
+#: .\bandits\npc.json
+msgid "Roland Croninger"
+msgstr "Роланд Кронингер"

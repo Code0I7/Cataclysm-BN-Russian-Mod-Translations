@@ -1,0 +1,387 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: more_survive_notes\n"
+"POT-Creation-Date: 2023-12-04 07:40+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\modinfo.json
+msgid "More Survivor Notes"
+msgstr "Больше заметок выживших"
+
+#. ~ Description for More Survivor Notes
+#: .\modinfo.json
+msgid "Adds more survivor notes for hints for new players."
+msgstr ""
+"Добавляет больше заметок выживших в качестве подсказок для новых игроков."
+
+#: .\snippets.json
+msgid ""
+"\"Killed my best friend yesterday, I can't beleive the world has come to "
+"this.\""
+msgstr ""
+"\"Вчера убили моего лучшего друга, я не могу поверить, что мир дошел до "
+"такого\""
+
+#: .\snippets.json
+msgid ""
+"\"Lindsay, meet us at Jason's house. Jason, the nut that he is, is going to "
+"set it on fire at midnight before we all make a break for it. He's convinced "
+"the monsters aren't afraid of fire, but DRAWN to it. If it works it's at "
+"least going to make one giant distraction. Let's hope it'll clear the entire "
+"block.\""
+msgstr ""
+"\"Линдси, встретимся у дома Джейсона. Джейсон, как чокнутый, собирается "
+"поджечь его в полночь, прежде чем мы все бросимся бежать. Он уверен, что "
+"монстры не боятся огня, а притягиваются к нему. Если это сработает, то, по "
+"крайней мере, станет гигантским отвлекающим маневром. Будем надеяться, что "
+"это очистит весь квартал\""
+
+#: .\snippets.json
+msgid ""
+"\"Jason, get all the dryfood out of the kitchen before you... burn "
+"everything. And stuff your belly full of anything that's going to go bad "
+"soon. -Mom\""
+msgstr ""
+"\"Джейсон, убери все сухие продукты с кухни, пока ты... не сжег все. И набей "
+"свой живот всем, что скоро испортится. -Мама\""
+
+#: .\snippets.json
+msgid ""
+"\"...and remember: Do the math. Your life depends on it. If you have 30 "
+"rounds in a rifle, you can take down maybe 10 zombies with it if you're a "
+"good shot... and lucky. Can you kill one of those things with 3 rounds?\""
+msgstr ""
+"\"...и помните: Делайте расчеты. От этого зависит ваша жизнь. Если у вас "
+"есть 30 патронов в винтовке, вы сможете завалить ими, возможно, 10 зомби, "
+"если вы хороший стрелок... и удачливый. Сможете ли вы убить одну из этих "
+"тварей тремя патронами?\""
+
+#: .\snippets.json
+msgid ""
+"\"Dad said something about a bear trap and a tear gas grenade. I... I think "
+"he's going to trap and gas that freak moose out on the street. It'll give us "
+"meat for weeks if we use the dehydrator. He hasn't come back though...\""
+msgstr ""
+"\"Папа сказал что-то про медвежий капкан и гранату со слезоточивым газом. "
+"Я... Я думаю, он собирается заманить в ловушку и отравить газом того уродца "
+"лося на улице. Это даст нам мясо на несколько недель, если мы воспользуемся "
+"дегидратором. Но он еще не вернулся...\""
+
+#: .\snippets.json
+msgid ""
+"\"Honey, we're going to hole up in the garage for a day before we make a "
+"break for it out of the city. If we try to plow through the horde, I fear "
+"the car won't stand ten seconds. I'm going to move the engine to the back, "
+"and maybe the fuel tank too... add some plating to the front... Maybe "
+"reinforce the windows. The modifications are going to take at least a day. "
+"Find my caffeine pills. I may not get any sleep in the next 36 hours.\""
+msgstr ""
+"\"Дорогая, мы собираемся затаиться в гараже на день, прежде чем рванем из "
+"города. Если мы попытаемся прорваться сквозь орду, боюсь, машина не выдержит "
+"и десяти секунд. Я собираюсь перенести двигатель в заднюю часть, и, "
+"возможно, топливный бак тоже... добавить немного обшивки спереди... Может "
+"быть, усилю окна. На все переделки уйдет не меньше дня. Найдите мои таблетки "
+"кофеина. Мне, возможно, не удастся поспать в ближайшие 36 часов\""
+
+#: .\snippets.json
+msgid ""
+"\"Remember to carry some desinfectant. I ran out, a lighter and a knife had "
+"to do in a pinch.\""
+msgstr ""
+"\"Не забудьте взять с собой дезинфицирующее средство. У меня закончилось, "
+"пришлось брать зажигалку и нож - в крайнем случае\""
+
+#: .\snippets.json
+msgid ""
+"\"[Part of the note is unintelligible] ... I believe these things can't see "
+"well at night either. If you're quiet you might just pass a horde.\""
+msgstr ""
+"\"[Часть записки неразборчива] ... Полагаю, эти твари плохо видят и ночью. "
+"Если вы будете вести себя тихо, то можете проскочить мимо орды\""
+
+#: .\snippets.json
+msgid "\"I doubt they can smell anything if you light some tires on fire\""
+msgstr ""
+"\"Сомневаюсь, что они смогут что-то учуять, если вы подожжете несколько шин\""
+
+#: .\snippets.json
+msgid ""
+"\"Remember when I told you about that moose coming right at me last year? "
+"Try shouting at them\""
+msgstr ""
+"\"Помнишь, я рассказывал тебе о лосе, который в прошлом году шел прямо на "
+"меня? Попробуй покричать на такого\""
+
+#: .\snippets.json
+msgid ""
+"\"Look, I know they look like kids, but you gotta take 'em out. You'll get "
+"used to it, just like I have. Remember, those things aren't human anymore.\""
+msgstr ""
+"\"Слушай, я знаю, что они выглядят как дети, но ты должен их уничтожить. Ты "
+"привыкнешь к этому, как и я. Помни, эти твари больше не люди\""
+
+#: .\snippets.json
+msgid ""
+"\"Always plan ahead, never sleep in a place that has only one exit. Lost a "
+"good friend to a bad decision.\""
+msgstr ""
+"\"Всегда планируйте все заранее, никогда не спите в местах, где есть только "
+"один выход. Я потерял хорошего друга из-за неверного выбора\""
+
+#: .\snippets.json
+msgid ""
+"\"If you're planning on using a building for a temporary stash, might be a "
+"good idea to open and close the windows. Sure, having unlocked windows might "
+"seem unsafe, but if I'm trying to sneak back in while some Zed's are "
+"wandering near the door, you'll thank me later for the quiet entrance.\""
+msgstr ""
+"\"Если вы планируете использовать здание для временного тайника, не помешает "
+"держать окна открытыми. Конечно, незапертые окна могут показаться "
+"небезопасными, но если я попытаюсь пробраться обратно, пока несколько тварей "
+"будут бродить возле двери, вы потом поблагодарите меня за тихий вход\""
+
+#: .\snippets.json
+msgid ""
+"It reads 'Mama always used to say life was like a box of chocolates, "
+"sometimes it gives you radiation poisoning.'"
+msgstr ""
+"Надпись гласит: \"Мама всегда говорила, что жизнь - как коробка конфет, "
+"иногда от нее случается радиационное отравление\""
+
+#: .\snippets.json
+msgid ""
+"It reads 'I don't know if we each have a destiny, or if we're all just "
+"floatin' around accidental-like on a breeze, but I, I think maybe it's both. "
+"Maybe both is happenin' at the same time. I mid'ha ate too many of them "
+"hallucina'gan mushroms.'"
+msgstr ""
+"Надпись гласит: \"Я не знаю, есть ли у каждого из нас своя судьба, или мы "
+"все просто плывем по течению, как случайный ветерок, но я думаю, что, "
+"возможно, это и то и другое. Может, и то, и другое происходит одновременно. "
+"Я съел слишком много этих галлюцинаторных грибов\""
+
+#: .\snippets.json
+msgid ""
+"It reads 'I swear I am not drunk, but I just saw a bear riding a motorcycle.'"
+msgstr ""
+"Надпись гласит: \"Клянусь, я не пьян, но я только что видел медведя на "
+"мотоцикле\""
+
+#: .\snippets.json
+msgid ""
+"It reads 'Heard noises outside.  Saw giant scrapheap move by.  Not going "
+"out, nope, never.'"
+msgstr ""
+"Надпись гласит: \"Слышал шум снаружи. Видел, как мимо проносится гигантский "
+"мусор. Я не выйду, нет, никогда\""
+
+#: .\snippets.json
+msgid ""
+"It reads 'I thought it was a zombie, but there was this thing in the "
+"distance, looked like nothing but metal parts stuck together.  A zombie "
+"attacked it and it spewed lightning all over, then sprouted blades and "
+"minced it.  Not going out, nuh uh.'"
+msgstr ""
+"Надпись гласит: \"Я подумал, что это зомби, но вдалеке показалось нечто, "
+"похожее на соединенные вместе металлические куски. Зомби напал на него, и "
+"оно извергло молнию, а затем пронзило лезвиями и разрубило его.  Я не "
+"собираюсь выходить, не-а\""
+
+#: .\snippets.json
+msgid "It reads 'Why are their so many fucking giant spiders?'"
+msgstr "Надпись гласит: \"Почему здесь так много гигантских пауков?\""
+
+#: .\snippets.json
+msgid "It reads 'Partake of the fruit, eat the seed, accept the sap'"
+msgstr "Надпись гласит: \"Примите плод, съешьте семя, выпейте сок\""
+
+#: .\snippets.json
+msgid ""
+"It reads 'I saw a rock moving, I took out my blood draw kit then drew blood "
+"from it.  Fuck you Vicesimus Knox!'"
+msgstr ""
+"Надпись гласит: \"Я увидел, что камень движется, достал свой набор для "
+"взятия крови и взял у него кровь. Иди ты к черту, Вицезимус Нокс!\""
+
+#: .\snippets.json
+msgid ""
+"It reads 'I knew I shoulda killed that spider in the basement.  Now there is "
+"a mob of giant spiders.  Fuck this place.'"
+msgstr ""
+"Надпись гласит: \"Я знал, что должен был убить того паука в подвале. Теперь "
+"здесь толпа гигантских пауков. К черту это место\""
+
+#: .\snippets.json
+msgid "It reads 'Do not go in the fucking basement my dude.'"
+msgstr "Надпись гласит: \"Не заходи в этот гребаный подвал, чувак\""
+
+#: .\snippets.json
+msgid "It reads 'It reads 'Call me at: 0406 650 430''"
+msgstr "Надпись гласит: \"Позвоните мне по тел: 0406 650 430''"
+
+#: .\snippets.json
+msgid "It reads 'Fuck, I don't think this bug spray is going to work.'"
+msgstr "Надпись гласит: \"Черт, не думаю, что этот спрей от клопов сработает\""
+
+#: .\snippets.json
+msgid ""
+"It reads 'Those spores don't burn, but the rest of the mushrooms sure as "
+"Hell do.'"
+msgstr "Надпись гласит: \"Эти споры не горят, но остальные грибы точно горят\""
+
+#: .\snippets.json
+msgid ""
+"It reads 'I saw some naked guy try to fistfight a hulk the other day. He "
+"died, but someone who looked EXACTLY like him came by 5 minutes later "
+"attempting the same exact thing. What the hell's going on there?'"
+msgstr ""
+"Надпись гласит: \"На днях я видел, как какой-то голый парень пытался "
+"сразиться с халком. Он умер, но через 5 минут пришел кто-то, выглядящий "
+"ТОЧНО так же, как он, и попытался сделать то же самое. Что, черт возьми, там "
+"происходит?"
+
+#: .\snippets.json
+msgid ""
+"It reads 'If by all laws of aviation a normal bee shouldn’t be able to fly, "
+"then how the fuck does a giant one?'"
+msgstr ""
+"Надпись гласит: \"Если по всем законам авиации обычная пчела не должна уметь "
+"летать, то как, черт возьми, это удается гигантской пчеле?\""
+
+#: .\snippets.json
+msgid ""
+"It reads 'There was a turret on the corner yesterday.  I watched fifty "
+"people who looked the same run right up to it yelling \"SHOOT ME BITCH!\" "
+"before the last one punched it and died when it exploded.  Not five minutes "
+"later, another ran through the intersection like he knew it was safe.'"
+msgstr ""
+"Надпись гласит: \"Вчера на углу стояла турель. Я видел, как пятьдесят "
+"человек, выглядевших одинаково, подбежали к ней с криками \"Стреляй в меня, "
+"сука!\", пока последний из них не ударил по ней и не умер, когда она "
+"взорвалась.  Не прошло и пяти минут, как еще один пробежал через "
+"перекресток, словно знал, что здесь безопасно\""
+
+#: .\snippets.json
+msgid ""
+"It reads 'I keep having the same dream over and over: here I am slaughtering "
+"this electrified zombie, heaps of flesh gouged out, putrified goo and parts "
+"filling my hands, slopping against my clothes and face. I can feel the sweat "
+"pouring down my cheeks and my back, and every time I pull out some sort of "
+"burnt out bionic. Sometimes I find a battery, or if I'm really lucky, I'll "
+"find some really extravagant gizmo and I wake up from the dream.'"
+msgstr ""
+"Надпись гласит: \"Мне снова и снова снится один и тот же сон: вот я убиваю "
+"этого наэлектризованного зомби, кучи вырванной плоти, гнилостная слизь и "
+"частички наполняют мои руки, липнут к одежде и лицу. Я чувствую, как пот "
+"льется по щекам и спине, и каждый раз вытаскиваю какой-нибудь сгоревший КБМ. "
+"Иногда я нахожу батарейку, а если мне очень повезет, я найду какую-нибудь "
+"экстравагантную штуковину и проснусь ото сна\""
+
+#: .\snippets.json
+msgid "It reads 'My mama always used to says \"stupid is as stupid does.\"'"
+msgstr ""
+"Надпись гласит: \"Моя мама всегда говорила: Глупость - это то, что делает "
+"глупый\""
+
+#: .\snippets.json
+msgid ""
+"It reads 'There was a man who I met today, he told me his name was Forest.  "
+"He talked funny, just after we got acquainted a group of people on bikes "
+"came by and he started a' runnin'.  I don't know why but I got this urge to "
+"yell, so I did. I yelled \"Run Forest! Run!\" at the top of my lungs.  Just "
+"then after I finished yellin' I saw one of them pull out a rifle of sorts "
+"and shoot his right in the ass, I heard him yell \"Somethin' dun' jumped up "
+"and bit me!\".  That was the last I saw of that man, but to this day if I "
+"ever see someone a runnin' I get up and shout \"Run Forest! Run!\" like "
+"something just comes over me...' [There seems to be more writing but the "
+"rest of the paper is shredded]"
+msgstr ""
+"Надпись гласит: \"Сегодня я познакомился с одним человеком, он сказал мне, "
+"что его зовут Форрест. Он забавно говорил, и сразу после того, как мы "
+"познакомились, мимо проехала группа людей на велосипедах, и он начал бежать. "
+"Не знаю почему, но мне захотелось закричать, и я это сделал. Я закричал "
+"\"Беги, Форрест! Беги!\" во всю мощь своих легких. Как раз после того, как я "
+"закончил кричать, я увидел, как один из них достал что-то вроде винтовки и "
+"выстрелил ему прямо в задницу, я услышал, как он кричит: \"Какой-то дурень "
+"подпрыгнул и укусил меня!\". Это был последний раз, когда я видел этого "
+"человека, но по сей день, если я вижу, что кто-то бежит, я встаю и кричу "
+"\"Беги, Форрест! Беги!\", как будто на меня что-то нашло... [Кажется, есть "
+"еще надпись, но остатки бумаги уничтожены]\""
+
+#: .\snippets.json
+msgid ""
+"It reads 'I was a chattin' with a man a whiles ago, he was a nic-a person.  "
+"Then these people on bikes came and chased after me, I rans and rans but "
+"then I felt somethin' a jump up and bite me, I yelled about it to. That nic "
+"man was rootin for me-I think. He'd a yell \"Run Forest! Run, and never stop "
+"a-runnin\". ' [It seems like a page out of a diary, but the rest unlegible.]"
+msgstr ""
+"Надпись гласит: \"Не так давно я болтал с одним человеком, он был очень "
+"милым. Потом приехали эти люди на велосипедах и погнались за мной, я бежал и "
+"бежал, но потом почувствовал, как что-то подпрыгнуло и укусило меня, я "
+"закричал об этом. Я думаю, этот человек болел за меня. Он кричал: \"Беги, "
+"Форрест! Беги, и никогда не останавливайся\" [Это похоже на страницу из "
+"дневника, но остальное неразборчиво]"
+
+#: .\snippets.json
+msgid ""
+"It reads 'I used to be in the army.  The Army was real easy. You just have "
+"to stand up straight, make your bed real neat, and always answer every "
+"question with \"Yes, Drill Seargent!\".'"
+msgstr ""
+"Надпись гласит: \"Я служил в армии. В армии все было очень просто. Нужно "
+"только стоять прямо, аккуратно заправлять постель и всегда отвечать на все "
+"вопросы - Да, сержант!\""
+
+#: .\snippets.json
+msgid ""
+"It reads 'There was a man, he was protestin' this war with China.  He'd "
+"always be yellin' and-a using the \"F\" word, and every time he did a crowd "
+"of people would whistle and a-clap for him.'"
+msgstr ""
+"Надпись гласит: \"Жил один человек, он протестовал против войны с Китаем. Он "
+"постоянно кричал и употреблял слово на букву \"Ф\", и каждый раз, когда он "
+"это делал, толпа людей свистела и хлопала ему\""
+
+#: .\snippets.json
+msgid ""
+"It seems to be half of a diary entry. It reads '... But in the army we were "
+"always takin' long walks and we were always lookin' for a guy named Charlie?'"
+msgstr ""
+"Похоже, это половина записи из дневника. Она гласит: \"... Но в армии мы "
+"всегда совершали долгие прогулки и всегда искали парня по имени Чарли?\""
+
+#: .\snippets.json
+msgid ""
+"It seems to be a diary entry. It reads 'When I joined the army I had to get "
+"up on this a-bus, I walked up to the driver and said \"My name'sa Forrest "
+"Gump!\". He said to me in a loud voice, \"Nobody gives a hunky shit who you "
+"are, pus ball. You're not even a low-life, scum-sucking maggot. Get your ass "
+"on the bus, you're in the army now!\" He was a nice man, he always yelled a "
+"lot thoug.'"
+msgstr ""
+"Похоже, это запись из дневника. Она гласит: \"Когда я пошел в армию, мне "
+"нужно было сесть в автобус, я подошел к водителю и сказал: \"Меня зовут "
+"Форрест Гамп!\". Он ответил мне громким голосом: \"Да всем плевать, кто ты "
+"такой, гнойный болван. Ты даже не ничтожество, отброс, сосущий личинку. Тащи "
+"свою задницу в автобус, ты теперь в армии!\" Он был хорошим человеком, но "
+"всегда много кричал\""
+
+# Креветочного?
+#: .\snippets.json
+msgid ""
+"It seems to be a diary entry. It reads 'In the army I used to have a friend "
+"named Bubba, he wanted to be a shrimp boat captian.  Instead he died right "
+"there by the ocean over in China'"
+msgstr ""
+"Похоже, это запись из дневника. Она гласит: \"В армии у меня был друг по "
+"имени Бубба, он хотел стать капитаном креветочного судна. Вместо этого он "
+"умер прямо на берегу океана в Китае\""

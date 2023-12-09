@@ -1,0 +1,136 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: XEAS\n"
+"POT-Creation-Date: 2023-12-04 06:56+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\Bag.json
+msgid "xeas bag"
+msgid_plural "xeas bags"
+msgstr[0] "сумка XEAS"
+msgstr[1] "сумки XEAS"
+msgstr[2] "сумок XEAS"
+
+#. ~ Description for {'str': 'xeas bag'}
+#: .\Bag.json
+msgid "Small lace bag. But large inside!"
+msgstr "Маленькая сумочка из номекса. Но большая внутри!"
+
+#: .\Boot.json
+msgid "pair of xeas boot"
+msgid_plural "pairs of xeas boots"
+msgstr[0] "пара ботинок XEAS"
+msgstr[1] "пары ботинок XEAS"
+msgstr[2] "пар ботинок XEAS"
+
+#. ~ Description for {'str': 'pair of xeas boot', 'str_pl': 'pairs of xeas
+#. boots'}
+#: .\Boot.json
+msgid "A pair of experimental mix multilayer boots."
+msgstr "Пара многослойных ботинок из экспериментальных материалов."
+
+#: .\Gloves.json
+msgid "pair of xeas gloves"
+msgid_plural "pairs of xeas gloves"
+msgstr[0] "пара перчаток XEAS"
+msgstr[1] "пары перчаток XEAS"
+msgstr[2] "пар перчаток XEAS"
+
+#. ~ Description for {'str': 'pair of xeas gloves', 'str_pl': 'pairs of xeas
+#. gloves'}
+#: .\Gloves.json
+msgid "A pair of xeas experimental mix multilayer gloves."
+msgstr ""
+"Пара многослойных перчаток из различных экспериментальных материалов."
+
+#: .\Helmet.json
+msgid "xeas helmet"
+msgid_plural "xeas helmets"
+msgstr[0] "шлем XEAS"
+msgstr[1] "шлема XEAS"
+msgstr[2] "шлемов XEAS"
+
+#. ~ Description for {'str': 'xeas helmet'}
+#: .\Helmet.json
+msgid "A experimental mix multilayer helmet."
+msgstr "Многослойный шлем из различных экспериментальных материалов."
+
+#: .\Mask.json
+msgid "xeas mask"
+msgid_plural "xeas masks"
+msgstr[0] "маска XEAS"
+msgstr[1] "маски XEAS"
+msgstr[2] "масок XEAS"
+
+# Возможно "активировать"
+#. ~ Description for xeas mask
+#: .\Mask.json
+msgid ""
+"A experimental, mix multilayer reinforced gas mask. Provides excellent "
+"protection from smoke, teargas, and claws. It must be prepared before use."
+msgstr ""
+"Многослойный усиленный противогаз из различных экспериментальных "
+"материалов. Обеспечивает отличную защиту от дыма, слезоточивого газа и "
+"когтей. Перед использованием его необходимо подготовить."
+
+#: .\Suit.json
+msgid "xeas suit"
+msgid_plural "xeas suits"
+msgstr[0] "костюм XEAS"
+msgstr[1] "костюма XEAS"
+msgstr[2] "костюмов XEAS"
+
+#. ~ Description for {'str': 'xeas suit'}
+#: .\Suit.json
+msgid ""
+"A lightweight, experimental mix multilayer armor made from. Protects from "
+"the elements as well as from harm."
+msgstr ""
+"Легкая многослойная броня из различных экспериментальных материалов. "
+"Защищает как от окружающей среды, так и от физических повреждений."
+
+#: .\Weapon.json
+msgid "xeas knife"
+msgid_plural "xeas knives"
+msgstr[0] "нож XEAS"
+msgstr[1] "ножа XEAS"
+msgstr[2] "ножей XEAS"
+
+#. ~ Description for {'str': 'xeas knife', 'str_pl': 'xeas knives'}
+#: .\Weapon.json
+msgid ""
+"Ultra hi-tech, ultra light experimental knife. Does never get damaged when "
+"used as melee weapon."
+msgstr ""
+"Сверхвысокотехнологичный, сверхлегкий экспериментальный нож. Никогда не "
+"повреждается при использовании в качестве оружия ближнего боя."
+
+#: .\modinfo.json
+msgid "XEAS"
+msgstr ""
+
+#. ~ Description for XEAS
+#: .\modinfo.json
+msgid ""
+"Add new Xeno-Adapted Stuff. Close to hi-tech content. Includ armor set "
+"(slightly better protection than survival armor, less encumbrance), new "
+"knife (better butchering, impression damage) and vortex bag (120 L, tiny "
+"size, no encumbrance). Craft recipes in vanilla lab journal. High price. "
+"Late game content!"
+msgstr ""
+"Добавляет новые Ксено-Адаптированные вещи. Контент, максимально "
+"приближенный к высокотехнологичному. Комплект брони (защита чуть лучше, "
+"чем у брони выживальщика, меньше стестения), новый нож (отличная разделка, "
+"впечатляющий урон) и вихревая сумка (120 л, крошечный размер, не "
+"сковывает). Рецепты крафта в ванильном лабораторном журнале. Высокая "
+"стоимость создания. Эндгейм контент!"

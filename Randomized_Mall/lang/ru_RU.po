@@ -1,0 +1,101 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: randomized_mall\n"
+"POT-Creation-Date: 2023-12-03 11:17+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\items.json
+msgid "shopping brochure"
+msgid_plural "shopping brochures"
+msgstr[0] "торговая брошюра"
+msgstr[1] "торговые брошюры"
+msgstr[2] "торговых брошюр"
+
+#. ~ Use action message for {'str': 'shopping brochure'}.
+#: .\items.json
+msgid "You add the mall to your map."
+msgstr "Вы добавляете торговый центр на свою карту."
+
+#. ~ Description for {'str': 'shopping brochure'}
+#: .\items.json
+msgid ""
+"This is a brochure advertising a local shopping mall.  It includes a map "
+"with bus routes.  The buses aren't running but the roads should still be "
+"there."
+msgstr ""
+"Это брошюра, рекламирующая местный торговый центр.  В ней есть карта с "
+"маршрутами автобусов.  Автобусы не ходят, но дороги должны быть на месте."
+
+#: .\modinfo.json
+msgid "Randomized Mall"
+msgstr "Рандомизированный Торговый Центр"
+
+# "планирование" - план здания
+#. ~ Description for Randomized Mall
+#: .\modinfo.json
+msgid ""
+"Replaces the existing mall with one having a randomized layout.  Less "
+"realistic looking but more variety."
+msgstr ""
+"Заменяет существующий торговый центр на торговый центр со случайным "
+"планированием. Выглядит менее реалистично, но зато больше разнообразия."
+
+#: .\overmap_terrain.json
+msgid "parking lot"
+msgstr "парковка"
+
+#: .\overmap_terrain.json
+msgid "shopping mall"
+msgstr "торговый центр"
+
+#. ~ Name for scenario 'Mall Cop' for a male character
+#: .\scenario.json
+msgctxt "scenario_male"
+msgid "Mall Cop"
+msgstr "Полицейский торгового центра"
+
+#. ~ Name for scenario 'Mall Cop' for a female character
+#: .\scenario.json
+msgctxt "scenario_female"
+msgid "Mall Cop"
+msgstr "Полицейский торгового центра"
+
+#. ~ Description for scenario 'Mall Cop' for a male character.
+#: .\scenario.json
+msgctxt "scen_desc_male"
+msgid ""
+"You've survived for as long as you could inside of the mall you worked at as "
+"a security guard.  Find a way out and try your best to survive."
+msgstr ""
+"Вы выжили в торговом центре, где работали охранником.  Найдите выход и "
+"постарайтесь выжить."
+
+#. ~ Description for scenario 'Mall Cop' for a female character.
+#: .\scenario.json
+msgctxt "scen_desc_female"
+msgid ""
+"You've survived for as long as you could inside of the mall you worked at as "
+"a security guard.  Find a way out and try your best to survive."
+msgstr ""
+"Вы выжили в торговом центре, где работали охранником.  Найдите выход и "
+"постарайтесь выжить."
+
+#. ~ Starting location for scenario 'Mall Cop'.
+#: .\scenario.json
+msgctxt "start_name"
+msgid "Mall"
+msgstr "Торговый центр"
+
+#: .\start_locations.json
+msgid "Shopping Mall"
+msgstr "Торговый центр"

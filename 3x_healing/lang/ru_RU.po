@@ -1,0 +1,22 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 3x_healing\n"
+"POT-Creation-Date: 2023-12-03 10:14+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\modinfo.json
+msgid "3x Healing"
+msgstr "3x Лечение"
+
+#. ~ Description for 3x Healing
+#: .\modinfo.json
+msgid "Triples base healing rate."
+msgstr "В три раза увеличивает базовый уровень лечения."

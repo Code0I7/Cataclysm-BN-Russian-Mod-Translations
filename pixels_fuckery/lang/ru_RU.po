@@ -1,0 +1,329 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Pix's Shit\n"
+"POT-Creation-Date: 2023-12-05 04:53+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\martialarts.json
+msgid "Sojutsu"
+msgstr "Содзюцу"
+
+#: .\modinfo.json
+msgid "Pixel's Various Fuckery"
+msgstr ""
+
+#. ~ Description for Pixel's Various Fuckery
+#: .\modinfo.json
+msgid ""
+"Adds additional unique post-threshold mutations, various recipes for "
+"weapons.  Slightly risqué but safe for work, no worse than vibrators and "
+"gimp suits!@#"
+msgstr ""
+"Добавляет дополнительные уникальные постпороговые мутации, различные рецепты "
+"для оружия.  Слегка откровенно, но безопасно для работы (SFW), не хуже "
+"вибраторов и латексных костюмов!"
+
+#: .\pix_item.json
+msgid "pistol grip"
+msgid_plural "pistol grips"
+msgstr[0] "пистолетная рукоятка"
+msgstr[1] "пистолетные рукоятки"
+msgstr[2] "пистолетных рукояток"
+
+#: .\pix_item.json
+msgid ""
+"A rough plastic cap that replaces the stock if ya saw it off.  Which you "
+"will.  Because it's badass and makes shit tiny."
+msgstr ""
+"Шероховатая пластиковая насадка, которая заменяет запасную, если вы ее "
+"отпилите.  Что вы и сделаете.  Потому что это круто и делает оружие "
+"миниатюрным."
+
+#: .\pix_item.json
+msgid "stock"
+msgstr "склад"
+
+#: .\pix_item.json
+msgid "short barrel"
+msgid_plural "short barrels"
+msgstr[0] "короткий ствол"
+msgstr[1] "коротких ствола"
+msgstr[2] "коротких стволов"
+
+#: .\pix_item.json
+msgid ""
+"A replacement barrel that shortens the firearms length considerably, but not "
+"to the same extent as sawing off the barrel.  As such, it doesn't affect the "
+"handling as much."
+msgstr ""
+"Сменный ствол, который значительно укорачивает длину оружия, но не "
+"настолько, как отпиливание ствола.  Таким образом, это не так сильно влияет "
+"на удобство использования."
+
+#: .\pix_item.json
+msgid "barrel"
+msgstr "ствол"
+
+#: .\pix_item.json
+msgid "XL ANBC suit"
+msgid_plural "XL ANBC suits"
+msgstr[0] "костюм ОЗК XL"
+msgstr[1] "костюма ОЗК XL"
+msgstr[2] "костюмов ОЗК XL"
+
+#. ~ Description for {'str': 'XL ANBC suit'}
+#: .\pix_item.json
+msgid ""
+"An armored, impermeable full-body suit that functions as body armor, as well "
+"as protecting from nuclear, biological, and chemical hazards.  This one has "
+"been modified to comfortably fit those with exotic anatomy, for the careful "
+"mutant."
+msgstr ""
+"Бронированный, непроницаемый костюм на все тело, выполняющий функции "
+"бронежилета, а также защищающий от ядерных, биологических и химических "
+"угроз. Этот костюм был модифицирован для удобства людей с экзотической "
+"анатомией, для бережливых мутантов."
+
+#: .\pix_item.json
+msgid "aluminum nail bat"
+msgid_plural "aluminum nail bats"
+msgstr[0] "алюминиевая бита с гвозьдями"
+msgstr[1] "алюминиевые биты с гвозьдями"
+msgstr[2] "алюминиевых бит с гвозьдями"
+
+#. ~ Description for {'str': 'aluminum nail bat'}
+#: .\pix_item.json
+msgid ""
+"An aluminum baseball bat with several nails driven through it, an excellent "
+"melee weapon."
+msgstr ""
+"Алюминиевая бейсбольная бита с несколькими вбитыми в нее гвоздями - отличное "
+"оружие ближнего боя."
+
+#: .\pix_item.json
+msgid "aluminum barbed wire bat"
+msgid_plural "aluminum barbed wire bats"
+msgstr[0] "алюминиевая бита с колючей проволокой"
+msgstr[1] "алюминиевые биты с колючей проволокой"
+msgstr[2] "алюминиевых бит с колючей проволокой"
+
+#. ~ Description for {'str': 'aluminum barbed wire bat'}
+#: .\pix_item.json
+msgid ""
+"An aluminum baseball bat wrapped with barbed wire.  A brutal melee weapon."
+msgstr ""
+"Алюминиевая бейсбольная бита, обмотанная колючей проволокой. Жестокое оружие "
+"ближнего боя."
+
+#: .\pix_item.json
+msgid "aluminum Louisville Slaughterer"
+msgid_plural "aluminum Louisville Slaughterers"
+msgstr[0] "алюминиевая бита с тряпкой"
+msgstr[1] "алюминиевые биты с тряпкой"
+msgstr[2] "алюминиевых бит с тряпкой"
+
+#. ~ Use action menu_text for {'str': 'aluminum Louisville Slaughterer'}.
+#: .\pix_item.json
+msgid "Light"
+msgstr "Поджечь"
+
+#. ~ Use action msg for {'str': 'aluminum Louisville Slaughterer'}.
+#: .\pix_item.json
+msgid "You light the Aluminum Louisville Slaughterer."
+msgstr "Вы поджигаете алюминиевую биту с тряпкой."
+
+#. ~ Description for {'str': 'aluminum Louisville Slaughterer'}
+#: .\pix_item.json
+msgid ""
+"This is a sturdy aluminum bat, wrapped in gasoline-soaked rags.  Light it, "
+"and the ball game will REALLY heat up.  You'll need a lighter or matches to "
+"light it."
+msgstr ""
+"Это прочная алюминиевая бита, обмотанная пропитанной бензином тряпкой. "
+"Зажгите ее, и игра в мяч действительно станет жаркой. Чтобы зажечь ее, вам "
+"понадобится зажигалка или спички."
+
+#: .\pix_item.json
+msgid "aluminum Louisville Slaughterer (lit)"
+msgid_plural "aluminum Louisville Slaughterers (lit)"
+msgstr[0] "алюминиевая бита с тряпкой (горит)"
+msgstr[1] "алюминиевые биты с тряпкой (горит)"
+msgstr[2] "алюминиевых бит с тряпкой (горит)"
+
+#. ~ Description for {'str': 'aluminum Louisville Slaughterer (lit)',
+#. 'str_pl': 'aluminum Louisville Slaughterers (lit)'}
+#: .\pix_item.json
+msgid ""
+"This is a sturdy aluminum bat, wrapped in gasoline-soaked rags.  It is "
+"burning brightly, and makes it much easier to see the baselines at night "
+"games (It also makes the umpire FAR more likely to call a ball instead of a "
+"strike)."
+msgstr ""
+"Прочная алюминиевая бита, обмотанная пропитанными бензином тряпками.  Она "
+"ярко горит и значительно облегчает видимость линии поля во время ночных игр."
+
+#: .\pix_item.json
+msgid "burnt out aluminum Louisville Slaughterer"
+msgid_plural "burnt out aluminum Louisville Slaughterers"
+msgstr[0] "прогоревшая алюминиевая бита"
+msgstr[1] "прогоревшие алюминиевые биты"
+msgstr[2] "прогоревших алюминиевых бит"
+
+#. ~ Description for {'str': 'burnt out aluminum Louisville Slaughterer'}
+#: .\pix_item.json
+msgid ""
+"A sturdy aluminum bat.  Makes a good melee weapon but better be disassembled "
+"to recycle the baseball bat and get rid of those nasty burnt rags."
+msgstr ""
+"Прочная алюминиевая бита.  Хорошее оружие ближнего боя, но лучше разобрать, "
+"чтобы избавиться от этих мерзких жженых тряпок."
+
+#: .\pix_item.json
+msgid "dildo"
+msgid_plural "dildos"
+msgstr[0] "дилдо"
+msgstr[1] "дилдо"
+msgstr[2] "дилдо"
+
+#. ~ Description for {'str': 'dildo', 'str_pl': 'dildos'}
+#: .\pix_item.json
+msgid ""
+"Well now. That's just obscene.  It's got some heft to it, though, so you "
+"could use it as a weapon.  Freak.  Thanks to a handy dandy suction cup on "
+"the bottom, it could also be used to 'relieve some stress.'"
+msgstr ""
+"Что ж. Это просто неприлично. Однако он имеет некоторую тяжесть, так что его "
+"можно использовать как оружие. Фрик. Благодаря удобной присоске на дне, его "
+"можно использовать для \"снятия стресса\"."
+
+#: .\pix_item.json
+msgid "aluminum chain-wrapped bat"
+msgid_plural "aluminum chain-wrapped bats"
+msgstr[0] "алюминиевая бита с цепью"
+msgstr[1] "алюминиевые биты с цепью"
+msgstr[2] "алюминиевых бит с цепью"
+
+#. ~ Description for {'str': 'aluminum chain-wrapped bat'}
+#: .\pix_item.json
+msgid ""
+"An aluminum baseball bat wrapped with a steel chain.  A perfect skull "
+"cracker."
+msgstr ""
+"Алюминиевая бейсбольная бита, обмотанная стальной цепью. Прекрасный "
+"крушитель черепов."
+
+#: .\pix_item.json
+msgid "chain-wrapped bat"
+msgid_plural "chain-wrapped bats"
+msgstr[0] "бита с цепью"
+msgstr[1] "биты с цепью"
+msgstr[2] "бит с цепью"
+
+#. ~ Description for {'str': 'chain-wrapped bat'}
+#: .\pix_item.json
+msgid "A baseball bat wrapped with a steel chain.  A perfect skull cracker."
+msgstr ""
+"Бейсбольная бита, обмотанная стальной цепью. Прекрасный крушитель черепов."
+
+#: .\pix_item.json
+msgid "unpasturized milk"
+msgid_plural "unpasturized milks"
+msgstr[0] "непастеризованное молоко"
+msgstr[1] "непастеризованного молока"
+msgstr[2] "непастеризованного молока"
+
+#. ~ Description for {'str': 'unpasturized milk'}
+#: .\pix_item.json
+msgid ""
+"Raw, unpasturized milk- straight from your own teets.  You hold it very "
+"precariously in your own hands to prevent spillage.  It's probably best to "
+"pasturize this before drinking it, yuck."
+msgstr ""
+"Сырое, непастеризованное молоко - прямо из ваших собственных сосков.  Вы "
+"очень осторожно держите его в руках, чтобы не пролить.  Наверное, лучше "
+"пастеризовать его перед употреблением, фу."
+
+#: .\pix_mutation.json
+msgid "Milkable"
+msgstr "Вымя"
+
+#. ~ Description for {'str': 'Milkable'}
+#: .\pix_mutation.json
+msgid "You've got a set of udders down below.  Activate for fresh milk."
+msgstr "Снизу у вас есть вымя.  Активируйте, чтобы получить свежее молоко."
+
+#: .\pix_mutation.json
+msgid "You milk yourself. Moo."
+msgstr "Вы сами себя доите. Муу."
+
+# орган
+#: .\pix_mutation.json
+msgid "Oviparous"
+msgstr "Яицеклад"
+
+#. ~ Description for {'str': 'Oviparous'}
+#: .\pix_mutation.json
+msgid ""
+"Your reproductive and digestive organs became those of an egg-laying "
+"reptile, at certain times you just feel the urge to lay an egg.  Activate to "
+"lay an egg."
+msgstr ""
+"Ваши репродуктивные и пищеварительные органы превратились в органы рептилии, "
+"откладывающей яйца, и в определенные моменты вы просто испытываете желание "
+"отложить яйцо. Активируйте, чтобы отложить яйцо."
+
+#: .\pix_mutation.json
+msgid "You lay an egg. you release a pleased hiss."
+msgstr "Вы откладываете яйцо. Вы издаете довольное шипение."
+
+#. ~ Description for {'str': 'Oviparous'}
+#: .\pix_mutation.json
+msgid ""
+"Your reproductive and digestive organs became those of an Avian, at certain "
+"times you just feel the urge to lay an egg.  Activate to lay an egg."
+msgstr ""
+"Ваши репродуктивные и пищеварительные органы превратились в органы птицы, и "
+"в определенные моменты вы просто чувствуете желание отложить яйцо. "
+"Активируйте, чтобы отложить яйцо."
+
+#: .\pix_mutation.json
+msgid "You lay an egg. you release a pleased chirp."
+msgstr "Вы откладываете яйцо. Вы издаете довольное щебетание."
+
+#. ~ Description for {'str': 'Oviparous'}
+#: .\pix_mutation.json
+msgid ""
+"Your reproductive and digestive organs became those of an fish, at certain "
+"times you just feel the urge to lay an roe.  Activate to lay an roe."
+msgstr ""
+"Ваши репродуктивные и пищеварительные органы превратились в органы рыбы, и в "
+"определенные моменты вы просто испытываете желание отложить икру.  "
+"Активируйте, чтобы отложить икру."
+
+#: .\pix_mutation.json
+msgid "you lay a mass of roe. Blub Blub"
+msgstr "Вы откладываете множество икринок. Буль буль."
+
+#. ~ Description for {'str': 'Oviparous'}
+#: .\pix_mutation.json
+msgid ""
+"Your reproductive and digestive organs became those of an spider, at certain "
+"times you just feel the urge to lay an egg.  Activate to lay an egg."
+msgstr ""
+"Ваши репродуктивные и пищеварительные органы превратились в органы паука, и "
+"в определенные моменты вы просто испытываете желание отложить яйцо. "
+"Активируйте, чтобы отложить яйцо."
+
+#: .\pix_mutation.json
+msgid "You wiggle your rear in excitement! You lay an slimy egg."
+msgstr "Вы виляете задом от возбуждения! Вы откладываете склизкое яйцо."

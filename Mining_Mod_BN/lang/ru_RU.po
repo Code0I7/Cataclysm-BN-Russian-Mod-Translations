@@ -1,0 +1,381 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Mining_Mod\n"
+"POT-Creation-Date: 2023-12-03 11:27+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\construction_group.json
+msgid "Make Stone Anvil"
+msgstr "Сделать каменную наковальню"
+
+#: .\construction_group.json
+msgid "Extract Black Sand"
+msgstr "Очистить черный песок"
+
+#: .\furniture.json
+msgid "stone anvil"
+msgstr "каменная наковальня"
+
+#. ~ Description for stone anvil
+#: .\furniture.json
+msgid "A anvil, it looks rock solid"
+msgstr "Наковальня, она выглядит прочной"
+
+# Звук
+#: .\furniture.json
+msgid "smash!"
+msgstr "крушение!"
+
+# Звук
+#: .\furniture.json
+msgid "thump."
+msgstr "глухой удар."
+
+#: .\items.json
+msgid "chunk of native copper"
+msgid_plural "chunks of native copper"
+msgstr[0] "кусок самородной меди"
+msgstr[1] "куска самородной меди"
+msgstr[2] "кусков самородной меди"
+
+#. ~ Description for {'str': 'chunk of native copper', 'str_pl': 'chunks of
+#. native copper'}
+#: .\items.json
+msgid ""
+"A large chunk of copper, in its native state.  It only needs to be worked "
+"into a more usable shape."
+msgstr ""
+"Большой кусок самородной меди  Его нужно только обработать, чтобы придать "
+"ему более удобную форму."
+
+#: .\items.json
+msgid "chunk of native silver"
+msgid_plural "chunks of native silver"
+msgstr[0] "кусок самородного серебра"
+msgstr[1] "куска самородного серебра"
+msgstr[2] "кусков самородного серебра"
+
+#. ~ Description for {'str': 'chunk of native silver', 'str_pl': 'chunks of
+#. native silver'}
+#: .\items.json
+msgid ""
+"A large chunk of silver, in its native state.  It only needs to be molded "
+"into a more usable shape."
+msgstr ""
+"Большой кусок самородного серебра.  Его нужно только отлить, чтобы придать "
+"ему более удобную форму."
+
+#: .\items.json
+msgid "chunk of native gold"
+msgid_plural "chunks of native gold"
+msgstr[0] "кусок самородного золота"
+msgstr[1] "куска самородного золота"
+msgstr[2] "кусков самородного золота"
+
+#. ~ Description for {'str': 'chunk of native gold', 'str_pl': 'chunks of
+#. native gold'}
+#: .\items.json
+msgid ""
+"A large chunk of native gold, a rare find.  It only needs to be molded into "
+"a more usable shape."
+msgstr ""
+"Большой кусок самородного золота, редкая находка.  Его нужно только отлить, "
+"чтобы придать ему более удобную форму."
+
+#: .\items.json
+msgid "chunk of native aluminum"
+msgid_plural "chunks of native aluminum"
+msgstr[0] "кусок самородного алюминия"
+msgstr[1] "куска самородного алюминия"
+msgstr[2] "кусков самородного алюминия"
+
+#. ~ Description for {'str': 'chunk of native aluminum', 'str_pl': 'chunks of
+#. native aluminum'}
+#: .\items.json
+msgid ""
+"A large chunk of native aluminum, which would have been priceless before "
+"other ways to obtain aluminum were invented.  It needs to be cast into an "
+"ingot."
+msgstr ""
+"Большой кусок самородного алюминия, который был бы бесценен до того, как "
+"были изобретены другие способы его получения.  Его необходимо отлить в "
+"слиток."
+
+#: .\items.json
+msgid "chunk of cassiterite"
+msgid_plural "chunks of cassiterite"
+msgstr[0] "кусок касситерита"
+msgstr[1] "куска касситерита"
+msgstr[2] "кусков касситерита"
+
+#. ~ Description for {'str': 'chunk of cassiterite', 'str_pl': 'chunks of
+#. cassiterite'}
+#: .\items.json
+msgid ""
+"A large chunk of cassiterite, an ore of tin.  It only needs to be smelted "
+"into a usable form."
+msgstr ""
+"Большой кусок оловянной руды - касситерита.  Его нужно только переплавить в "
+"пригодную для использования форму."
+
+#: .\items.json
+msgid "chunk of galena"
+msgid_plural "chunks of galena"
+msgstr[0] "кусок галенита"
+msgstr[1] "куска галенита"
+msgstr[2] "кусков галенита"
+
+#. ~ Description for {'str': 'chunk of galena', 'str_pl': 'chunks of galena'}
+#: .\items.json
+msgid ""
+"A large chunk of galena, a lead ore with small amounts of silver.  It only "
+"needs to be smelted into a usable form."
+msgstr ""
+"Большой кусок галенита, свинцовой руды с небольшим количеством серебра.  Ее "
+"нужно только переплавить в пригодную для использования форму."
+
+#: .\items.json
+msgid "chunk of hematite"
+msgid_plural "chunks of hematite"
+msgstr[0] "кусок гематита"
+msgstr[1] "куска гематита"
+msgstr[2] "кусков гематита"
+
+#. ~ Description for {'str': 'chunk of hematite', 'str_pl': 'chunks of
+#. hematite'}
+#: .\items.json
+msgid ""
+"A large chunk of hematite, an ore of iron.  It only needs to be smelted into "
+"a usable form."
+msgstr ""
+"Большой кусок гематита, железной руды.  Ее нужно только переплавить в "
+"пригодную для использования форму."
+
+#: .\items.json
+msgid "copper pickaxe"
+msgid_plural "copper pickaxes"
+msgstr[0] "медная кирка"
+msgstr[1] "медные кирки"
+msgstr[2] "медных кирок"
+
+#. ~ Description for {'str': 'copper pickaxe'}
+#: .\items.json
+msgid ""
+"This is a handmade copper pickaxe, suitable for breaking up hard things or "
+"(with enough skill) hard targets.  Strike the earth!"
+msgstr ""
+"Это медная кирка ручной работы, подходящая для разбивания твердых предметов "
+"или (при достаточной сноровке) твердых целей.  Ударьте землю!"
+
+# "костная"?
+#: .\items.json
+msgid "bone pickaxe"
+msgid_plural "bone pickaxes"
+msgstr[0] "костяная кирка"
+msgstr[1] "костяные кирки"
+msgstr[2] "костяных кирок"
+
+#. ~ Description for {'str': 'bone pickaxe'}
+#: .\items.json
+msgid ""
+"This is a primitive pickaxe, traditionally made from antler or bone, and "
+"fire-hardened for greater hardness.  It will wear out with use, but still "
+"suitable for striking the earth."
+msgstr ""
+"Это примитивная кирка, традиционно изготавливаемая из оленьего рога или "
+"костей за счет закалки огнем для большей твердости.  С течением времени она "
+"изнашивается, но все еще пригодна для нанесения ударов о землю."
+
+#: .\items.json
+msgid "leveled boulder anvil"
+msgid_plural "leveled boulder anvils"
+msgstr[0] "наковальня из выровненного валуна"
+msgstr[1] "наковальни из выровненного валуна"
+msgstr[2] "наковален из выровненного валуна"
+
+#: .\items.json .\terrain.json
+msgid "black sand"
+msgid_plural "black sand"
+msgstr[0] "чёрный песок"
+msgstr[1] "чёрного песка"
+msgstr[2] "чёрного песка"
+
+#. ~ Description for {'str_sp': 'black sand'}
+#: .\items.json
+msgid ""
+"A handful of sand, rich with minerals eroded from a deposit somewhere "
+"upstream.  Not as useful in this state, but might be a source of magnetite."
+msgstr ""
+"Горсть песка, богатого минералами, вымытыми из месторождения где-то выше по "
+"течению.  Не так полезен в таком состоянии, но может быть источником "
+"магнетита."
+
+#: .\modinfo.json
+msgid "Mining Mod"
+msgstr ""
+
+#. ~ Description for Mining Mod
+#: .\modinfo.json
+msgid ""
+"Adds mineral veins randomly found underground, to obtain various natural "
+"resources."
+msgstr ""
+"Добавляет минеральные жилы, случайно расположенные под землей, для получения "
+"различных природных ресурсов."
+
+#: .\overmap_terrain.json
+msgid "mineral vein"
+msgstr "минеральная жила"
+
+#: .\overmap_terrain.json
+msgid "mineral vein?"
+msgstr "минеральная жила?"
+
+#: .\overmap_terrain.json
+msgid "field?"
+msgstr "поле?"
+
+#: .\overmap_terrain.json
+msgid "forest?"
+msgstr "лес?"
+
+#: .\overmap_terrain.json
+msgid "swamp?"
+msgstr "болото?"
+
+#: .\overmap_terrain.json
+msgid "alluvial deposit"
+msgstr "россыпное месторождение"
+
+#: .\terrain.json
+msgid "bituminous coal"
+msgstr "каменный уголь"
+
+#. ~ Description for bituminous coal
+#: .\terrain.json
+msgid "A vein of soft coal."
+msgstr "Жила каменного угля."
+
+# Звук
+#: .\terrain.json
+msgid "crash!"
+msgstr "треск!"
+
+# Звук
+#: .\terrain.json
+msgid "whump!"
+msgstr "хлюп!"
+
+#: .\terrain.json
+msgid "halite"
+msgstr "каменная соль"
+
+#. ~ Description for halite
+#: .\terrain.json
+msgid "A vein of salt."
+msgstr "Жила соли."
+
+#: .\terrain.json
+msgid "niter"
+msgstr "селитра"
+
+#. ~ Description for niter
+#: .\terrain.json
+msgid "A vein of saltpeter."
+msgstr "Жила селитры."
+
+#: .\terrain.json
+msgid "brimstone"
+msgstr "сера"
+
+#. ~ Description for brimstone
+#: .\terrain.json
+msgid "A vein of sulfur."
+msgstr "Серная жила."
+
+#: .\terrain.json
+msgid "native copper"
+msgstr "самородная медь"
+
+#. ~ Description for native copper
+#: .\terrain.json
+msgid "A vein of copper."
+msgstr "Медная жила."
+
+#: .\terrain.json
+msgid "native silver"
+msgstr "самородное серебро"
+
+#. ~ Description for native silver
+#: .\terrain.json
+msgid "A vein of silver."
+msgstr "Серебряная жила."
+
+#: .\terrain.json
+msgid "native gold"
+msgstr "самородное золото"
+
+#. ~ Description for native gold
+#: .\terrain.json
+msgid "A glittering vein of gold."
+msgstr "Сверкающая золотая жила."
+
+#: .\terrain.json
+msgid "native alumimum"
+msgstr "самородный алюминий"
+
+#. ~ Description for native alumimum
+#: .\terrain.json
+msgid "A vein of alumimum."
+msgstr "Жила алюминия."
+
+#: .\terrain.json
+msgid "cassiterite"
+msgstr "касситерит"
+
+#. ~ Description for cassiterite
+#: .\terrain.json
+msgid "A deposit of cassiterite."
+msgstr "Месторождение касситерита."
+
+#: .\terrain.json
+msgid "galena"
+msgstr "галенит"
+
+#. ~ Description for galena
+#: .\terrain.json
+msgid "A deposit of galena."
+msgstr "Месторождение галенита."
+
+#: .\terrain.json
+msgid "hematite"
+msgstr "гематит"
+
+#. ~ Description for hematite
+#: .\terrain.json
+msgid "A deposit of hematite."
+msgstr "Месторождение гематита."
+
+#. ~ Description for black sand
+#: .\terrain.json
+msgid ""
+"A patch of dark, heavy sand that could be quite useful, if it was extracted "
+"properly."
+msgstr ""
+"Россыпь темного, тяжелого песка, который может оказаться весьма полезным, "
+"если его правильно добыть."
+
+# Звук
+#: .\terrain.json
+msgid "thump"
+msgstr "стук"

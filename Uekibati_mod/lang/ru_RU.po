@@ -1,0 +1,1346 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Uekibati_mod\n"
+"POT-Creation-Date: 2023-12-07 06:37+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Code0I7\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\melee.json
+msgid "Flower Pot"
+msgid_plural "Flower Pots"
+msgstr[0] "цветочный горшок"
+msgstr[1] "цветочных горшка"
+msgstr[2] "цветочных горшков"
+
+#. ~ Description for {'str': 'Flower Pot', 'str_pl': 'Flower Pots'}
+#: .\melee.json
+msgid "This is a flower pot made of clay. It is big enough for most crops."
+msgstr "Это цветочный горшок из глины. Он достаточно большой для большинства культур."
+
+#: .\melee.json
+msgid "Flower Pot(growing tomato)"
+msgid_plural "Flower Pots(growing tomatoes)"
+msgstr[0] "цветочный горшок (растущие томаты)"
+msgstr[1] "цветочных горшка (растущие томаты)"
+msgstr[2] "цветочных горшков (растущие томаты)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing tomato)', 'str_pl':
+#. 'Flower Pots(growing tomatoes)'}.
+#: .\melee.json
+msgid "Tomatoes are ready to harvest!"
+msgstr "Томаты готовы к сбору!"
+
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing tomato)',
+#. 'str_pl': 'Flower Pots(growing tomatoes)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing broccoli)',
+#. 'str_pl': 'Flower Pots(growing broccoli)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing zucchini)',
+#. 'str_pl': 'Flower Pots(growing zucchini)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing onion)',
+#. 'str_pl': 'Flower Pots(growing onion)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing garlic)',
+#. 'str_pl': 'Flower Pots(growing garlic)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing carrot)',
+#. 'str_pl': 'Flower Pots(growing carrot)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing corn)',
+#. 'str_pl': 'Flower Pots(growing corn)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing oats)',
+#. 'str_pl': 'Flower Pots(growing oats)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing beans)',
+#. 'str_pl': 'Flower Pots(growing beans)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing potato)',
+#. 'str_pl': 'Flower Pots(growing potatoes)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing cucumber)',
+#. 'str_pl': 'Flower Pots(growing cucumber)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing celery)',
+#. 'str_pl': 'Flower Pots(growing celery)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing thyme)',
+#. 'str_pl': 'Flower Pots(growing thyme)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing canola)',
+#. 'str_pl': 'Flower Pots(growing canola)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing dogbane)',
+#. 'str_pl': 'Flower Pots(growing dogbane)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing bee balm)',
+#. 'str_pl': 'Flower Pots(growing bee balm)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing mugwort)',
+#. 'str_pl': 'Flower Pots(growing mugwort)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing buckwheat)',
+#. 'str_pl': 'Flower Pots(growing buckwheat)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing wild herbs)',
+#. 'str_pl': 'Flower Pots(growing wild herbs)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing wild veggies)',
+#. 'str_pl': 'Flower Pots(growing wild veggies)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing dandelion)',
+#. 'str_pl': 'Flower Pots(growing dandelion)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing rhubarb)',
+#. 'str_pl': 'Flower Pots(growing rhubarb)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing mushrooms)',
+#. 'str_pl': 'Flower Pots(growing mushrooms)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing dry rice)',
+#. 'str_pl': 'Flower Pots(growing dry rice)'}.
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing coffee beans)',
+#. 'str_pl': 'Flower Pots(growing coffee beans)'}.
+#: .\melee.json
+msgid "It is growing quickly."
+msgstr "Растет быстро."
+
+#. ~ Description for {'str': 'Flower Pot(growing tomato)', 'str_pl': 'Flower
+#. Pots(growing tomatoes)'}
+#: .\melee.json
+msgid "This is a flower pot growing tomatoes"
+msgstr "В этом цветочном горшке растут томаты."
+
+#: .\melee.json
+msgid "Flower Pot(tomato)"
+msgid_plural "Flower Pots(tomatoes)"
+msgstr[0] "цветочный горшок (томаты)"
+msgstr[1] "цветочных горшка (томаты)"
+msgstr[2] "цветочных горшков (томаты)"
+
+#. ~ Description for {'str': 'Flower Pot(tomato)', 'str_pl': 'Flower
+#. Pots(tomatoes)'}
+#: .\melee.json
+msgid "This is a flower pot containing a ready to harvest tomato."
+msgstr "Это цветочный горшок, в котором находится готовые к сбору томаты."
+
+#: .\melee.json
+msgid "Flower Pot(growing blueberries)"
+msgid_plural "Flower Pots(growing blueberries)"
+msgstr[0] "цветочный горшок (растущая черника)"
+msgstr[1] "цветочных горшка (растущая черника)"
+msgstr[2] "цветочных горшков (растущая черника)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing blueberries)', 'str_pl':
+#. 'Flower Pots(growing blueberries)'}.
+#: .\melee.json
+msgid "The blueberries are ready to harvest."
+msgstr "Черника готова к сбору."
+
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing blueberries)',
+#. 'str_pl': 'Flower Pots(growing blueberries)'}.
+#: .\melee.json
+msgid "The blueberries are growing quickly."
+msgstr "Черника растет быстро."
+
+#. ~ Description for {'str': 'Flower Pot(growing blueberries)', 'str_pl':
+#. 'Flower Pots(growing blueberries)'}
+#: .\melee.json
+msgid "This is a flower pot growing blueberries."
+msgstr "В этом цветочном горшке растет черника."
+
+#: .\melee.json
+msgid "Flower Pot(blueberries)"
+msgid_plural "Flower Pots(blueberries)"
+msgstr[0] "цветочный горшок (черника)"
+msgstr[1] "цветочных горшка (черника)"
+msgstr[2] "цветочных горшков (черника)"
+
+#. ~ Description for {'str': 'Flower Pot(blueberries)', 'str_pl': 'Flower
+#. Pots(blueberries)'}
+#: .\melee.json
+msgid "This is a flower pot containing ready to harvest blueberries."
+msgstr "Это цветочный горшок, в котором находится готовая к сбору черника."
+
+#: .\melee.json
+msgid "Flower Pot(growing strawberries)"
+msgid_plural "Flower Pots(growing strawberries)"
+msgstr[0] "цветочный горшок (растущая клубника)"
+msgstr[1] "цветочных горшка (растущая клубника)"
+msgstr[2] "цветочных горшков (растущая клубника)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing strawberries)', 'str_pl':
+#. 'Flower Pots(growing strawberries)'}.
+#: .\melee.json
+msgid "The strawberries are ready to harvest."
+msgstr "Клубника готова к сбору."
+
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing strawberries)',
+#. 'str_pl': 'Flower Pots(growing strawberries)'}.
+#: .\melee.json
+msgid "The strawberries are growing quickly."
+msgstr "Клубника растет быстро."
+
+#. ~ Description for {'str': 'Flower Pot(growing strawberries)', 'str_pl':
+#. 'Flower Pots(growing strawberries)'}
+#: .\melee.json
+msgid "This is a flower pot growing strawberries."
+msgstr "В этом цветочном горшке растет клубника."
+
+#: .\melee.json
+msgid "Flower Pot(strawberries)"
+msgid_plural "Flower Pots(strawberries)"
+msgstr[0] "цветочный горшок (клубника)"
+msgstr[1] "цветочных горшка (клубника)"
+msgstr[2] "цветочных горшков (клубника)"
+
+#. ~ Description for {'str': 'Flower Pot(strawberries)', 'str_pl': 'Flower
+#. Pots(strawberries)'}
+#: .\melee.json
+msgid "This is a flower pot containing ready to harvest strawberries."
+msgstr "Это цветочный горшок, в котором находится готовая к сбору клубника."
+
+#: .\melee.json
+msgid "Flower Pot(growing blackberries)"
+msgid_plural "Flower Pots(growing blackberries)"
+msgstr[0] "цветочный горшок (растущая ежевика)"
+msgstr[1] "цветочных горшка (растущая ежевика)"
+msgstr[2] "цветочных горшков (растущая ежевика)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing blackberries)', 'str_pl':
+#. 'Flower Pots(growing blackberries)'}.
+#: .\melee.json
+msgid "The blackberries are ready to harvest."
+msgstr "Ежевика готова к сбору."
+
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing blackberries)',
+#. 'str_pl': 'Flower Pots(growing blackberries)'}.
+#: .\melee.json
+msgid "The blackberries are growing quickly."
+msgstr "Ежевика растет быстро."
+
+#. ~ Description for {'str': 'Flower Pot(growing blackberries)', 'str_pl':
+#. 'Flower Pots(growing blackberries)'}
+#: .\melee.json
+msgid "This is a flower pot growing blackberries."
+msgstr "В этом цветочном горшке растет ежевика."
+
+#: .\melee.json
+msgid "Flower Pot(blackberries)"
+msgid_plural "Flower Pots(blackberries)"
+msgstr[0] "цветочный горшок (ежевика)"
+msgstr[1] "цветочных горшка (ежевика)"
+msgstr[2] "цветочных горшков (ежевика)"
+
+#. ~ Description for {'str': 'Flower Pot(blackberries)', 'str_pl': 'Flower
+#. Pots(blackberries)'}
+#: .\melee.json
+msgid "This is a flower pot containing blackberries ready to harvest."
+msgstr "Это цветочный горшок, в котором находится готовая к сбору ежевика."
+
+#: .\melee.json
+msgid "Flower Pot(growing cranberries)"
+msgid_plural "Flower Pots(growing cranberries)"
+msgstr[0] "цветочный горшок (растущая клюква)"
+msgstr[1] "цветочных горшка (растущая клюква)"
+msgstr[2] "цветочных горшков (растущая клюква)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing cranberries)', 'str_pl':
+#. 'Flower Pots(growing cranberries)'}.
+#: .\melee.json
+msgid "The cranberries are ready to harvest."
+msgstr "Клюква готова к сбору."
+
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing cranberries)',
+#. 'str_pl': 'Flower Pots(growing cranberries)'}.
+#: .\melee.json
+msgid "The cranberries are growing quickly."
+msgstr "Клюква растет быстро."
+
+#. ~ Description for {'str': 'Flower Pot(growing cranberries)', 'str_pl':
+#. 'Flower Pots(growing cranberries)'}
+#: .\melee.json
+msgid "This is a flower pot growing cranberries."
+msgstr "В этом цветочном горшке растет клюква."
+
+#: .\melee.json
+msgid "Flower Pot(cranberries)"
+msgid_plural "Flower Pots(cranberries)"
+msgstr[0] "цветочный горшок (клюква)"
+msgstr[1] "цветочных горшка (клюква)"
+msgstr[2] "цветочных горшков (клюква)"
+
+#. ~ Description for {'str': 'Flower Pot(cranberries)', 'str_pl': 'Flower
+#. Pots(cranberries)'}
+#: .\melee.json
+msgid "This is a flower pot containing cranberries ready to harvest."
+msgstr "Это цветочный горшок, в котором находится готовая к сбору клюква."
+
+#: .\melee.json
+msgid "Flower Pot(growing raspberries)"
+msgid_plural "Flower Pots(growing raspberries)"
+msgstr[0] "цветочный горшок (растущая малина)"
+msgstr[1] "цветочных горшка (растущая малина)"
+msgstr[2] "цветочных горшков (растущая малина)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing raspberries)', 'str_pl':
+#. 'Flower Pots(growing raspberries)'}.
+#: .\melee.json
+msgid "The raspberries are ready to harvest."
+msgstr "Малина готова к сбору."
+
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing raspberries)',
+#. 'str_pl': 'Flower Pots(growing raspberries)'}.
+#: .\melee.json
+msgid "The raspberries are growing quickly."
+msgstr "Малина растет быстро."
+
+#. ~ Description for {'str': 'Flower Pot(growing raspberries)', 'str_pl':
+#. 'Flower Pots(growing raspberries)'}
+#: .\melee.json
+msgid "This is a flower pot growing raspberries."
+msgstr "В этом цветочном горшке растет малина."
+
+#: .\melee.json
+msgid "Flower Pot(raspberries)"
+msgid_plural "Flower Pots(raspberries)"
+msgstr[0] "цветочный горшок (малина)"
+msgstr[1] "цветочных горшка (малина)"
+msgstr[2] "цветочных горшков (малина)"
+
+#. ~ Description for {'str': 'Flower Pot(raspberries)', 'str_pl': 'Flower
+#. Pots(raspberries)'}
+#: .\melee.json
+msgid "This is a flower pot with raspberries ready to harvest."
+msgstr "Это цветочный горшок, в котором находится готовая к сбору малина."
+
+#: .\melee.json
+msgid "Flower Pot(growing wheat)"
+msgid_plural "Flower Pots(growing wheat)"
+msgstr[0] "цветочный горшок (растущая пшеница)"
+msgstr[1] "цветочных горшка (растущая пшеника)"
+msgstr[2] "цветочных горшков (растущая пшеница)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing wheat)', 'str_pl': 'Flower
+#. Pots(growing wheat)'}.
+#: .\melee.json
+msgid "The wheat is ready to harvest."
+msgstr "Пшеница готова к сбору."
+
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing wheat)',
+#. 'str_pl': 'Flower Pots(growing wheat)'}.
+#: .\melee.json
+msgid "The wheat is growing quickly."
+msgstr "Пшеница растет быстро."
+
+#. ~ Description for {'str': 'Flower Pot(growing wheat)', 'str_pl': 'Flower
+#. Pots(growing wheat)'}
+#: .\melee.json
+msgid "This is a flower pot growing wheat."
+msgstr "В этом цветочном горшке растет пшеница."
+
+#: .\melee.json
+msgid "Flower Pot(wheat)"
+msgid_plural "Flower Pots(wheat)"
+msgstr[0] "цветочный горшок (пшеница)"
+msgstr[1] "цветочных горшка (пшеница)"
+msgstr[2] "цветочных горшков (пшеница)"
+
+#. ~ Description for {'str': 'Flower Pot(wheat)', 'str_pl': 'Flower
+#. Pots(wheat)'}
+#: .\melee.json
+msgid "This is a flower pot with wheat ready to harvest."
+msgstr "Это цветочный горшок, в котором находится готовая к сбору пшеница."
+
+#: .\melee.json
+msgid "Flower Pot(growing hops)"
+msgid_plural "Flower Pots(growing hops)"
+msgstr[0] "цветочный горшок (растущий хмель)"
+msgstr[1] "цветочных горшка (растущий хмель)"
+msgstr[2] "цветочных горшков (растущий хмель)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing hops)', 'str_pl': 'Flower
+#. Pots(growing hops)'}.
+#: .\melee.json
+msgid "The hops are ready to harvest."
+msgstr "Хмель готов к сбору."
+
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing hops)',
+#. 'str_pl': 'Flower Pots(growing hops)'}.
+#: .\melee.json
+msgid "The hops are growing quickly."
+msgstr "Хмель растет быстро."
+
+#. ~ Description for {'str': 'Flower Pot(growing hops)', 'str_pl': 'Flower
+#. Pots(growing hops)'}
+#: .\melee.json
+msgid "This is a flower pot growing hops."
+msgstr "В этом цветочном горшке растет хмель."
+
+#: .\melee.json
+msgid "Flower Pot(hops)"
+msgid_plural "Flower Pots(hops)"
+msgstr[0] "цветочный горшок (хмель)"
+msgstr[1] "цветочных горшка (хмель)"
+msgstr[2] "цветочных горшков (хмель)"
+
+#. ~ Description for {'str': 'Flower Pot(hops)', 'str_pl': 'Flower
+#. Pots(hops)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest hops."
+msgstr "Это цветочный горшок, в котором находится готовый к сбору хмель."
+
+#: .\melee.json
+msgid "Flower Pot(growing barley)"
+msgid_plural "Flower Pots(growing barley)"
+msgstr[0] "цветочный горшок (растущий ячмень)"
+msgstr[1] "цветочных горшка (растущий ячмень)"
+msgstr[2] "цветочных горшков (растущий ячмень)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing barley)', 'str_pl':
+#. 'Flower Pots(growing barley)'}.
+#: .\melee.json
+msgid "The barley is ready to harvest."
+msgstr "Ячмень готов к сбору."
+
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing barley)',
+#. 'str_pl': 'Flower Pots(growing barley)'}.
+#: .\melee.json
+msgid "The barley is growing quickly."
+msgstr "Ячмень растет быстро."
+
+#. ~ Description for {'str': 'Flower Pot(growing barley)', 'str_pl': 'Flower
+#. Pots(growing barley)'}
+#: .\melee.json
+msgid "This is a flower pot growing barley."
+msgstr "В этом цветочном горшке растет ячмень."
+
+#: .\melee.json
+msgid "Flower Pot(barley)"
+msgid_plural "Flower Pots(barley)"
+msgstr[0] "цветочный горшок (ячмень)"
+msgstr[1] "цветочных горшка (ячмень)"
+msgstr[2] "цветочных горшков (ячмень)"
+
+#. ~ Description for {'str': 'Flower Pot(barley)', 'str_pl': 'Flower
+#. Pots(barley)'}
+#: .\melee.json
+msgid "This flower pot contains barley ready to harvest."
+msgstr "Это цветочный горшок, в котором находится готовый к сбору ячмень."
+
+#: .\melee.json
+msgid "Flower Pot(sugar beet)"
+msgid_plural "Flower Pots(sugar beet)"
+msgstr[0] "цветочный горшок (растущая сахарная свекла)"
+msgstr[1] "цветочных горшка (растущая сахарная свекла)"
+msgstr[2] "цветочных горшков (растущая сахарная свекла)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(sugar beet)', 'str_pl': 'Flower
+#. Pots(sugar beet)'}.
+#: .\melee.json
+msgid "The sugar beets are ready to harvest."
+msgstr "Сахарная свекла готова к сбору."
+
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(sugar beet)', 'str_pl':
+#. 'Flower Pots(sugar beet)'}.
+#: .\melee.json
+msgid "The sugar beets are growing quickly."
+msgstr "Свекла растет быстро."
+
+#. ~ Description for {'str': 'Flower Pot(sugar beet)', 'str_pl': 'Flower
+#. Pots(sugar beet)'}
+#: .\melee.json
+msgid "This flower pot contains growing sugar beets."
+msgstr "В этом цветочном горшке растет сахарная свекла."
+
+#: .\melee.json
+msgid "Flower Pot(sugar beets)"
+msgid_plural "Flower Pots(sugar beets)"
+msgstr[0] "цветочный горшок (сахарная свекла)"
+msgstr[1] "цветочных горшка (сахарная свекла)"
+msgstr[2] "цветочных горшков (сахарная свекла)"
+
+#. ~ Description for {'str': 'Flower Pot(sugar beets)', 'str_pl': 'Flower
+#. Pots(sugar beets)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest sugar beets."
+msgstr "Это цветочный горшок, в котором находится готовая к сбору сахарная свекла."
+
+#: .\melee.json
+msgid "Flower Pot(growing lettuce)"
+msgid_plural "Flower Pots(growing lettuce)"
+msgstr[0] "цветочный горшок (растущий салат-латук)"
+msgstr[1] "цветочных горшка (растущий салат-латук)"
+msgstr[2] "цветочных горшков (растущий салат-латук)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing lettuce)', 'str_pl':
+#. 'Flower Pots(growing lettuce)'}.
+#: .\melee.json
+msgid "The lettuce is ready to harvest."
+msgstr "Салат-латук готов к сбору."
+
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing lettuce)',
+#. 'str_pl': 'Flower Pots(growing lettuce)'}.
+#: .\melee.json
+msgid "The lettuce is growing quickly."
+msgstr "Салат-латук растет быстро."
+
+#. ~ Description for {'str': 'Flower Pot(growing lettuce)', 'str_pl': 'Flower
+#. Pots(growing lettuce)'}
+#: .\melee.json
+msgid "This flower pot contains growing lettuce."
+msgstr "В этом цветочном горшке растет салат-латук."
+
+#: .\melee.json
+msgid "Flower Pot(lettuce)"
+msgid_plural "Flower Pots(lettuce)"
+msgstr[0] "цветочный горшок (салат-латук)"
+msgstr[1] "цветочных горшка (салат-латук)"
+msgstr[2] "цветочных горшков (салат-латук)"
+
+#. ~ Description for {'str': 'Flower Pot(lettuce)', 'str_pl': 'Flower
+#. Pots(lettuce)'}
+#: .\melee.json
+msgid "The flower pot contains ready to harvest lettuce."
+msgstr "Это цветочный горшок, в котором находится готовый к сбору салат-латук."
+
+#: .\melee.json
+msgid "Flower Pot(growing cabbage)"
+msgid_plural "Flower Pots(growing cabbage)"
+msgstr[0] "цветочный горшок (растущая капуста)"
+msgstr[1] "цветочных горшка (растущая капуста)"
+msgstr[2] "цветочных горшков (растущая капуста)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing cabbage)', 'str_pl':
+#. 'Flower Pots(growing cabbage)'}.
+#: .\melee.json
+msgid "The cabbage is ready to harvest."
+msgstr "Капуста готова к сбору."
+
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing cabbage)',
+#. 'str_pl': 'Flower Pots(growing cabbage)'}.
+#: .\melee.json
+msgid "The cabbage is growing quickly."
+msgstr "Капуста растет быстро."
+
+#. ~ Description for {'str': 'Flower Pot(growing cabbage)', 'str_pl': 'Flower
+#. Pots(growing cabbage)'}
+#: .\melee.json
+msgid "This flower pot contains growing cabbage."
+msgstr "В этом цветочном горшке растет капуста."
+
+#: .\melee.json
+msgid "Flower Pot(cabbage)"
+msgid_plural "Flower Pots(cabbage)"
+msgstr[0] "цветочный горшок (капуста)"
+msgstr[1] "цветочных горшка (капуста)"
+msgstr[2] "цветочных горшков (капуста)"
+
+#. ~ Description for {'str': 'Flower Pot(cabbage)', 'str_pl': 'Flower
+#. Pots(cabbage)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest cabbage."
+msgstr "Это цветочный горшок, в котором находится готовая к сбору капуста."
+
+#: .\melee.json
+msgid "Flower Pot(growing cotton boll)"
+msgid_plural "Flower Pots(growing cotton boll)"
+msgstr[0] "цветочный горшок (растущий хлопок)"
+msgstr[1] "цветочных горшка (растущий хлопок)"
+msgstr[2] "цветочных горшков (растущий хлопок)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing cotton boll)', 'str_pl':
+#. 'Flower Pots(growing cotton boll)'}.
+#: .\melee.json
+msgid "The cotton bolls are ready to harvest."
+msgstr "Хлопок готов к сбору."
+
+#. ~ Use action not_ready_msg for {'str': 'Flower Pot(growing cotton boll)',
+#. 'str_pl': 'Flower Pots(growing cotton boll)'}.
+#: .\melee.json
+msgid "The cotton bolls are growing quickly."
+msgstr "Хлопок растет быстро."
+
+#. ~ Description for {'str': 'Flower Pot(growing cotton boll)', 'str_pl':
+#. 'Flower Pots(growing cotton boll)'}
+#: .\melee.json
+msgid "This flower pot contains growing cotton bolls."
+msgstr "В этом цветочном горшке растет хлопок."
+
+#: .\melee.json
+msgid "Flower Pot(cotton boll)"
+msgid_plural "Flower Pots(cotton boll)"
+msgstr[0] "цветочный горшок (хлопок)"
+msgstr[1] "цветочных горшка (хлопок)"
+msgstr[2] "цветочных горшков (хлопок)"
+
+# Или ватные шарики как в игре
+#. ~ Description for {'str': 'Flower Pot(cotton boll)', 'str_pl': 'Flower
+#. Pots(cotton boll)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest cotton bolls."
+msgstr "Это цветочный горшок, в котором находится готовый к сбору хлопок."
+
+#: .\melee.json
+msgid "Flower Pot(growing broccoli)"
+msgid_plural "Flower Pots(growing broccoli)"
+msgstr[0] "цветочный горшок (растущие брокколи)"
+msgstr[1] "цветочных горшка (растущие брокколи)"
+msgstr[2] "цветочных горшков (растущие брокколи)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing broccoli)', 'str_pl':
+#. 'Flower Pots(growing broccoli)'}.
+#: .\melee.json
+msgid "The broccoli is ready to harvest."
+msgstr "Брокколи готовы к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing broccoli)', 'str_pl': 'Flower
+#. Pots(growing broccoli)'}
+#: .\melee.json
+msgid "This flower pot contains growing broccoli."
+msgstr "В этом цветочном горшке растут брокколи."
+
+#: .\melee.json
+msgid "Flower Pot(broccoli)"
+msgid_plural "Flower Pots(broccoli)"
+msgstr[0] "цветочный горшок (брокколи)"
+msgstr[1] "цветочных горшка (брокколи)"
+msgstr[2] "цветочных горшков (брокколи)"
+
+#. ~ Description for {'str': 'Flower Pot(broccoli)', 'str_pl': 'Flower
+#. Pots(broccoli)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest broccoli."
+msgstr "Это цветочный горшок, в котором находится готовые к сбору брокколи."
+
+#: .\melee.json
+msgid "Flower Pot(growing zucchini)"
+msgid_plural "Flower Pots(growing zucchini)"
+msgstr[0] "цветочный горшок (растущие кабачки)"
+msgstr[1] "цветочных горшка (растущие кабачки)"
+msgstr[2] "цветочных горшков (растущие кабачки)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing zucchini)', 'str_pl':
+#. 'Flower Pots(growing zucchini)'}.
+#: .\melee.json
+msgid "The zucchini is ready to harvest."
+msgstr "Кабачки готовы к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing zucchini)', 'str_pl': 'Flower
+#. Pots(growing zucchini)'}
+#: .\melee.json
+msgid "This flower pot contains growing zucchini."
+msgstr "В этом цветочном горшке растут кабачки."
+
+#: .\melee.json
+msgid "Flower Pot(zucchini)"
+msgid_plural "Flower Pots(zucchini)"
+msgstr[0] "цветочный горшок (кабачки)"
+msgstr[1] "цветочных горшка (кабачки)"
+msgstr[2] "цветочных горшков (кабачки)"
+
+#. ~ Description for {'str': 'Flower Pot(zucchini)', 'str_pl': 'Flower
+#. Pots(zucchini)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest zucchini."
+msgstr "Это цветочный горшок, в котором находится готовые к сбору кабачки."
+
+#: .\melee.json
+msgid "Flower Pot(growing onion)"
+msgid_plural "Flower Pots(growing onion)"
+msgstr[0] "цветочный горшок (растущий лук)"
+msgstr[1] "цветочных горшка (растущий лук)"
+msgstr[2] "цветочных горшков (растущий лук)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing onion)', 'str_pl': 'Flower
+#. Pots(growing onion)'}.
+#: .\melee.json
+msgid "The onion is ready to harvest."
+msgstr "Лук готов к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing onion)', 'str_pl': 'Flower
+#. Pots(growing onion)'}
+#: .\melee.json
+msgid "This flower pot contains growing onions."
+msgstr "В этом цветочном горшке растет лук."
+
+#: .\melee.json
+msgid "Flower Pot(onion)"
+msgid_plural "Flower Pots(onion)"
+msgstr[0] "цветочный горшок (лук)"
+msgstr[1] "цветочных горшка (лук)"
+msgstr[2] "цветочных горшков (лук)"
+
+#. ~ Description for {'str': 'Flower Pot(onion)', 'str_pl': 'Flower
+#. Pots(onion)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest onions."
+msgstr "Это цветочный горшок, в котором находится готовый к сбору лук."
+
+#: .\melee.json
+msgid "Flower Pot(growing garlic)"
+msgid_plural "Flower Pots(growing garlic)"
+msgstr[0] "цветочный горшок (растущий чеснок)"
+msgstr[1] "цветочных горшка (растущий чеснок)"
+msgstr[2] "цветочных горшков (растущий чеснок)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing garlic)', 'str_pl':
+#. 'Flower Pots(growing garlic)'}.
+#: .\melee.json
+msgid "The garlic is ready to harvest."
+msgstr "Чеснок готов к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing garlic)', 'str_pl': 'Flower
+#. Pots(growing garlic)'}
+#: .\melee.json
+msgid "This flower pot contains growing garlic."
+msgstr "В этом цветочном горшке растет чеснок."
+
+#: .\melee.json
+msgid "Flower Pot(garlic)"
+msgid_plural "Flower Pots(garlic)"
+msgstr[0] "цветочный горшок (чеснок)"
+msgstr[1] "цветочных горшка (чеснок)"
+msgstr[2] "цветочных горшков (чеснок)"
+
+#. ~ Description for {'str': 'Flower Pot(garlic)', 'str_pl': 'Flower
+#. Pots(garlic)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest garlic,"
+msgstr "Это цветочный горшок, в котором находится готовая к сбору чеснок."
+
+#: .\melee.json
+msgid "Flower Pot(growing carrot)"
+msgid_plural "Flower Pots(growing carrot)"
+msgstr[0] "цветочный горшок (растущая морковь)"
+msgstr[1] "цветочных горшка (растущая морковь)"
+msgstr[2] "цветочных горшков (растущая морковь)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing carrot)', 'str_pl':
+#. 'Flower Pots(growing carrot)'}.
+#: .\melee.json
+msgid "The carrots are ready to harvest."
+msgstr "Морковь готова к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing carrot)', 'str_pl': 'Flower
+#. Pots(growing carrot)'}
+#: .\melee.json
+msgid "This flower pot contains growing carrots."
+msgstr "В этом цветочном горшке растет морковь."
+
+#: .\melee.json
+msgid "Flower Pot(carrot)"
+msgid_plural "Flower Pots(carrot)"
+msgstr[0] "цветочный горшок (морковь)"
+msgstr[1] "цветочных горшка (морковь)"
+msgstr[2] "цветочных горшков (морковь)"
+
+#. ~ Description for {'str': 'Flower Pot(carrot)', 'str_pl': 'Flower
+#. Pots(carrot)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest carrots"
+msgstr "Это цветочный горшок, в котором находится готовая к сбору морковь."
+
+#: .\melee.json
+msgid "Flower Pot(growing corn)"
+msgid_plural "Flower Pots(growing corn)"
+msgstr[0] "цветочный горшок (растущая кукуруза)"
+msgstr[1] "цветочных горшка (растущая кукуруза)"
+msgstr[2] "цветочных горшков (растущая кукуруза)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing corn)', 'str_pl': 'Flower
+#. Pots(growing corn)'}.
+#: .\melee.json
+msgid "The corn is ready to harvest."
+msgstr "Кукуруза готова к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing corn)', 'str_pl': 'Flower
+#. Pots(growing corn)'}
+#: .\melee.json
+msgid "This flower pot contains growing corn."
+msgstr "В этом цветочном горшке растет кукуруза."
+
+#: .\melee.json
+msgid "Flower Pot(corn)"
+msgid_plural "Flower Pots(corn)"
+msgstr[0] "цветочный горшок (кукуруза)"
+msgstr[1] "цветочных горшка (кукуруза)"
+msgstr[2] "цветочных горшков (кукуруза)"
+
+#. ~ Description for {'str': 'Flower Pot(corn)', 'str_pl': 'Flower
+#. Pots(corn)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest corn."
+msgstr "Это цветочный горшок, в котором находится готовая к сбору кукуруза."
+
+#: .\melee.json
+msgid "Flower Pot(growing oats)"
+msgid_plural "Flower Pots(growing oats)"
+msgstr[0] "цветочный горшок (растущий овёс)"
+msgstr[1] "цветочных горшка (растущий овёс)"
+msgstr[2] "цветочных горшков (растущий овёс)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing oats)', 'str_pl': 'Flower
+#. Pots(growing oats)'}.
+#: .\melee.json
+msgid "燕麦がready to harvest."
+msgstr "Овёс готов к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing oats)', 'str_pl': 'Flower
+#. Pots(growing oats)'}
+#: .\melee.json
+msgid "This flower pot contains growing oats."
+msgstr "В этом цветочном горшке растет овёс."
+
+#: .\melee.json
+msgid "Flower Pot(oats)"
+msgid_plural "Flower Pots(oats)"
+msgstr[0] "цветочный горшок (овёс)"
+msgstr[1] "цветочных горшка (овёс)"
+msgstr[2] "цветочных горшков (овёс)"
+
+#. ~ Description for {'str': 'Flower Pot(oats)', 'str_pl': 'Flower
+#. Pots(oats)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest oats."
+msgstr "Это цветочный горшок, в котором находится готовый к сбору овёс."
+
+#: .\melee.json
+msgid "Flower Pot(growing beans)"
+msgid_plural "Flower Pots(growing beans)"
+msgstr[0] "цветочный горшок (растущие бобы)"
+msgstr[1] "цветочных горшка (растущие бобы)"
+msgstr[2] "цветочных горшков (растущие бобы)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing beans)', 'str_pl': 'Flower
+#. Pots(growing beans)'}.
+#: .\melee.json
+msgid "The beans are ready to harvest."
+msgstr "Бобы готовы к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing beans)', 'str_pl': 'Flower
+#. Pots(growing beans)'}
+#: .\melee.json
+msgid "This flower pot contains growing beans."
+msgstr "В этом цветочном горшке растут бобы."
+
+#: .\melee.json
+msgid "Flower Pot(beans)"
+msgid_plural "Flower Pots(beans)"
+msgstr[0] "цветочный горшок (бобы)"
+msgstr[1] "цветочных горшка (бобы)"
+msgstr[2] "цветочных горшков (бобы)"
+
+#. ~ Description for {'str': 'Flower Pot(beans)', 'str_pl': 'Flower
+#. Pots(beans)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest beans."
+msgstr "Это цветочный горшок, в котором находится готовые к сбору бобы."
+
+#: .\melee.json
+msgid "Flower Pot(growing potato)"
+msgid_plural "Flower Pots(growing potatoes)"
+msgstr[0] "цветочный горшок (растущий картофель)"
+msgstr[1] "цветочных горшка (растущий картофель)"
+msgstr[2] "цветочных горшков (растуший картофель)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing potato)', 'str_pl':
+#. 'Flower Pots(growing potatoes)'}.
+#: .\melee.json
+msgid "The potatoes are ready to harvest."
+msgstr "Картофель готов к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing potato)', 'str_pl': 'Flower
+#. Pots(growing potatoes)'}
+#: .\melee.json
+msgid "This flower pot contains growing potatoes."
+msgstr "В этом цветочном горшке растет картофель."
+
+#: .\melee.json
+msgid "Flower Pot(potato)"
+msgid_plural "Flower Pots(potato)"
+msgstr[0] "цветочный горшок (картофель)"
+msgstr[1] "цветочных горшка (картофель)"
+msgstr[2] "цветочных горшков (картофель)"
+
+#. ~ Description for {'str': 'Flower Pot(potato)', 'str_pl': 'Flower
+#. Pots(potato)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest potatoes."
+msgstr "Это цветочный горшок, в котором находится готовый к сбору картофель."
+
+#: .\melee.json
+msgid "Flower Pot(growing cucumber)"
+msgid_plural "Flower Pots(growing cucumber)"
+msgstr[0] "цветочный горшок (растущие огурцы)"
+msgstr[1] "цветочных горшка (растущие огурцы)"
+msgstr[2] "цветочных горшков (огурцы)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing cucumber)', 'str_pl':
+#. 'Flower Pots(growing cucumber)'}.
+#: .\melee.json
+msgid "The cucumber is ready to harvest."
+msgstr "Огурцы готовы к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing cucumber)', 'str_pl': 'Flower
+#. Pots(growing cucumber)'}
+#: .\melee.json
+msgid "This flower pot contains growing cucumber."
+msgstr "В этом цветочном горшке растут огурцы."
+
+#: .\melee.json
+msgid "Flower Pot(cucumber)"
+msgid_plural "Flower Pots(cucumber)"
+msgstr[0] "цветочный горшок (огурцы)"
+msgstr[1] "цветочных горшка (огурцы)"
+msgstr[2] "цветочных горшков (огурцы)"
+
+#. ~ Description for {'str': 'Flower Pot(cucumber)', 'str_pl': 'Flower
+#. Pots(cucumber)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest cucumber."
+msgstr "Это цветочный горшок, в котором находится готовые к сбору огурцы."
+
+#: .\melee.json
+msgid "Flower Pot(growing celery)"
+msgid_plural "Flower Pots(growing celery)"
+msgstr[0] "цветочный горшок (растущий сельдерей)"
+msgstr[1] "цветочных горшка (растущий сельдерей)"
+msgstr[2] "цветочных горшков (растущий сельдерей)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing celery)', 'str_pl':
+#. 'Flower Pots(growing celery)'}.
+#: .\melee.json
+msgid "The celery is ready to harvest."
+msgstr "Сельдерей готов к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing celery)', 'str_pl': 'Flower
+#. Pots(growing celery)'}
+#: .\melee.json
+msgid "This flower pot contains growing celery."
+msgstr "В этом цветочном горшке растет сельдерей."
+
+#: .\melee.json
+msgid "Flower Pot(celery)"
+msgid_plural "Flower Pots(celery)"
+msgstr[0] "цветочный горшок (сельдерей)"
+msgstr[1] "цветочных горшка (сельдерей)"
+msgstr[2] "цветочных горшков (сельдерей)"
+
+#. ~ Description for {'str': 'Flower Pot(celery)', 'str_pl': 'Flower
+#. Pots(celery)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest celery."
+msgstr "Это цветочный горшок, в котором находится готовый к сбору сельдерей."
+
+#: .\melee.json
+msgid "Flower Pot(growing thyme)"
+msgid_plural "Flower Pots(growing thyme)"
+msgstr[0] "цветочный горшок (растущий тимьян)"
+msgstr[1] "цветочных горшка (растущий тимьян)"
+msgstr[2] "цветочных горшков (растущий тимьян)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing thyme)', 'str_pl': 'Flower
+#. Pots(growing thyme)'}.
+#: .\melee.json
+msgid "The thyme is ready to harvest."
+msgstr "Тимьян готов к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing thyme)', 'str_pl': 'Flower
+#. Pots(growing thyme)'}
+#: .\melee.json
+msgid "This flower pot contains growing thyme."
+msgstr "В этом цветочном горшке тимьян."
+
+#: .\melee.json
+msgid "Flower Pot(thyme)"
+msgid_plural "Flower Pots(thyme)"
+msgstr[0] "цветочный горшок (тимьян)"
+msgstr[1] "цветочных горшка (тимьян)"
+msgstr[2] "цветочных горшков (тимьян)"
+
+#. ~ Description for {'str': 'Flower Pot(thyme)', 'str_pl': 'Flower
+#. Pots(thyme)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest thyme."
+msgstr "Это цветочный горшок, в котором находится готовый к сбору тимьян."
+
+#: .\melee.json
+msgid "Flower Pot(growing canola)"
+msgid_plural "Flower Pots(growing canola)"
+msgstr[0] "цветочный горшок (растущая канола)"
+msgstr[1] "цветочных горшка (растущая канола)"
+msgstr[2] "цветочных горшков (растущая канола)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing canola)', 'str_pl':
+#. 'Flower Pots(growing canola)'}.
+#: .\melee.json
+msgid "The canola is ready to harvest."
+msgstr "Канола готова к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing canola)', 'str_pl': 'Flower
+#. Pots(growing canola)'}
+#: .\melee.json
+msgid "This flower pot contains growing canola."
+msgstr "В этом цветочном горшке растет канола."
+
+#: .\melee.json
+msgid "Flower Pot(canola)"
+msgid_plural "Flower Pots(canola)"
+msgstr[0] "цветочный горшок (канола)"
+msgstr[1] "цветочных горшка (канола)"
+msgstr[2] "цветочных горшков (канола)"
+
+#. ~ Description for {'str': 'Flower Pot(canola)', 'str_pl': 'Flower
+#. Pots(canola)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest canola."
+msgstr "Это цветочный горшок, в котором находится готовая к сбору канола."
+
+#: .\melee.json
+msgid "Flower Pot(growing dogbane)"
+msgid_plural "Flower Pots(growing dogbane)"
+msgstr[0] "цветочный горшок (растущий кендырь)"
+msgstr[1] "цветочных горшка (растущий кендырь)"
+msgstr[2] "цветочных горшков (растущий кендырь)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing dogbane)', 'str_pl':
+#. 'Flower Pots(growing dogbane)'}.
+#: .\melee.json
+msgid "The dogbane is ready to harvest."
+msgstr "Кендырь готов к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing dogbane)', 'str_pl': 'Flower
+#. Pots(growing dogbane)'}
+#: .\melee.json
+msgid "This flower pot contains growing dogbane."
+msgstr "В этом цветочном горшке кендырь."
+
+#: .\melee.json
+msgid "Flower Pot(dogbane)"
+msgid_plural "Flower Pots(dogbane)"
+msgstr[0] "цветочный горшок (кендырь)"
+msgstr[1] "цветочных горшка (кендырь)"
+msgstr[2] "цветочных горшков (кендырь)"
+
+#. ~ Description for {'str': 'Flower Pot(dogbane)', 'str_pl': 'Flower
+#. Pots(dogbane)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest dogbane."
+msgstr "Это цветочный горшок, в котором находится готовый к сбору кендырь."
+
+#: .\melee.json
+msgid "Flower Pot(growing bee balm)"
+msgid_plural "Flower Pots(growing bee balm)"
+msgstr[0] "цветочный горшок (растущая монарда)"
+msgstr[1] "цветочных горшка (растущая монарда)"
+msgstr[2] "цветочных горшков (растущая монарда)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing bee balm)', 'str_pl':
+#. 'Flower Pots(growing bee balm)'}.
+#: .\melee.json
+msgid "The bee balm is ready to harvest."
+msgstr "Монарда готова к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing bee balm)', 'str_pl': 'Flower
+#. Pots(growing bee balm)'}
+#: .\melee.json
+msgid "This flower pot contains growing bee balm."
+msgstr "В этом цветочном горшке растет монарда."
+
+#: .\melee.json
+msgid "Flower Pot(bee balm)"
+msgid_plural "Flower Pots(bee balm)"
+msgstr[0] "цветочный горшок (монарда)"
+msgstr[1] "цветочных горшка (монарда)"
+msgstr[2] "цветочных горшков (монарда)"
+
+#. ~ Description for {'str': 'Flower Pot(bee balm)', 'str_pl': 'Flower
+#. Pots(bee balm)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest bee balm."
+msgstr "Это цветочный горшок, в котором находится готовая к сбору монарда."
+
+#: .\melee.json
+msgid "Flower Pot(growing mugwort)"
+msgid_plural "Flower Pots(growing mugwort)"
+msgstr[0] "цветочный горшок (растущая полынь)"
+msgstr[1] "цветочных горшка (растущая полынь)"
+msgstr[2] "цветочных горшков (растущая полынь)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing mugwort)', 'str_pl':
+#. 'Flower Pots(growing mugwort)'}.
+#: .\melee.json
+msgid "The mugwort is ready to harvest."
+msgstr "Полынь готова к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing mugwort)', 'str_pl': 'Flower
+#. Pots(growing mugwort)'}
+#: .\melee.json
+msgid "This flower pot contains growing mugwort."
+msgstr "В этом цветочном горшке растет полынь."
+
+#: .\melee.json
+msgid "Flower Pot(mugwort)"
+msgid_plural "Flower Pots(mugwort)"
+msgstr[0] "цветочный горшок (полынь)"
+msgstr[1] "цветочных горшка (полынь)"
+msgstr[2] "цветочных горшков (полынь)"
+
+#. ~ Description for {'str': 'Flower Pot(mugwort)', 'str_pl': 'Flower
+#. Pots(mugwort)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest mugwort."
+msgstr "Это цветочный горшок, в котором находится готовая к сбору полынь."
+
+#: .\melee.json
+msgid "Flower Pot(growing buckwheat)"
+msgid_plural "Flower Pots(growing buckwheat)"
+msgstr[0] "цветочный горшок (растущая гречка)"
+msgstr[1] "цветочных горшка (растущая гречка)"
+msgstr[2] "цветочных горшков (растущая гречка)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing buckwheat)', 'str_pl':
+#. 'Flower Pots(growing buckwheat)'}.
+#: .\melee.json
+msgid "The buckwheat is ready to harvest."
+msgstr "Гречка готова к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing buckwheat)', 'str_pl':
+#. 'Flower Pots(growing buckwheat)'}
+#: .\melee.json
+msgid "This flower pot contains growing buckwheat."
+msgstr "В этом цветочном горшке растет гречка."
+
+#: .\melee.json
+msgid "Flower Pot(buckwheat)"
+msgid_plural "Flower Pots(buckwheat)"
+msgstr[0] "цветочный горшок (гречка)"
+msgstr[1] "цветочных горшка (гречка)"
+msgstr[2] "цветочных горшков (гречка)"
+
+#. ~ Description for {'str': 'Flower Pot(buckwheat)', 'str_pl': 'Flower
+#. Pots(buckwheat)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest buckwheat."
+msgstr "Это цветочный горшок, в котором находится готовая к сбору гречка."
+
+#: .\melee.json
+msgid "Flower Pot(growing wild herbs)"
+msgid_plural "Flower Pots(growing wild herbs)"
+msgstr[0] "цветочный горшок (растущие дикие травы)"
+msgstr[1] "цветочных горшка (растущие дикие травы)"
+msgstr[2] "цветочных горшков (растущие дикие травы)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing wild herbs)', 'str_pl':
+#. 'Flower Pots(growing wild herbs)'}.
+#: .\melee.json
+msgid "The wild herbs are ready to harvest."
+msgstr "Дикие травы готовы к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing wild herbs)', 'str_pl':
+#. 'Flower Pots(growing wild herbs)'}
+#: .\melee.json
+msgid "This flower pot contains growing wild herbs."
+msgstr "В этом цветочном горшке растут дикие травы."
+
+#: .\melee.json
+msgid "Flower Pot(wild herbs)"
+msgid_plural "Flower Pots(wild herbs)"
+msgstr[0] "цветочный горшок (дикие травы)"
+msgstr[1] "цветочных горшка (дикие травы)"
+msgstr[2] "цветочных горшков (дикие травы)"
+
+#. ~ Description for {'str': 'Flower Pot(wild herbs)', 'str_pl': 'Flower
+#. Pots(wild herbs)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest wild herbs."
+msgstr "Это цветочный горшок, в котором находится готовые к сбору дикие травы."
+
+#: .\melee.json
+msgid "Flower Pot(growing wild veggies)"
+msgid_plural "Flower Pots(growing wild veggies)"
+msgstr[0] "цветочный горшок (растущие дикие овощи)"
+msgstr[1] "цветочных горшка (растущие дикие овощи)"
+msgstr[2] "цветочных горшков (растущие дикие травы)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing wild veggies)', 'str_pl':
+#. 'Flower Pots(growing wild veggies)'}.
+#: .\melee.json
+msgid "The wild veggies are ready to harvest."
+msgstr "Дикие овощи готовы к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing wild veggies)', 'str_pl':
+#. 'Flower Pots(growing wild veggies)'}
+#: .\melee.json
+msgid "This flower pot contains growing wild veggies."
+msgstr "В этом цветочном горшке растут дикие овощи."
+
+#: .\melee.json
+msgid "Flower Pot(wild veggies)"
+msgid_plural "Flower Pots(wild veggies)"
+msgstr[0] "цветочный горшок (дикие травы)"
+msgstr[1] "цветочных горшка (дикие травы)"
+msgstr[2] "цветочных горшков (дикие травы)"
+
+#. ~ Description for {'str': 'Flower Pot(wild veggies)', 'str_pl': 'Flower
+#. Pots(wild veggies)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest wild veggies."
+msgstr "Это цветочный горшок, в котором находится готовые к сбору дикие овощи."
+
+#: .\melee.json
+msgid "Flower Pot(growing dandelion)"
+msgid_plural "Flower Pots(growing dandelion)"
+msgstr[0] "цветочный горшок (растущие одуванчики)"
+msgstr[1] "цветочных горшка (растущие одуванчики)"
+msgstr[2] "цветочных горшков (растущие одуванчики)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing dandelion)', 'str_pl':
+#. 'Flower Pots(growing dandelion)'}.
+#: .\melee.json
+msgid "The dandelions are ready to harvest."
+msgstr "Одуванчики готовы к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing dandelion)', 'str_pl':
+#. 'Flower Pots(growing dandelion)'}
+#: .\melee.json
+msgid "This flower pot contains growing dandelion."
+msgstr "В этом цветочном горшке растут одуванчики"
+
+#: .\melee.json
+msgid "Flower Pot(dandelion)"
+msgid_plural "Flower Pots(dandelion)"
+msgstr[0] "цветочный горшок (одуванчики)"
+msgstr[1] "цветочных горшков (одуванчики)"
+msgstr[2] "цветочных горшков (одуванчики)"
+
+#. ~ Description for {'str': 'Flower Pot(dandelion)', 'str_pl': 'Flower
+#. Pots(dandelion)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest dandelion."
+msgstr "Это цветочный горшок, в котором находится готовые к сбору одуванчики."
+
+#: .\melee.json
+msgid "Flower Pot(growing rhubarb)"
+msgid_plural "Flower Pots(growing rhubarb)"
+msgstr[0] "цветочный горшок (растущий ревень)"
+msgstr[1] "цветочных горшка (растущий ревень)"
+msgstr[2] "цветочных горшов (растущий ревень)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing rhubarb)', 'str_pl':
+#. 'Flower Pots(growing rhubarb)'}.
+#: .\melee.json
+msgid "大黄がready to harvest."
+msgstr "Ревень готов к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing rhubarb)', 'str_pl': 'Flower
+#. Pots(growing rhubarb)'}
+#: .\melee.json
+msgid "This flower pot contains growing rhubarb."
+msgstr "В этом цветочном горшке растет ревень."
+
+#: .\melee.json
+msgid "Flower Pot(rhubarb)"
+msgid_plural "Flower Pots(rhubarb)"
+msgstr[0] "цветочный горшок (ревень)"
+msgstr[1] "цветочных горшка (ревень)"
+msgstr[2] "цветочных горшков (ревень)"
+
+#. ~ Description for {'str': 'Flower Pot(rhubarb)', 'str_pl': 'Flower
+#. Pots(rhubarb)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest rhubarb"
+msgstr "Это цветочный горшок, в котором находится готовый к сбору ревень."
+
+#: .\melee.json
+msgid "Flower Pot(growing mushrooms)"
+msgid_plural "Flower Pots(growing mushrooms)"
+msgstr[0] "цветочный горшок (растущие грибы)"
+msgstr[1] "цветочных горшка (растущие грибы)"
+msgstr[2] "цветочных горшков (растущие грибы)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing mushrooms)', 'str_pl':
+#. 'Flower Pots(growing mushrooms)'}.
+#: .\melee.json
+msgid "The mushrooms are ready to harvest."
+msgstr "Грибы готовы к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing mushrooms)', 'str_pl':
+#. 'Flower Pots(growing mushrooms)'}
+#: .\melee.json
+msgid "This flower pot contains growing mushrooms"
+msgstr "В этом цветочном горшке растут грибы."
+
+#: .\melee.json
+msgid "Flower Pot(mushrooms)"
+msgid_plural "Flower Pots(mushrooms)"
+msgstr[0] "цветочный горшок (грибы)"
+msgstr[1] "цветочных горшка (грибы)"
+msgstr[2] "цветочных горшков (грибы)"
+
+#. ~ Description for {'str': 'Flower Pot(mushrooms)', 'str_pl': 'Flower
+#. Pots(mushrooms)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest mushrooms"
+msgstr "Это цветочный горшок, в котором находится готовые к сбору грибы."
+
+#: .\melee.json
+msgid "Flower Pot(growing dry rice)"
+msgid_plural "Flower Pots(growing dry rice)"
+msgstr[0] "цветочный горшок (растущий рис)"
+msgstr[1] "цветочных горшка (растущий рис)"
+msgstr[2] "цветочных горшков (растущий рис)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing dry rice)', 'str_pl':
+#. 'Flower Pots(growing dry rice)'}.
+#: .\melee.json
+msgid "The dry rice is ready to harvest."
+msgstr "Рис готов к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing dry rice)', 'str_pl': 'Flower
+#. Pots(growing dry rice)'}
+#: .\melee.json
+msgid "This flower pot contains growing dry rice"
+msgstr "В этом цветочном горшке растет рис."
+
+#: .\melee.json
+msgid "Flower Pot(dry rice)"
+msgid_plural "Flower Pots(dry rice)"
+msgstr[0] "цветочный горшок (рис)"
+msgstr[1] "цветочных горшка (рис)"
+msgstr[2] "цветочных горшков (рис)"
+
+#. ~ Description for {'str': 'Flower Pot(dry rice)', 'str_pl': 'Flower
+#. Pots(dry rice)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest dry rice"
+msgstr "Это цветочный горшок, в котором находится готовый к сбору рис."
+
+#: .\melee.json
+msgid "Flower Pot(growing coffee beans)"
+msgid_plural "Flower Pots(growing coffee beans)"
+msgstr[0] "цветочный горшок (растущие кофейные зерна)"
+msgstr[1] "цветочных горшка (растущие кофейные зерна)"
+msgstr[2] "цветочных горшков (растущие кофейные зерна)"
+
+#. ~ Use action msg for {'str': 'Flower Pot(growing coffee beans)', 'str_pl':
+#. 'Flower Pots(growing coffee beans)'}.
+#: .\melee.json
+msgid "The coffee beans ready to harvest."
+msgstr "Кофеные зерна готовы к сбору."
+
+#. ~ Description for {'str': 'Flower Pot(growing coffee beans)', 'str_pl':
+#. 'Flower Pots(growing coffee beans)'}
+#: .\melee.json
+msgid "This flower pot contains growing coffee beans"
+msgstr "В этом цветочном горшке растут кофейные зерна."
+
+#: .\melee.json
+msgid "Flower Pot(coffee beans)"
+msgid_plural "Flower Pots(coffee beans)"
+msgstr[0] "цветочный горшок (кофейные зерна)"
+msgstr[1] "цветочных горшка (кофейные зерна)"
+msgstr[2] "цветочных горшков (кофейные зерна)"
+
+#. ~ Description for {'str': 'Flower Pot(coffee beans)', 'str_pl': 'Flower
+#. Pots(coffee beans)'}
+#: .\melee.json
+msgid "This flower pot contains ready to harvest coffee beans"
+msgstr "Это цветочный горшок, в котором находится готовые к сбору кофейные зерна."
+
+#: .\modinfo.json
+msgid "Flowerpot (uekibati) mod"
+msgstr "Цветочные горшки"
+
+#. ~ Description for Flowerpot (uekibati) mod
+#: .\modinfo.json
+msgid "This mod adds flowerpots for growing plants."
+msgstr "Этот мод добавляет цветочные горшки для выращивания растений."

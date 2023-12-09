@@ -1,0 +1,420 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: More tea leaf\n"
+"POT-Creation-Date: 2023-12-03 04:47+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\modinfo.json
+msgid "MOD to grow tea leaves"
+msgstr "Мод на выращивания чайных листьев"
+
+#. ~ Description for MOD to grow tea leaves
+#: .\modinfo.json
+msgid "Add tea leaf seeds and raw tea leaves, some tea leaves and tea."
+msgstr ""
+"Добавляет семена чайных листьев и необработанные чайные листья, несколько "
+"видов чайных листьев и чай."
+
+#: .\tl_drink.json
+msgid "sugarless tea"
+msgid_plural "sugarless tea"
+msgstr[0] "чай без сахара"
+msgstr[1] "чая без сахара"
+msgstr[2] "чая без сахара"
+
+#: .\tl_drink.json
+msgid "fruit tea"
+msgid_plural "fruit tea"
+msgstr[0] "фруктовый чай"
+msgstr[1] "фруктового чая"
+msgstr[2] "фруктового чая"
+
+#: .\tl_drink.json
+msgid "decaffeinated tea"
+msgid_plural "decaffeinated teas"
+msgstr[0] "чай без кофеина"
+msgstr[1] "чая без кофеина"
+msgstr[2] "чая без кофеина"
+
+#. ~ Description for {'str': 'decaffeinated tea'}
+#: .\tl_drink.json
+msgid ""
+"It is a tea extracted with water. It is safe to drink before going to bed "
+"because caffeine is significantly reduced, but it may not be enough because "
+"the taste has changed compared to those made with hot water."
+msgstr ""
+"Это чай, разбавленный водой. Его можно пить перед сном, так как в нем "
+"значительно снижено содержание кофеина, однако вкуса может быть "
+"недостаточно, потому что он изменился по сравнению с тем, что был "
+"приготовлен с горячей водой."
+
+#: .\tl_drink.json .\tl_materials.json
+msgid "green tea"
+msgid_plural "green teas"
+msgstr[0] "зеленый чай"
+msgstr[1] "зеленого чая"
+msgstr[2] "зеленого чая"
+
+#. ~ Description for {'str': 'green tea'}
+#: .\tl_drink.json
+msgid ""
+"Green tea is a tea made from tea leaves, which is processed by heating the "
+"picked tea leaves to prevent fermentation. Vivid fresh green is beautiful."
+msgstr ""
+"Зеленый чай - это чай, изготовленный из чайных листьев, которые "
+"обрабатываются путем нагревания собранных чайных листьев, чтобы "
+"предотвратить ферментацию. Яркий свежий зеленый цвет - потрясающе."
+
+#: .\tl_drink.json
+msgid "decaffeinated green tea"
+msgid_plural "decaffeinated green teas"
+msgstr[0] "зеленый чай без кофеина"
+msgstr[1] "зеленого чай без кофеина"
+msgstr[2] "зеленого чай без кофеина"
+
+#. ~ Description for {'str': 'decaffeinated green tea'}
+#: .\tl_drink.json
+msgid ""
+"水で抽出した緑茶です。カフェインが大幅に少なくなっているので就寝前に飲用して"
+"も安心ですが、お湯で作ったものよりも味が変化しているので物足りないかもしれま"
+"せん。"
+msgstr ""
+"Это зеленый чай, разбавленный водой. Его безопасно пить перед сном, так как "
+"он содержит значительно меньше кофеина, но вкус чая изменен по сравнению с "
+"чаем, приготовленным на горячей воде, и его может быть недостаточно."
+
+#: .\tl_drink.json .\tl_materials.json
+msgid "oolong tea"
+msgid_plural "oolong teas"
+msgstr[0] "чай улун"
+msgstr[1] "чая улун"
+msgstr[2] "чая улун"
+
+#. ~ Description for {'str': 'oolong tea'}
+#: .\tl_drink.json
+msgid ""
+"Oolong tea is a semi-fermented tea that is classified as blue tea among "
+"Chinese teas and stopped fermentation by heating during fermentation of tea "
+"leaves. I will refresh after drinking after meals."
+msgstr ""
+"Чай улун - это полуферментированный чай, который классифицируется как синий "
+"чай среди китайских чаев и прекратил ферментацию путем нагревания во время "
+"ферментации чайных листьев. Освежает после употребления после еды."
+
+#: .\tl_drink.json
+msgid "decaffeinated oolong tea"
+msgid_plural "decaffeinated oolong teas"
+msgstr[0] "чай улун без кофеина"
+msgstr[1] "чая улун без кофеина"
+msgstr[2] "чая улун без кофеина"
+
+#. ~ Description for {'str': 'decaffeinated oolong tea'}
+#: .\tl_drink.json
+msgid ""
+"It is oolong tea extracted with water. It is safe to drink before going to "
+"bed, as caffeine is significantly reduced, but the taste may have changed "
+"and more than those made with hot water."
+msgstr ""
+"Это чай улун, разбавленный водой. Его можно пить перед сном, так как в нем "
+"значительно меньше кофеина, но вкус может быть изменен по сравнению с чаем, "
+"приготовленным на горячей воде."
+
+#: .\tl_drink.json
+msgid "boiled plum tea"
+msgid_plural "boiled plum teas"
+msgstr[0] "заваренный сливовый чай"
+msgstr[1] "заваренного сливового чая"
+msgstr[2] "заваренного сливового чая"
+
+#. ~ Description for {'str': 'boiled plum tea'}
+#: .\tl_drink.json
+msgid ""
+"Sumomo simmered with black tea and sugar. The sweetness of the tea is good "
+"and the flavor of the tea is good."
+msgstr ""
+"Сумомо заваривается с черным чаем и сахаром. Сладость чая хорошая, а вкус - "
+"приятный."
+
+#: .\tl_drink.json
+msgid "milk tea with banana and chocolate flavorings"
+msgid_plural "milk tea with banana and chocolate flavoringss"
+msgstr[0] "молочный чай с банановым и шоколадным вкусом"
+msgstr[1] "молочного чая с банановым и шоколадным вкусом"
+msgstr[2] "молочного чая с банановым и шоколадным вкусом"
+
+#. ~ Description for {'str': 'milk tea with banana and chocolate flavorings'}
+#: .\tl_drink.json
+msgid ""
+"It has a sweet, rich, parfait-like flavor with a milk-rich black tea plus "
+"banana and chocolate flavors."
+msgstr ""
+"У него сладкий, насыщенный вкус, напоминающий парфе, с богатым содержанием "
+"молока в черном чае, а также банановым и шоколадным ароматами."
+
+#. ~ Description for {'str': 'fruit tea'}
+#: .\tl_drink.json
+msgid "It is black tea with added fruit juice. Fruity and delicious."
+msgstr "Это черный чай с добавлением фруктового сока. Фруктовый и вкусный."
+
+#: .\tl_drink.json
+msgid "berry tea"
+msgid_plural "berry teas"
+msgstr[0] "ягодный чай"
+msgstr[1] "ягодного чая"
+msgstr[2] "ягодного чая"
+
+#. ~ Description for {'str': 'berry tea'}
+#: .\tl_drink.json
+msgid "It is black tea with berry juice. Fruity and delicious."
+msgstr "Это черный чай с ягодным соком. Фруктовый и вкусный."
+
+#: .\tl_drink.json
+msgid "apple tea"
+msgid_plural "apple teas"
+msgstr[0] "яблочный чай"
+msgstr[1] "яблочного чая"
+msgstr[2] "яблочного чая"
+
+#. ~ Description for {'str': 'apple tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with apple juice added. Fruity and delicious."
+msgstr "Это черный чай с добавлением яблочного сока. Фруктовый и вкусный."
+
+#: .\tl_drink.json
+msgid "pear tea"
+msgid_plural "pear teas"
+msgstr[0] "грушевый чай"
+msgstr[1] "грушевого чая"
+msgstr[2] "грушевого чая"
+
+#. ~ Description for {'str': 'pear tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with pear juice added. Fruity and delicious."
+msgstr "Это черный чай с добавлением грушевого сока. Фруктовый и вкусный."
+
+#: .\tl_drink.json
+msgid "cherry tea"
+msgid_plural "cherry teas"
+msgstr[0] "вишневый чай"
+msgstr[1] "вишневого чая"
+msgstr[2] "вишневого чая"
+
+#. ~ Description for {'str': 'cherry tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with cherry juice added. Fruity and delicious."
+msgstr "Это черный чай с добавлением вишневого сока. Фруктовый и вкусный."
+
+#: .\tl_drink.json
+msgid "peach tea"
+msgid_plural "peach teas"
+msgstr[0] "персиковый чай"
+msgstr[1] "персикового чая"
+msgstr[2] "персикового чая"
+
+#. ~ Description for {'str': 'peach tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with peach juice added. Fruity and delicious."
+msgstr "Это черный чай с добавлением персикового сока. Фруктовый и вкусный."
+
+#: .\tl_drink.json
+msgid "apricot tea"
+msgid_plural "apricot teas"
+msgstr[0] "абрикосовый чай"
+msgstr[1] "абрикосового чая"
+msgstr[2] "абрикосового чая"
+
+#. ~ Description for {'str': 'apricot tea'}
+#: .\tl_drink.json
+msgid "It is black tea with apricot juice. Fruity and delicious."
+msgstr "Это черный чай с добавлением абрикосового сока. Фруктовый и вкусный."
+
+#: .\tl_drink.json
+msgid "lemon tea"
+msgid_plural "lemon teas"
+msgstr[0] "лимонный чай"
+msgstr[1] "лимонного чая"
+msgstr[2] "лимонного чая"
+
+#. ~ Description for {'str': 'lemon tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with lemon juice added. Fruity and delicious."
+msgstr "Это черный чай с добавлением лимонного сока. Фруктовый и вкусный."
+
+#: .\tl_drink.json
+msgid "mango tea"
+msgid_plural "mango teas"
+msgstr[0] "манговый чай"
+msgstr[1] "мангового чая"
+msgstr[2] "мангового чая"
+
+#. ~ Description for {'str': 'mango tea'}
+#: .\tl_drink.json
+msgid "It is black tea with mango juice. Fruity and delicious."
+msgstr "Это черный чай с добавлением мангового сока. Фруктовый и вкусный."
+
+#: .\tl_drink.json
+msgid "grape tea"
+msgid_plural "grape teas"
+msgstr[0] "виноградный чай"
+msgstr[1] "виноградного чая"
+msgstr[2] "виноградного чая"
+
+#. ~ Description for {'str': 'grape tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with grape juice added. Fruity and delicious."
+msgstr "Это черный чай с добавлением виноградного сока. Фруктовый и вкусный."
+
+#: .\tl_drink.json
+msgid "grapefruit tea"
+msgid_plural "grapefruit teas"
+msgstr[0] "грейпфрутовый чай"
+msgstr[1] "грейпфрутового чая"
+msgstr[2] "грейпфрутового чая"
+
+#. ~ Description for {'str': 'grapefruit tea'}
+#: .\tl_drink.json
+msgid "It is a black tea with grapefruit juice. Fruity and delicious."
+msgstr ""
+"Это черный чай с добавлением грейпфрутового сока. Фруктовый и вкусный."
+
+#: .\tl_drink.json
+msgid "papaya tea"
+msgid_plural "papaya teas"
+msgstr[0] "папайевый чай"
+msgstr[1] "папайевого чая"
+msgstr[2] "папайевого чая"
+
+#. ~ Description for {'str': 'papaya tea'}
+#: .\tl_drink.json
+msgid "It is a tea with papaya juice added. Fruity and delicious."
+msgstr "Это чай с добавлением сока папайи. Фруктовый и вкусный."
+
+#: .\tl_drink.json
+msgid "orange tea"
+msgid_plural "orange teas"
+msgstr[0] "апельсиновый чай"
+msgstr[1] "апельсинового чая"
+msgstr[2] "апельсинового чая"
+
+#. ~ Description for {'str': 'orange tea'}
+#: .\tl_drink.json
+msgid "It is black tea with orange juice. Fruity and delicious."
+msgstr "Это черный чай с добавлением апельсинового сока. Фруктовый и вкусный."
+
+#: .\tl_drink.json
+msgid "pomegranate tea"
+msgid_plural "pomegranate teas"
+msgstr[0] "гранатовый чай"
+msgstr[1] "гранатового чая"
+msgstr[2] "гранатового чая"
+
+#. ~ Description for {'str': 'pomegranate tea'}
+#: .\tl_drink.json
+msgid "It is a tea with pomegranate juice added. Fruity and delicious."
+msgstr "Это чай с добавлением гранатового сока. Фруктовый и вкусный."
+
+# возможно не нужно
+#: .\tl_materials.json
+msgid "squished"
+msgstr "раздавлено"
+
+# возможно не нужно
+#: .\tl_materials.json
+msgid "cut"
+msgstr "порезано"
+
+# состояние
+#: .\tl_materials.json
+msgid "lightly damaged"
+msgstr "немного повреждено"
+
+# состояние
+#: .\tl_materials.json
+msgid "damaged"
+msgstr "повреждено"
+
+# состояние
+#: .\tl_materials.json
+msgid "very damaged"
+msgstr "сильно поврежденно"
+
+# состояние
+#: .\tl_materials.json
+msgid "thoroughly damaged"
+msgstr "очень сильно повреждено"
+
+#: .\tl_seed.json
+msgid "Tea Leaf template"
+msgid_plural "Tea Leaf template"
+msgstr[0] "Образец чайного листа"
+msgstr[1] "Образца чайного листа"
+msgstr[2] "Образцов чайного листа"
+
+#: .\tl_seed.json
+msgid "tea leaf seed"
+msgid_plural "tea leaf seeds"
+msgstr[0] "семечко чайного листа"
+msgstr[1] "семена чайного листа"
+msgstr[2] "семена чайного листа"
+
+#. ~ Description for {'str': 'tea leaf seed', 'str_pl': 'tea leaf seeds'}
+#: .\tl_seed.json
+msgid "It is a species of tea leaves."
+msgstr "Это один из видов чайных листьев."
+
+#: .\tl_seed.json
+msgid "tea plant"
+msgstr "чайное растение"
+
+#: .\tl_tea_leaf.json
+msgid "raw tea leaf"
+msgid_plural "raw tea leaves"
+msgstr[0] "сырой чайный лист"
+msgstr[1] "сырых чайных листа"
+msgstr[2] "сырых чайных листьев"
+
+#. ~ Description for {'str': 'raw tea leaf', 'str_pl': 'raw tea leaves'}
+#: .\tl_tea_leaf.json
+msgid "It is a raw tea leaf."
+msgstr "Это сырой чайный лист."
+
+#: .\tl_tea_leaf.json
+msgid "green tea leaf"
+msgid_plural "green tea leaves"
+msgstr[0] "лист зеленого чая"
+msgstr[1] "листа зеленого чая"
+msgstr[2] "листьев зеленого чая"
+
+#. ~ Description for {'str': 'green tea leaf', 'str_pl': 'green tea leaves'}
+#: .\tl_tea_leaf.json
+msgid ""
+"It is green tea leaves. You can use green tea or you can eat it raw. It is "
+"necessary to eat as much as you feel unwell to heal your hunger."
+msgstr ""
+"Это листья зеленого чая. Вы можете приготовить зеленый чай или есть листья "
+"сырыми."
+
+#: .\tl_tea_leaf.json
+msgid "oolong tea leaf"
+msgid_plural "oolong tea leaves"
+msgstr[0] "лист чая улун"
+msgstr[1] "листа чая улун"
+msgstr[2] "листьев чая улун"
+
+#. ~ Description for {'str': 'oolong tea leaf', 'str_pl': 'oolong tea leaves'}
+#: .\tl_tea_leaf.json
+msgid ""
+"Oolong tea leaves. You can use oolong tea or you can eat it raw. It is "
+"necessary to eat as much as you feel unwell to heal your hunger."
+msgstr ""
+"Листья чая улун. Вы можете приготовить чай улун или есть листья сырыми."

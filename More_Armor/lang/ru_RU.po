@@ -1,0 +1,1182 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: More_Armors\n"
+"POT-Creation-Date: 2023-12-04 02:47+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\armor.json
+msgid "faraday plate suit"
+msgid_plural "faraday plate suits"
+msgstr[0] "пластинчатый костюм Фарадея"
+msgstr[1] "пластинчатых костюма Фарадея"
+msgstr[2] "пластинчатых костюмов Фарадея"
+
+#. ~ Description for {'str': 'faraday plate suit'}
+#: .\armor.json
+msgid ""
+"A suit of Gothic plate armor, complete with gloves, gauntlets, and a barbute "
+"helmet.  It has been conductively interconnected, protecting against "
+"electricity."
+msgstr ""
+"Костюм готической пластинчатой брони, в комплекте с перчатками, рукавицами и "
+"шлемом с колючками.  Он имеет проводящие соединения, защищающие от "
+"электричества."
+
+#: .\armor.json
+msgid "leather jumpsuit"
+msgid_plural "leather jumpsuits"
+msgstr[0] "кожаный комбинезон"
+msgstr[1] "кожаных комбинезона"
+msgstr[2] "кожаных комбинезонов"
+
+#. ~ Description for {'str': 'leather jumpsuit'}
+#: .\armor.json
+msgid ""
+"A short-sleeved jumpsuit made from thick leather.  Provides decent storage "
+"and proteciton, and is not very encumbering."
+msgstr ""
+"Комбинезон из толстой кожи с короткими рукавами . Обеспечивает достойное "
+"место для хранения и защиту и при этом не слишком стесняет движения."
+
+#: .\armor.json
+msgid "armored leather jumpsuit"
+msgid_plural "armored leather jumpsuits"
+msgstr[0] "бронированный кожаный комбинезон"
+msgstr[1] "бронированных кожаных комбинезона"
+msgstr[2] "бронированных кожаных комбинезонов"
+
+#. ~ Description for {'str': 'armored leather jumpsuit'}
+#: .\armor.json
+msgid ""
+"An armored short-sleeved jumpsuit made from thick leather and metal plates.  "
+"Cumbersome, but offers excellent protection from harm."
+msgstr ""
+"Бронированный комбинезон из толстой кожи и металлических пластин с короткими "
+"рукавами. Неудобная, но отлично защищает от повреждений."
+
+#: .\armor.json
+msgid "tire armor"
+msgid_plural "tire armors"
+msgstr[0] "шинная броня"
+msgstr[1] "шинных брони"
+msgstr[2] "шинных бронь"
+
+#. ~ Description for {'str': 'tire armor'}
+#: .\armor.json
+msgid ""
+"Makeshift armor made from parts of cut up tires.  Incredibly thick and tough "
+"but just as encumbering."
+msgstr ""
+"Самодельная броня, сделанная из частей разрезанных шин.  Невероятно толстая "
+"и прочная, но такая же неудобная."
+
+#: .\armor.json
+msgid "hard chest protector"
+msgid_plural "hard chest protectors"
+msgstr[0] "жёсткий нагрудный протектор"
+msgstr[1] "жёстких нагрудных протектора"
+msgstr[2] "жёстких нагрудных протекторов"
+
+#. ~ Description for {'str': 'hard chest protector'}
+#: .\armor.json
+msgid "A polyurethane chest protector with neoprene backing."
+msgstr "Полиуретановый нагрудный протектор с неопреновой подкладкой."
+
+#: .\armor.json
+msgid "conductive suit"
+msgid_plural "conductive suits"
+msgstr[0] "токопроводящий костюм"
+msgstr[1] "токопроводящих костюма"
+msgstr[2] "токопроводящих костюмов"
+
+#. ~ Description for {'str': 'conductive suit'}
+#: .\armor.json
+msgid ""
+"A one piece conductive suit used in linework.  Provides decent physical "
+"protection and full protection against electricity.  The hood is designed to "
+"fit over a hardhat."
+msgstr ""
+"Цельный токопроводящий костюм, используемый при работе на электролиниях. "
+"Обеспечивает достойную физическую защиту и полную защиту от электричества. "
+"Капюшон предназначен для ношения поверх каски."
+
+#: .\armor.json
+msgid "floating backpack"
+msgid_plural "floating backpacks"
+msgstr[0] "парящий рюкзак"
+msgstr[1] "парящих рюкзака"
+msgstr[2] "парящих рюкзаков"
+
+#. ~ Description for {'str': 'floating backpack'}
+#: .\armor.json
+msgid ""
+"A small backpack with a special rail system designed to reduce the load felt "
+"by the wearer when moving up and down.  Good storage for very little "
+"encumbrance."
+msgstr ""
+"Небольшой рюкзак со специальной системой направляющих, разработанной для "
+"уменьшения нагрузки, ощущаемой носителем при движении вверх и вниз. Отличное "
+"место для хранения при минимальных габаритах."
+
+#: .\armor.json
+msgid "floating rucksack"
+msgid_plural "floating rucksacks"
+msgstr[0] "парящий военный рюкзак"
+msgstr[1] "парящих военных рюкзака"
+msgstr[2] "парящих военных рюкзаков"
+
+#. ~ Description for {'str': 'floating rucksack'}
+#: .\armor.json
+msgid ""
+"A huge military rucksack with a special rail system designed to reduce the "
+"load felt by the wearer when moving up and down, provides a lot of storage "
+"for moderate encumbrance."
+msgstr ""
+"Большой военный рюкзак со специальной системой направляющих, разработанной "
+"для уменьшения нагрузки, ощущаемой носителем при движении вверх и вниз, "
+"предоставляет много места для хранения при умеренном стеснении."
+
+#: .\armor_xl.json
+msgid "XL leather jumpsuit"
+msgid_plural "XL leather jumpsuits"
+msgstr[0] "кожаный комбинезон XL"
+msgstr[1] "кожаных комбинезона XL"
+msgstr[2] "кожаных комбинезонов XL"
+
+#. ~ Description for {'str': 'XL leather jumpsuit'}
+#: .\armor_xl.json
+msgid ""
+"A short-sleeved jumpsuit made from thick leather.  Provides decent storage "
+"and proteciton, and is not very encumbering.  This can be worn regardless of "
+"your state of mutation"
+msgstr ""
+"Комбинезон из толстой кожи с короткими рукавами. Обеспечивает достойное "
+"место для хранения и защиту и при этом не слишком стесняет движения. Его "
+"можно носить независимо от анатомии тела."
+
+#: .\armor_xl.json
+msgid "XL armored leather jumpsuit"
+msgid_plural "XL armored leather jumpsuits"
+msgstr[0] "бронированный кожаный комбинезон XL"
+msgstr[1] "бронированных кожаных комбинезона XL"
+msgstr[2] "бронированных кожаных комбинезонов XL"
+
+#. ~ Description for {'str': 'XL armored leather jumpsuit'}
+#: .\armor_xl.json
+msgid ""
+"An armored short-sleeved jumpsuit made from thick leather and metal plates.  "
+"Cumbersome, but offers excellent protection from harm.  This can be worn "
+"regardless of your state of mutation"
+msgstr ""
+"Бронированный комбинезон из толстой кожи и металлических пластин с короткими "
+"рукавами. Неудобная, но отлично защищает от повреждений. Его можно носить "
+"независимо от анатомии тела."
+
+#: .\armor_xl.json
+msgid "pair of XL leather arm guards"
+msgid_plural "pairs of XL leather arm guards"
+msgstr[0] "пара кожаных наручей XL"
+msgstr[1] "пары кожаных наручей XL"
+msgstr[2] "пар кожаных наручей XL"
+
+#. ~ Description for {'str': 'pair of XL leather arm guards', 'str_pl': 'pairs
+#. of XL leather arm guards'}
+#: .\armor_xl.json
+msgid ""
+"A pair of massive tough leather arm guards.  Fairly light and comfortable."
+msgstr "Пара огромных прочных кожаных наручей. Довольно легкие и удобные."
+
+#: .\armor_xl.json
+msgid "pair of XL leather armor gauntlets"
+msgid_plural "pairs of XL leather armor gauntlets"
+msgstr[0] "пара кожаных перчаток без пальцев XL"
+msgstr[1] "пары кожаных перчаток без пальцев XL"
+msgstr[2] "пар кожаных перчаток без пальцев XL"
+
+#. ~ Description for {'str': 'pair of XL leather armor gauntlets', 'str_pl':
+#. 'pairs of XL leather armor gauntlets'}
+#: .\armor_xl.json
+msgid ""
+"Heavy and massive fingerless leather gloves.  Very flexible and comfortable."
+msgstr ""
+"Пара огромных тяжелых кожаные перчатки без пальцев. Очень гибкие и удобные."
+
+#: .\armor_xl.json
+msgid "pair of XL leather gloves"
+msgid_plural "pairs of XL leather gloves"
+msgstr[0] "пара кожаных перчаток XL"
+msgstr[1] "пары кожаных перчаток XL"
+msgstr[2] "пар кожаных перчаток XL"
+
+#. ~ Description for {'str': 'pair of XL leather gloves', 'str_pl': 'pairs of
+#. XL leather gloves'}
+#: .\armor_xl.json
+msgid "A massive pair of black leather gloves."
+msgstr "Огромные черные кожаные перчатки."
+
+#: .\armor_xl.json
+msgid "XL leather armor helmet"
+msgid_plural "XL leather armor helmets"
+msgstr[0] "кожаный бронированный шлем XL"
+msgstr[1] "кожаных бронированных шлема XL"
+msgstr[2] "кожаных бронированных шлемов XL"
+
+#. ~ Description for {'str': 'XL leather armor helmet'}
+#: .\armor_xl.json
+msgid ""
+"A massive and thick leather helmet that provides excellent protection for "
+"the head."
+msgstr ""
+"Огромный и толстый кожаный шлем, обеспечивающий отличную защиту головы."
+
+#: .\armor_xl.json
+msgid "XL scrap suit"
+msgid_plural "XL scrap suits"
+msgstr[0] "костюм из металлолома XL"
+msgstr[1] "костюма из металлолома XL"
+msgstr[2] "костюмов из металлолома XL"
+
+#. ~ Description for {'str': 'XL scrap suit'}
+#: .\armor_xl.json
+msgid ""
+"A massive suit of armor made from scraps of metal secured by simple strings; "
+"provides decent protection, but the loose collection of plates doesn't make "
+"for the most convenient protection."
+msgstr ""
+"Огромный доспех, сделанный из кусков металла, скрепленных простыми "
+"веревками. Обеспечивает достойную защиту, но неплотно прилегающие друг к "
+"другу пластины - не самая удобная защита."
+
+#: .\armor_xl.json
+msgid "pair of XL metal arm guards"
+msgid_plural "pairs of XL metal arm guards"
+msgstr[0] "пара металлических наручей XL"
+msgstr[1] "пары металлических наручей XL"
+msgstr[2] "пар металлических наручей XL"
+
+#. ~ Description for {'str': 'pair of XL metal arm guards', 'str_pl': 'pairs
+#. of XL metal arm guards'}
+#: .\armor_xl.json
+msgid ""
+"A massive pair of arm guards hammered out from metal.  Perfect for the Post-"
+"Apocalyptic Warrior look."
+msgstr ""
+"Пара огромных наручей, выкованных из металла.  Идеально подходят для образа "
+"пост-апокалиптического воина."
+
+#: .\armor_xl.json
+msgid "pair of XL iron greaves"
+msgid_plural "pairs of XL iron greaves"
+msgstr[0] "пара железных поножей XL"
+msgstr[1] "пары железных поножей XL"
+msgstr[2] "пар железных поножей XL"
+
+#. ~ Description for {'str': 'pair of XL iron greaves', 'str_pl': 'pairs of XL
+#. iron greaves'}
+#: .\armor_xl.json
+msgid "A massive pair of iron leg guards with a simple leather lining."
+msgstr "Пара огромных железных поножей на ноги с простой кожаной подкладкой."
+
+#: .\armor_xl.json
+msgid "pair of XL chitinous gauntlets"
+msgid_plural "pairs of XL chitinous gauntlets"
+msgstr[0] "пара хитиновых рукавиц XL"
+msgstr[1] "пары хитиновых рукавиц XL"
+msgstr[2] "пар хитиновых рукавиц XL"
+
+#. ~ Description for {'str': 'pair of XL chitinous gauntlets', 'str_pl':
+#. 'pairs of XL chitinous gauntlets'}
+#: .\armor_xl.json
+msgid ""
+"Massive gauntlets made from the exoskeletons of insects.  Very light and "
+"durable."
+msgstr ""
+"Огромные перчатки, сделанные из хитина насекомых.  Очень легкие и прочные."
+
+#: .\armor_xl.json
+msgid "pair of XL biosilicified chitin gauntlets"
+msgid_plural "pairs of XL biosilicified chitin gauntlets"
+msgstr[0] "пара биосилицированных хитиновых рукавиц XL"
+msgstr[1] "пары биосилицированных хитиновых рукавиц XL"
+msgstr[2] "пар биосилицированных хитиновых рукавиц XL"
+
+#. ~ Description for {'str': 'pair of XL biosilicified chitin gauntlets',
+#. 'str_pl': 'pairs of XL biosilicified chitin gauntlets'}
+#: .\armor_xl.json
+msgid ""
+"Massive gauntlets crafted from the carefully cleaned and pruned "
+"biosilicified exoskeletons of acidic ants.  Acid-resistant and very durable."
+msgstr ""
+"Огромные перчатки, созданные из тщательно очищенных и срезанных "
+"биосилицированных экзоскелетов кислотных муравьев. Кислотостойкие и очень "
+"прочные."
+
+#: .\armor_xl.json
+msgid "XL chitinous helmet"
+msgid_plural "XL chitinous helmets"
+msgstr[0] "хитиновый шлем XL"
+msgstr[1] "хитиновых шлема XL"
+msgstr[2] "хитиновых шлемов XL"
+
+#. ~ Description for {'str': 'XL chitinous helmet'}
+#: .\armor_xl.json
+msgid ""
+"A massive helmet made from the exoskeletons of insects.  Covers the entire "
+"head; very light and durable."
+msgstr ""
+"Огромный шлем, сделанный из экзоскелетов насекомых. Закрывает всю голову, "
+"очень легкий и прочный."
+
+#: .\armor_xl.json
+msgid "XL biosilicified chitin helmet"
+msgid_plural "XL biosilicified chitin helmets"
+msgstr[0] "биосилицированный хитиновый шлем XL"
+msgstr[1] "биосилицированных хитиновых шлема XL"
+msgstr[2] "биосилицированных хитиновых шлемов XL"
+
+#. ~ Description for {'str': 'XL biosilicified chitin helmet'}
+#: .\armor_xl.json
+msgid ""
+"A massive helmet crafted from the carefully cleaned and pruned biosilicified "
+"exoskeletons of acidic ants.  Covers the entire head; acid-resistant and "
+"very durable."
+msgstr ""
+"Огромный шлем, созданный из тщательно очищенных и срезанных "
+"биосилицированных экзоскелетов кислотных муравьев. Покрывает всю голову. "
+"Кислотостойкий и очень прочный."
+
+#: .\armor_xl.json
+msgid "pair of XL chitin arm guards"
+msgid_plural "pairs of XL chitin arm guards"
+msgstr[0] "пара хитиновых наручей XL"
+msgstr[1] "пары хитиновых наручей XL"
+msgstr[2] "пар хитиновых наручей XL"
+
+#. ~ Description for {'str': 'pair of XL chitin arm guards', 'str_pl': 'pairs
+#. of XL chitin arm guards'}
+#: .\armor_xl.json
+msgid ""
+"A pair of massive arm guards made from the exoskeletons of insects.  Light "
+"and durable."
+msgstr ""
+"Пара огромных наручей, изготовленных из экзоскелетов насекомых. Легкие и "
+"прочные."
+
+#: .\armor_xl.json
+msgid "pair of XL biosilicified chitin arm guards"
+msgid_plural "pairs of XL biosilicified chitin arm guards"
+msgstr[0] "пара биосилицированных хитиновых наручей XL"
+msgstr[1] "пары биосилицированных хитиновых наручей XL"
+msgstr[2] "пар биосилицированных хитиновых наручей XL"
+
+#. ~ Description for {'str': 'pair of XL biosilicified chitin arm guards',
+#. 'str_pl': 'pairs of XL biosilicified chitin arm guards'}
+#: .\armor_xl.json
+msgid ""
+"A pair of massive arm guards crafted from the carefully cleaned and pruned "
+"biosilicified exoskeletons of acidic ants.  Acid-resistant and very durable."
+msgstr ""
+"Пара огромных наручей, изготовленных из тщательно очищенных и срезанных "
+"биосилицированных экзоскелетов кислотных муравьев. Кислотостойкие и очень "
+"прочные."
+
+#: .\armor_xl.json
+msgid "XL chitinous armor"
+msgid_plural "XL chitinous armors"
+msgstr[0] "хитиновая броня XL"
+msgstr[1] "хитиновые брони XL"
+msgstr[2] "хитиновых бронь XL"
+
+#. ~ Description for {'str': 'XL chitinous armor'}
+#: .\armor_xl.json
+msgid ""
+"Massive leg and body armor made from the exoskeletons of insects.  Light and "
+"durable."
+msgstr ""
+"Огромная броня для ног и тела, сделанная из экзоскелетов насекомых. Легкая и "
+"прочная."
+
+#: .\armor_xl.json
+msgid "XL biosilicified chitin armor"
+msgid_plural "XL biosilicified chitin armors"
+msgstr[0] "биосилицированная хитиновая броня XL"
+msgstr[1] "биосилицированные хитиновые брони XL"
+msgstr[2] "биосилицированная хитиновая броня XL"
+
+#. ~ Description for {'str': 'XL biosilicified chitin armor'}
+#: .\armor_xl.json
+msgid ""
+"Massive leg and body armor crafted from the carefully cleaned and pruned "
+"biosilicified exoskeletons of acidic ants.  Acid-resistant and very durable."
+msgstr ""
+"Огромная броня для ног и тела, созданная из тщательно очищенных и срезанных "
+"биосилицированных экзоскелетов кислотных муравьев. Кислотостойкая и очень "
+"прочная."
+
+#: .\armor_xl.json
+msgid "pair of XL flame-resistant gloves"
+msgid_plural "pairs of XL flame-resistant gloves"
+msgstr[0] "пара огнеупорных перчаток XL"
+msgstr[1] "пары огнеупрорных перчаток XL"
+msgstr[2] "пар огнеупрорных перчаток XL"
+
+#. ~ Description for {'str': 'pair of XL flame-resistant gloves', 'str_pl':
+#. 'pairs of XL flame-resistant gloves'}
+#: .\armor_xl.json
+msgid ""
+"A massive, snug fitting pair of gloves made from thin and lightweight Nomex "
+"fire-resistant fabric.  Tough yet breathable, they are light and comfortable "
+"to wear under clothing."
+msgstr ""
+"Огромные, плотно прилегающие перчатки изготовлены из номекса, тонкой и "
+"легкой огнестойкой ткани. Прочные, но в то же время дышащие, они легки и "
+"комфортны для ношения под одеждой."
+
+#: .\armor_xl.json
+msgid "XL flame-resistant hood"
+msgid_plural "XL flame-resistant hoods"
+msgstr[0] "огнеупорный капюшон XL"
+msgstr[1] "огнеупорных капюшона XL"
+msgstr[2] "огнеупорных капюшонов XL"
+
+#. ~ Description for {'str': 'XL flame-resistant hood'}
+#: .\armor_xl.json
+msgid ""
+"A massive, snug fitting garment that protects your head and neck, made from "
+"lightweight Nomex fire-resistant fabric.  Tough yet breathable, it is light "
+"and comfortable to wear under clothing."
+msgstr ""
+"Огромная, плотно прилегающая одежда, защищающая голову и шею, изготовлена из "
+"номекса, тонкой и легкой огнестойкой ткани. Прочная, но в то же время "
+"дышащая, она легка и комфортна для ношения под одеждой."
+
+#: .\armor_xl.json
+msgid "pair of XL flame-resistant socks"
+msgid_plural "pairs of XL flame-resistant socks"
+msgstr[0] "пара огнеупорных носков XL"
+msgstr[1] "пары огнеупорных носков XL"
+msgstr[2] "пар огнеупорных носков XL"
+
+#. ~ Description for {'str': 'pair of XL flame-resistant socks', 'str_pl':
+#. 'pairs of XL flame-resistant socks'}
+#: .\armor_xl.json
+msgid ""
+"A massive, snug fitting pair of stockings made from thin and lightweight "
+"Nomex fire-resistant fabric.  Tough yet breathable, they are light and "
+"comfortable to wear under clothing."
+msgstr ""
+"Огромные, плотно прилегающие носки из номекса, тонкой и легкой огнестойкой "
+"ткани. Прочные, но в то же время дышащие, они легки и комфортны для ношения "
+"под одеждой."
+
+#: .\armor_xl.json
+msgid "flame-resistant suit"
+msgid_plural "flame-resistant suits"
+msgstr[0] "огнеупорный комбинезон XL"
+msgstr[1] "огнеупорных комбинезона XL"
+msgstr[2] "огнеупорных комбинезонов XL"
+
+#. ~ Description for {'str': 'flame-resistant suit'}
+#: .\armor_xl.json
+msgid ""
+"A massive, snug body suit made from thin and lightweight Nomex fire-"
+"resistant fabric.  Tough yet breathable, it is light and comfortable to wear "
+"under clothing."
+msgstr ""
+"Огромный, обтягивающий тело костюм из номекса, тонкой и легкой огнестойкой "
+"ткани. Прочные, но в то же время дышащие, они легки и комфортны для ношения "
+"под одеждой."
+
+#: .\armor_xl.json
+msgid "XL sleeveless trenchcoat"
+msgid_plural "XL sleeveless trenchcoats"
+msgstr[0] "тренчкот без рукавов XL"
+msgstr[1] "тренчкота без рукавов XL"
+msgstr[2] "тренчкотов без рукавов XL"
+
+#. ~ Description for {'str': 'XL sleeveless trenchcoat'}
+#: .\armor_xl.json
+msgid ""
+"A massive cotton trenchcoat that leaves your arms unencumbered.  Has plenty "
+"of storage space due to its many pockets."
+msgstr ""
+"Огромный хлопковый тренчкот, который не стесняет движений. В нем много места "
+"для хранения благодаря многочисленным карманам."
+
+#: .\armor_xl.json
+msgid "XL sleeveless leather trenchcoat"
+msgid_plural "XL sleeveless leather trenchcoats"
+msgstr[0] "кожаный тренчкот без рукавов XL"
+msgstr[1] "кожаных тренчкота без рукавов XL"
+msgstr[2] "кожаных тренчкотов без рукавов XL"
+
+#. ~ Description for {'str': 'XL sleeveless leather trenchcoat'}
+#: .\armor_xl.json
+msgid ""
+"A massive leather trenchcoat without sleeves, leaving your arms "
+"unencumbered.  Has plenty of storage space due to its many pockets."
+msgstr ""
+"Огромный кожаный тренчкот без рукавов, который не стесняет движений. В нем "
+"много места для хранения благодаря многочисленным карманам."
+
+#: .\armor_xl.json
+msgid "XL trenchcoat"
+msgid_plural "XL trenchcoats"
+msgstr[0] "тренчкот XL"
+msgstr[1] "тренчкота XL"
+msgstr[2] "тренчкотов XL"
+
+#. ~ Description for {'str': 'XL trenchcoat'}
+#: .\armor_xl.json
+msgid "A massive cotton trenchcoat, lined with pockets.  Great for storage."
+msgstr ""
+"Массивный хлопковый тренчкот на молнии с карманами. Отлично подходит для "
+"хранения."
+
+#: .\armor_xl.json
+msgid "XL leather trenchcoat"
+msgid_plural "XL leather trenchcoats"
+msgstr[0] "кожаный тренчкот XL"
+msgstr[1] "кожаных тренчкота XL"
+msgstr[2] "кожаных тренчкотов XL"
+
+#. ~ Description for {'str': 'XL leather trenchcoat'}
+#: .\armor_xl.json
+msgid "A massive leather trenchcoat, lined with pockets.  Great for storage."
+msgstr ""
+"Массивный кожаный тренчкот на молнии с карманами. Отлично подходит для "
+"хранения."
+
+#: .\armor_xl.json
+msgid "XL duster"
+msgid_plural "XL dusters"
+msgstr[0] "пыльник XL"
+msgstr[1] "пыльника XL"
+msgstr[2] "пыльников XL"
+
+#. ~ Description for {'str': 'XL duster'}
+#: .\armor_xl.json
+msgid "A massive full-length duster coat.  Has many pockets for storage."
+msgstr ""
+"Огромное пальто-пыльник во всю длину. Имеет множество карманов для хранения."
+
+#: .\armor_xl.json
+msgid "XL leather duster"
+msgid_plural "XL leather dusters"
+msgstr[0] "кожаный пыльник XL"
+msgstr[1] "кожаных пыльника XL"
+msgstr[2] "кожаных пыльников XL"
+
+#. ~ Description for {'str': 'XL leather duster'}
+#: .\armor_xl.json
+msgid "A massive leather full-length duster.  Has many pockets for storage."
+msgstr ""
+"Огромный кожаный пыльник во всю длину. Имеет множество карманов для хранения."
+
+#: .\armor_xl.json
+msgid "XL sleeveless duster"
+msgid_plural "XL sleeveless dusters"
+msgstr[0] "пыльник-безрукавка XL"
+msgstr[1] "пыльника без рукавов XL"
+msgstr[2] "пыльников без рукавов XL"
+
+#. ~ Description for {'str': 'XL sleeveless duster'}
+#: .\armor_xl.json
+msgid ""
+"A massive full-length duster that leaves your arms unencumbered.  Has plenty "
+"of storage space due to its many pockets."
+msgstr ""
+"Огромный пыльник во всю длину, не стесняющий движений. Благодаря "
+"многочисленным карманам в нем много места для хранения."
+
+#: .\armor_xl.json
+msgid "XL sleeveless leather duster"
+msgid_plural "XL sleeveless leather dusters"
+msgstr[0] "кожаный пыльник без рукавов XL"
+msgstr[1] "кожаных пыльника без рукавов XL"
+msgstr[2] "кожаных пыльников без рукавов XL"
+
+#. ~ Description for {'str': 'XL sleeveless leather duster'}
+#: .\armor_xl.json
+msgid ""
+"A massive leather full-length duster without sleeves, leaving your arms "
+"unencumbered.  Has plenty of storage space due to its many pockets."
+msgstr ""
+"Огромный кожаный пыльник во всю длину без рукавов, оставляющий ваши руки "
+"свободными. Благодаря многочисленным карманам в нем много места для хранения."
+
+#: .\armor_xl.json
+msgid "XL cargo pants"
+msgid_plural "XL cargo pants"
+msgstr[0] "штаны с карманами XL"
+msgstr[1] "пары штанов с карманами XL"
+msgstr[2] "пар штанов с карманами XL"
+
+#. ~ Description for {'str': 'XL cargo pants', 'str_pl': 'XL cargo pants'}
+#: .\armor_xl.json
+msgid "A massive pair of pants lined with pockets, offering lots of storage."
+msgstr "Огромные штаны с карманами, в которых можно хранить много вещей."
+
+#: .\armor_xl.json
+msgid "XL cargo shorts"
+msgid_plural "XL cargo shorts"
+msgstr[0] "шорты с карманами"
+msgstr[1] "шорт с карманами"
+msgstr[2] "шорт с карманами"
+
+#. ~ Description for {'str': 'XL cargo shorts', 'str_pl': 'XL cargo shorts'}
+#: .\armor_xl.json
+msgid "A massive pair of shorts lined with pockets, offering decent storage."
+msgstr "Огромные шорты с карманами, в которых можно хранить много вещей."
+
+#: .\armor_xl.json
+msgid "XL plate armor"
+msgid_plural "XL plate armors"
+msgstr[0] "пластинчатая броня XL"
+msgstr[1] "пластинчатых брони XL"
+msgstr[2] "пластинчатых бронь XL"
+
+#. ~ Description for {'str': 'XL plate armor'}
+#: .\armor_xl.json
+msgid "A massive suit of Gothic plate armor."
+msgstr "Огромный готический пластинчатый доспех."
+
+#: .\armor_xl.json
+msgid "pair of XL armored gauntlets"
+msgid_plural "pairs of XL armored gauntlets"
+msgstr[0] "пара бронерукавиц XL"
+msgstr[1] "пары бронерукавиц XL"
+msgstr[2] "пар бронерукавиц XL"
+
+#. ~ Description for {'str': 'pair of XL armored gauntlets', 'str_pl': 'pairs
+#. of XL armored gauntlets'}
+#: .\armor_xl.json
+msgid "An extremely heavy set of massive armor-plated leather gloves."
+msgstr "Очень тяжелые огромные кожаные перчатки, обшитые броней."
+
+#: .\armor_xl.json
+msgid "XL barbute helm"
+msgid_plural "XL barbute helms"
+msgstr[0] "коринфский шлем XL"
+msgstr[1] "коринфских шлема XL"
+msgstr[2] "коринфских шлемов XL"
+
+#. ~ Description for {'str': 'XL barbute helm'}
+#: .\armor_xl.json
+msgid ""
+"A massive medieval helmet that provides excellent protection for the head, "
+"with a Y shaped opening for the face."
+msgstr ""
+"Огромный средневековый шлем, обеспечивающий отличную защиту головы, с Y-"
+"образным отверстием для лица."
+
+#: .\armor_xl.json
+msgid "XL great helm"
+msgid_plural "XL great helms"
+msgstr[0] "превосходный шлем XL"
+msgstr[1] "превосходных шлема XL"
+msgstr[2] "превосходных шлемов XL"
+
+#. ~ Description for {'str': 'XL great helm'}
+#: .\armor_xl.json
+msgid ""
+"A massive medieval helmet that provides excellent protection to the entire "
+"head, at the cost of great encumbrance."
+msgstr ""
+"Огромный средневековый шлем, обеспечивающий отличную защиту всей головы, но "
+"при этом очень громоздкий."
+
+#: .\armor_xl.json
+msgid "XL O-yoroi"
+msgid_plural "XL O-yorois"
+msgstr[0] "о-ёрой XL"
+msgstr[1] "о-ёрой XL"
+msgstr[2] "о-ёрой XL"
+
+#. ~ Description for {'str': 'XL O-yoroi'}
+#: .\armor_xl.json
+msgid "A massive ornamental suit of Japanese samurai armor."
+msgstr "Огромный декоративный костюм в виде японских самурайских доспехов."
+
+#: .\armor_xl.json
+msgid "XL kabuto"
+msgid_plural "XL kabutos"
+msgstr[0] "кабуто"
+msgstr[1] "кабуто"
+msgstr[2] "кабуто"
+
+#. ~ Description for {'str': 'XL kabuto'}
+#: .\armor_xl.json
+msgid ""
+"A massive medieval Japanese helmet with a scowling facemask that provides "
+"excellent protection to the entire head and face."
+msgstr ""
+"Огромный средневековый японский шлем с угрюмой маской, обеспечивающей "
+"отличную защиту всей головы и лица."
+
+#: .\armor_xl.json
+msgid "XL faraday plate suit"
+msgid_plural "XL faraday plate suits"
+msgstr[0] "пластинчатый костюм Фарадея XL"
+msgstr[1] "пластинчатых костюма Фарадея XL"
+msgstr[2] "пластинчатых костюмов Фарадея XL"
+
+#. ~ Description for {'str': 'XL faraday plate suit'}
+#: .\armor_xl.json
+msgid ""
+"A massive suit of Gothic plate armor, complete with boots, gauntlets, and a "
+"barbute helmet.  It has been conductively interconnected, protecting against "
+"electricity."
+msgstr ""
+"Костюм готической пластинчатой брони, в комплекте с перчатками, рукавицами и "
+"шлемом с колючками.  Он имеет проводящие соединения, защищающие от "
+"электричества."
+
+#: .\armor_xl.json
+msgid "pair of XL steel arm guards"
+msgid_plural "pairs of XL steel arm guards"
+msgstr[0] "пара стальных наручей XL"
+msgstr[1] "пары стальных наручей XL"
+msgstr[2] "пар стальных наручей XL"
+
+#. ~ Description for {'str': 'pair of XL steel arm guards', 'str_pl': 'pairs
+#. of XL steel arm guards'}
+#: .\armor_xl.json
+msgid ""
+"A massive full assembly of medieval arm protection.  Rerebraces, couters, "
+"and vambraces, with leather straps to secure each piece and connect it as "
+"part of a set."
+msgstr ""
+"Огромный полный комплект средневековой защиты для рук. Перекладины, каутеры "
+"и вамбрасы, с кожаными ремнями для фиксации каждой детали и соединения их в "
+"комплект."
+
+#: .\armor_xl.json
+msgid "XL cuirass"
+msgid_plural "XL cuirasses"
+msgstr[0] "кираса XL"
+msgstr[1] "кирасы XL"
+msgstr[2] "кирас XL"
+
+#. ~ Description for {'str': 'XL cuirass', 'str_pl': 'XL cuirasses'}
+#: .\armor_xl.json
+msgid ""
+"A massive steel breastplate, and a vital part of plate armor.  Even as full "
+"armor went into decline, cuirasses remained in use among cavalry in Europe."
+msgstr ""
+"Огромный стальной нагрудник - важнейшая часть пластинчатого доспеха. Даже "
+"когда полный доспех пришел в упадок, кирасы продолжали использоваться среди "
+"кавалерии в Европе."
+
+#: .\armor_xl.json
+msgid "pair of XL steel leg guards"
+msgid_plural "pairs of XL steel leg guards"
+msgstr[0] "пара стальных поножей XL"
+msgstr[1] "пары стальных поножей XL"
+msgstr[2] "пар стальных поножей XL"
+
+#. ~ Description for {'str': 'pair of XL steel leg guards', 'str_pl': 'pairs
+#. of XL steel leg guards'}
+#: .\armor_xl.json
+msgid ""
+"A masive full assembly of medieval leg protection.  Cuisses, poleyns, and "
+"greaves, with leather straps to secure each piece and connect it as part of "
+"a set."
+msgstr ""
+"Огромный комплект средневековой защиты ног. Кирасы, полейны и поножи, с "
+"кожаными ремнями для крепления каждой детали и соединения их в комплект."
+
+#: .\armor_xl.json
+msgid "XL faraday chainmail suit"
+msgid_plural "XL faraday chainmail suits"
+msgstr[0] "колчужный костюм Фарадея XL"
+msgstr[1] "колчужных костюма Фарадея XL"
+msgstr[2] "колчужных костюмов Фарадея XL"
+
+#. ~ Description for {'str': 'XL faraday chainmail suit'}
+#: .\armor_xl.json
+msgid ""
+"A massive, fully customized chainmail suit.  The coif, shirt, arms, and "
+"leggings have been modified with leather straps to deal with uneven weight "
+"distribution and to allow them to be used separately.  It has been combined "
+"with a set of armored boots and gauntlets and conductively interconnected, "
+"protecting against electricity."
+msgstr ""
+"Огромный, полностью изготовленный на заказ костюм из кольчуги.  Китель, "
+"рубаха, наручи и поножи были дополнены кожаными ремнями, чтобы справиться с "
+"неравномерным распределением веса и дать возможность использовать их по "
+"отдельности.  В дополнение к нему идут бронированные сапоги и перчатки, "
+"которые соединены между собой проводящими элементами, защищающими от "
+"электричества."
+
+#: .\armor_xl.json
+msgid "XL chainmail armor"
+msgid_plural "XL chainmail armors"
+msgstr[0] "кольчужные доспехи XL"
+msgstr[1] "кольчужных доспеха XL"
+msgstr[2] "кольчужных доспехов XL"
+
+#. ~ Description for {'str': 'XL chainmail armor'}
+#: .\armor_xl.json
+msgid ""
+"A massive fully customized chainmail suit.  The coif, shirt, arms, and "
+"leggings have been modified with leather straps to deal with uneven weight "
+"distribution and to allow them to be used separately."
+msgstr ""
+"Огромный, полностью изготовленный на заказ костюм из кольчуги.  Китель, "
+"рубаха, наручи и поножи были дополнены кожаными ремнями, чтобы справиться с "
+"неравномерным распределением веса и дать возможность использовать их по "
+"отдельности."
+
+#: .\armor_xl.json
+msgid "pair of XL chainmail sleeves"
+msgid_plural "pairs of XL chainmail sleeves"
+msgstr[0] "пара кольчужных рукавов XL"
+msgstr[1] "пары кольчужных рукавов XL"
+msgstr[2] "пар кольчужных рукавов XL"
+
+#. ~ Description for {'str': 'pair of XL chainmail sleeves', 'str_pl': 'pairs
+#. of XL chainmail sleeves'}
+#: .\armor_xl.json
+msgid ""
+"Massive customized chainmail arms.  Each sleeve has leather straps to "
+"connect them with each other.  The lack of fingers makes them less "
+"cumbersome and allows them to be used with gloves."
+msgstr ""
+"Огромные, полностью изготовленные на заказ колчужные рукава. Каждый рукав "
+"имеет кожаные ремешки для соединения между собой. Отсутствие пальцев делает "
+"их менее тяжелыми и позволяет использовать с перчатками."
+
+#: .\armor_xl.json
+msgid "XL chainmail coif"
+msgid_plural "XL chainmail coifs"
+msgstr[0] "колчужный подшлемник XL"
+msgstr[1] "колчужных подшлемника XL"
+msgstr[2] "колчужных подшлемников XL"
+
+#. ~ Description for {'str': 'XL chainmail coif'}
+#: .\armor_xl.json
+msgid ""
+"A massive customized chainmail hood.  Can be worn comfortably under helmets."
+msgstr ""
+"Огромный кольчужный капюшон, изготовленный по индивидуальному заказу. Можно "
+"удобно носить под шлемами."
+
+#: .\armor_xl.json
+msgid "XL chainmail leggings"
+msgid_plural "pairs of XL chainmail leggings"
+msgstr[0] "колчужные поножи XL"
+msgstr[1] "колчужных понож XL"
+msgstr[2] "колчужных понож XL"
+
+#. ~ Description for {'str': 'XL chainmail leggings', 'str_pl': 'pairs of XL
+#. chainmail leggings'}
+#: .\armor_xl.json
+msgid ""
+"Massive customized chainmail legs.  Their leather straps keep everything in "
+"place, and the lack of toes and heels allows them to work perfectly well "
+"with footwear."
+msgstr ""
+"Огромные, полностью изготовленные на заказ колчужные поножи. Огромные "
+"изготовленные по индивидуальному заказу ноги из цепного металла. Благодаря "
+"кожаным ремешкам все держится на месте, а благодаря отсутствию носков и "
+"каблуков они прекрасно сочетаются с обувью."
+
+# секция XL
+#: .\armor_xl.json
+msgid "chainmail vest"
+msgid_plural "chainmail vests"
+msgstr[0] "кольчужный жилет XL"
+msgstr[1] "кольчужных жилета XL"
+msgstr[2] "кольчужных жилетов XL"
+
+#. ~ Description for {'str': 'chainmail vest'}
+#: .\armor_xl.json
+msgid ""
+"A customized chainmail vest.  It's a sleeveless piece of chainmail with "
+"small leather straps designed to better distribute the weight."
+msgstr ""
+"Изготовленный на заказ жилет из кольчуги.  Это безрукавка из кольчуги с "
+"небольшими кожаными ремнями, предназначенными для лучшего распределения веса."
+
+#: .\armor_xl.json
+msgid "pair of XL boots"
+msgid_plural "pairs of XL boots"
+msgstr[0] "пара ботинок XL"
+msgstr[1] "пары ботинок XL"
+msgstr[2] "пар ботинок XL"
+
+#. ~ Description for {'str': 'pair of XL boots', 'str_pl': 'pairs of XL
+#. boots'}
+#: .\armor_xl.json
+msgid "Massive leather boots.  Very durable."
+msgstr "Огромные кожаные ботинки.  Очень прочные."
+
+#: .\armor_xl.json
+msgid "pair of XL leather armor boots"
+msgid_plural "pairs of XL leather armor boots"
+msgstr[0] "пара кожаных бронеботинок XL"
+msgstr[1] "пары кожаных бронеботинок XL"
+msgstr[2] "пар кожаных бронеботинок XL"
+
+#. ~ Description for {'str': 'pair of XL leather armor boots', 'str_pl':
+#. 'pairs of XL leather armor boots'}
+#: .\armor_xl.json
+msgid ""
+"Massive leather boots made specifically to protect the feet.  Light and "
+"tough."
+msgstr ""
+"Огромные кожаные ботинки, созданные специально для защиты ног. Легкие и "
+"прочные."
+
+#: .\armor_xl.json
+msgid "pair of XL armored boots"
+msgid_plural "pairs of XL armored boots"
+msgstr[0] "пара бронеботинок XL"
+msgstr[1] "пары бронеботинок XL"
+msgstr[2] "пар бронеботинок XL"
+
+#. ~ Description for {'str': 'pair of XL armored boots', 'str_pl': 'pairs of
+#. XL armored boots'}
+#: .\armor_xl.json
+msgid "An extremely heavy set of massive armor plated boots."
+msgstr "Очень тяжелые огромные сапоги, обшитые пластиной."
+
+#: .\armor_xl.json
+msgid "pair of XL chitinous boots"
+msgid_plural "pairs of XL chitinous boots"
+msgstr[0] "пара хитиновых ботинок XL"
+msgstr[1] "пары хитиновых ботинок XL"
+msgstr[2] "пар хитиновых ботинок XL"
+
+#. ~ Description for {'str': 'pair of XL chitinous boots', 'str_pl': 'pairs of
+#. XL chitinous boots'}
+#: .\armor_xl.json
+msgid ""
+"Massive boots made from the exoskeletons of insects.  Light and durable."
+msgstr ""
+"Огромные ботинки, сделанные из экзоскелетов насекомых. Легкие и прочные."
+
+#: .\armor_xl.json
+msgid "pair of XL biosilicified chitin boots"
+msgid_plural "pairs of XL biosilicified chitin boots"
+msgstr[0] "пара биосилицированных хитиновых ботинок XL"
+msgstr[1] "пары биосилицированных хитиновых ботинок XL"
+msgstr[2] "пар биосилицированных хитиновых ботинок XL"
+
+#. ~ Description for {'str': 'pair of XL biosilicified chitin boots',
+#. 'str_pl': 'pairs of XL biosilicified chitin boots'}
+#: .\armor_xl.json
+msgid ""
+"Massive boots crafted from carefully cleaned and pruned biosilicified "
+"exoskeletons of acidic ants.  Acid-resistant and very durable."
+msgstr ""
+"Огромные ботинки, изготовленные из тщательно очищенных и срезанных "
+"биосилицированных экзоскелетов кислотных муравьев. Кислотоустойчивые и очень "
+"прочные."
+
+#: .\armor_xl.json
+msgid "XL backpack"
+msgid_plural "XL backpacks"
+msgstr[0] "рюкзак XL"
+msgstr[1] "рюкзака XL"
+msgstr[2] "рюкзаков XL"
+
+#. ~ Description for {'str': 'XL backpack'}
+#: .\armor_xl.json
+msgid "A large backpack.  Good storage for a little encumbrance."
+msgstr "Большой рюкзак.  Хорошее хранилище для небольшого количества вещей."
+
+#: .\armor_xl.json
+msgid "XL leather backpack"
+msgid_plural "XL leather backpacks"
+msgstr[0] "кожаный рюкзак XL"
+msgstr[1] "кожаных рюкзака XL"
+msgstr[2] "кожаных рюкзаков XL"
+
+#. ~ Description for {'str': 'XL leather backpack'}
+#: .\armor_xl.json
+msgid "A large leather backpack.  Good storage for a little encumbrance."
+msgstr ""
+"Большой кожаный рюкзак.  Хорошее хранилище для небольшого количества вещей."
+
+#: .\armor_xl.json
+msgid "XL duffel bag"
+msgid_plural "XL duffel bags"
+msgstr[0] "вещмешок XL"
+msgstr[1] "вещмешка XL"
+msgstr[2] "вещмешков XL"
+
+#. ~ Description for {'str': 'XL duffel bag'}
+#: .\armor_xl.json
+msgid ""
+"A massive duffel bag.  Provides plenty of storage, but is severely "
+"encumbering."
+msgstr ""
+"Огромный вещмешок. Обеспечивает много места для хранения, но сильно стесняет "
+"движения."
+
+#: .\armor_xl.json
+msgid "XL tool belt"
+msgid_plural "XL tool belts"
+msgstr[0] "пояс для инструментов XL"
+msgstr[1] "пояса для инструментов XL"
+msgstr[2] "поясов для инструментов XL"
+
+#. ~ Description for {'str': 'XL tool belt'}
+#: .\armor_xl.json
+msgid ""
+"A massive belt with pockets and four small belt loops.  Widely used by "
+"handymen and electricians if handymen and electricians were bears."
+msgstr ""
+"Огромный ремень с карманами и четырьмя маленькими петлями для крепления. "
+"Широко использовался разнорабочими и электриками, если разнорабочие и "
+"электрики были медведями."
+
+#: .\armor_xl.json
+msgid "XL chest rig"
+msgid_plural "XL chest rigs"
+msgstr[0] "нагрудник XL"
+msgstr[1] "нагрудника XL"
+msgstr[2] "нагрудников XL"
+
+#. ~ Description for {'str': 'XL chest rig'}
+#: .\armor_xl.json
+msgid ""
+"A massive vest covered in webbing, pockets and straps.  This variety is "
+"favored by the military, as it is capable of holding four magazines close at "
+"hand."
+msgstr ""
+"Огромный жилет, покрытый ремнями и карманами. Этот вариант предпочитают "
+"военные, так как в нем можно разместить четыре магазина под рукой."
+
+#: .\armor_xl.json
+msgid "pair of XL drop leg pouches"
+msgid_plural "pairs of XL drop leg pouches"
+msgstr[0] "пара набедренных подсумков XL"
+msgstr[1] "пары набедренных подсумков XL"
+msgstr[2] "пар набедренных подсумков XL"
+
+#. ~ Description for {'str': 'pair of XL drop leg pouches', 'str_pl': 'pairs
+#. of XL drop leg pouches'}
+#: .\armor_xl.json
+msgid ""
+"A massive set of pouches that can be worn on the thighs using buckled "
+"straps.  This variety is favored by the military."
+msgstr ""
+"Огромный набор подсумков, которые можно носить на бедрах с помощью "
+"пристегивающихся ремней. Этот вариант предпочитают военные."
+
+#: .\armor_xl.json
+msgid "XL tire armor"
+msgid_plural "XL tire armors"
+msgstr[0] "шинная броня XL"
+msgstr[1] "шинные брони XL"
+msgstr[2] "шинных бронь XL"
+
+#. ~ Description for {'str': 'XL tire armor'}
+#: .\armor_xl.json
+msgid ""
+"Massive makeshift armor made from parts of cut up tires.  Incredibly thick "
+"and tough but just as encumbering."
+msgstr ""
+"Самодельная броня, сделанная из частей разрезанных шин.  Невероятно толстая "
+"и прочная, но такая же неудобная. Её можно носить независимо от анатомии "
+"тела."
+
+#: .\armor_xl.json
+msgid "XL hard chest protector"
+msgid_plural "XL hard chest protectors"
+msgstr[0] "жёсткий нагрудный протектор XL"
+msgstr[1] "жёстких нагрудных протектора XL"
+msgstr[2] "жёстких нагрудных протекторов XL"
+
+#. ~ Description for {'str': 'XL hard chest protector'}
+#: .\armor_xl.json
+msgid ""
+"A polyurethane chest protector with neoprene backing.  This can be worn "
+"regardless of your state of mutation"
+msgstr ""
+"Полиуретановый нагрудный протектор с неопреновой подкладкой. Его можно "
+"носить независимо от анатомии тела."
+
+#: .\armor_xl.json
+msgid "XL conductive suit"
+msgid_plural "XL conductive suits"
+msgstr[0] "токопроводящий костюм XL"
+msgstr[1] "токопроводящих костюм XL"
+msgstr[2] "токопроводящих костюмов XL"
+
+#. ~ Description for {'str': 'XL conductive suit'}
+#: .\armor_xl.json
+msgid ""
+"A one piece conductive suit used in linework.  Provides decent physical "
+"protection and full protection against electricity.  The hood is designed to "
+"fit over a hardhat.  This can be worn regardless of your state of mutation"
+msgstr ""
+"Цельный токопроводящий костюм, используемый при работе на электролиниях. "
+"Обеспечивает достойную физическую защиту и полную защиту от электричества. "
+"Капюшон предназначен для ношения поверх каски. Его можно носить независимо "
+"от анатомии тела."
+
+#: .\armor_xl.json
+msgid "XL floating backpack"
+msgid_plural "XL floating backpacks"
+msgstr[0] "парящий рюкзак XL"
+msgstr[1] "парящих рюкзака XL"
+msgstr[2] "парящих рюкзаков XL"
+
+#. ~ Description for {'str': 'XL floating backpack'}
+#: .\armor_xl.json
+msgid ""
+"A small backpack with a special rail system designed to reduce the load felt "
+"by the wearer when moving up and down.  Good storage for very little "
+"encumbrance.  This can be worn regardless of your state of mutation"
+msgstr ""
+"Небольшой рюкзак со специальной системой направляющих, разработанной для "
+"уменьшения нагрузки, ощущаемой носителем при движении вверх и вниз. Отличное "
+"место для хранения при минимальных габаритах. Его можно носить независимо от "
+"анатомии тела."
+
+#: .\armor_xl.json
+msgid "XL floating rucksack"
+msgid_plural "XL floating rucksacks"
+msgstr[0] "парящий военный рюкзак XL"
+msgstr[1] "парящих военный рюкзака XL"
+msgstr[2] "парящих военных рюкзаков XL"
+
+#. ~ Description for {'str': 'XL floating rucksack'}
+#: .\armor_xl.json
+msgid ""
+"A huge military rucksack with a special rail system designed to reduce the "
+"load felt by the wearer when moving up and down, provides a lot of storage "
+"for moderate encumbrance.  This can be worn regardless of your state of "
+"mutation"
+msgstr ""
+"Большой военный рюкзак со специальной системой направляющих, разработанной "
+"для уменьшения нагрузки, ощущаемой носителем при движении вверх и вниз, "
+"предоставляет много места для хранения при умеренном стеснении. Его можно "
+"носить независимо от анатомии тела."
+
+#: .\modinfo.json
+msgid "More Armors"
+msgstr ""
+
+#. ~ Description for More Armors
+#: .\modinfo.json
+msgid ""
+"Adds more armors with recipes. Mainly XL versions for mutated characters, "
+"but there are a few new ones too."
+msgstr ""
+"Добавляет больше доспехов и их рецепты. В основном это XL-версии для "
+"мутировавших персонажей, но есть и несколько новых."

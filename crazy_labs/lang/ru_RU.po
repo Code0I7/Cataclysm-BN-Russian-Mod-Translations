@@ -1,0 +1,127 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: crazy_labs\n"
+"POT-Creation-Date: 2023-12-03 10:39+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\modinfo.json
+msgid "Crazy Labs"
+msgstr "Безумные лаборатории"
+
+#. ~ Description for Crazy Labs
+#: .\modinfo.json
+msgid ""
+"A mod that adds lots of tough monsters to lab monster gen. Now labs are "
+"endgame areas! Intended for players who find labs too easy or boring. "
+"Inspired by Half-Life and the labs in Resident Evil 2."
+msgstr ""
+"Мод, добавляющий в лабораторию множество жестоких монстров. Теперь "
+"лаборатории - это зоны эндгейм контента! Предназначен для игроков, "
+"которым лаборатории кажутся слишком простыми или скучными. Вдохновлен "
+"Half-Life и лабораториями из Resident Evil 2."
+
+#. ~ Computer name
+#: .\lab\lab_floorplans.json
+msgid "Operating Theater Access Control"
+msgstr "Контроль доступа в операционную"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans.json
+msgid "EMERGENCY EVAC - OPEN ALL DOORS"
+msgstr "АВАРИЙНАЯ ЭВАКУАЦИЯ - ОТКРЫТЬ ВСЕ ДВЕРИ"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans.json
+msgid "UNLOCK AUTODOC DOOR"
+msgstr "РАЗБЛОКИРОВАТЬ ДВЕРЬ АВТОДОКА"
+
+#. ~ Computer name
+#: .\lab\lab_floorplans.json
+msgid "Centrifuge"
+msgstr "Центрифуга"
+
+# Возможно анализатор крови
+#. ~ Computer option
+#: .\lab\lab_floorplans.json
+msgid "Analyze blood"
+msgstr "Анализ крови"
+
+#. ~ Computer name
+#: .\lab\lab_floorplans.json .\lab\lab_floorplans_1side.json
+msgid "Containment Control"
+msgstr "Управление изолятором"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans.json
+msgid "EMERGENCY CONTAINMENT UNLOCK"
+msgstr "АВАРИЙНАЯ РАЗБЛОКИРОВКА ИЗОЛЯТОРА"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans.json
+msgid "EMERGENCY CLEANSE"
+msgstr "ЭКСТРЕННАЯ ОЧИСТКА"
+
+#. ~ Computer name
+#: .\lab\lab_floorplans.json
+msgid "Containment Terminal"
+msgstr "Терминал изолятора"
+
+#. ~ Computer name
+#: .\lab\lab_floorplans.json
+msgid "Mk IV Algorithmic Data Analyzer"
+msgstr "Алгоритмический анализатор данных Mk IV"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans.json
+msgid "Run Decryption Algorithm"
+msgstr "Запуск алгоритма дешифрования"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans.json
+msgid "Upload Data to Melchior"
+msgstr "Загрузка данных в Мельхиор"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans.json
+msgid "Access Melchior"
+msgstr "Доступ к Мельхиору"
+
+#. ~ Computer name
+#: .\lab\lab_floorplans_1side.json
+msgid "Library Entrance"
+msgstr "Вход в библиотеку"
+
+#. ~ Computer option
+#: .\lab\lab_floorplans_1side.json
+msgid "UNLOCK ENTRANCE"
+msgstr "РАЗБЛОКИРОВАТЬ ВХОД"
+
+#. ~ Computer name
+#: .\lab\lab_floorplans_1side.json
+msgid "Barracks Entrance"
+msgstr "Вход в казарму"
+
+# Возможно оружейная
+#. ~ Computer name
+#: .\lab\lab_floorplans_1side.json
+msgid "Magazine Entrance"
+msgstr "Вход в журнальную"
+
+#. ~ Computer name
+#: .\lab\lab_floorplans_1side.json
+msgid "Prisoner Containment Entrance"
+msgstr "Вход в изолятор для заключенных"
+
+# Возможно "АВАРИЙНОЕ ОТКРЫТИЕ ИЗОЛЯТОРА"
+#. ~ Computer option
+#: .\lab\lab_floorplans_1side.json
+msgid "EMERGENCY CONTAINMENT RELEASE"
+msgstr "АВАРИЙНЫЙ СБРОС ЗАЩИТЫ ИЗОЛЯТОРА"
