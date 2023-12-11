@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: deoxymod\n"
 "POT-Creation-Date: 2023-12-04 00:05+0900\n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Code0I7\n"
 "Language-Team: \n"
 "Language: ru_RU\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr "складная дверь"
 
 #: .\Deoxy_vehicle_parts.json
 msgid "superalloy coating"
-msgstr "покрытие из сверхпрочного сплава"
+msgstr "покрытие из суперсплава"
 
 #: .\Deoxy_vehicle_parts.json
 msgid "swappable storage battery case"
