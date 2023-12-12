@@ -1,0 +1,149 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: hydroponics\n"
+"POT-Creation-Date: 2023-12-12 09:25+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Code0I7\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\construction_group.json
+msgid "Build Hydroponics"
+msgstr "Построить гидропонику"
+
+#: .\construction_group.json
+msgid "Build Hydroponics Heater"
+msgstr "Построить гидропонный обогреватель"
+
+#: .\furniture.json
+msgid "hydroponics unit"
+msgstr "Гидропонная установка"
+
+#. ~ Description for hydroponics unit
+#: .\furniture.json
+msgid "This is a self-contained hydroponics unit used to grow crops indoors."
+msgstr ""
+"Это автономная гидропонная установка, используемая для выращивания культур "
+"в закрытом помещении."
+
+#: .\furniture.json
+msgid "crunch."
+msgstr ""
+
+#: .\furniture.json
+msgid "whish."
+msgstr ""
+
+#: .\furniture.json
+msgid "hydroponics unit with seed"
+msgstr "Гидропонная установка с семенами"
+
+#. ~ Description for hydroponics unit with seed
+#: .\furniture.json
+msgid ""
+"This is a self-contained hydroponics unit used to grow crops indoors.  This "
+"one contains a planted seed"
+msgstr ""
+"Это автономная гидропонная установка, используемая для выращивания культур "
+"в закрытом помещении. В ней находится посаженное семя."
+
+#: .\furniture.json
+msgid "hydroponics unit with seedling"
+msgstr "Гидропонная установка с рассадой"
+
+#. ~ Description for hydroponics unit with seedling
+#: .\furniture.json
+msgid ""
+"This is a self-contained hydroponics unit used to grow crops indoors.  This "
+"one contains a planted seedling"
+msgstr ""
+"Это автономная гидропонная установка, используемая для выращивания культур "
+"в закрытом помещении. В ней находится посаженная рассада."
+
+#: .\furniture.json
+msgid "hydroponics unit with mature plant"
+msgstr "Гидропонная установка со зрелым растением"
+
+#. ~ Description for hydroponics unit with mature plant
+#: .\furniture.json
+msgid ""
+"This is a self-contained hydroponics unit used to grow crops indoors.  This "
+"one contains a mature plant."
+msgstr ""
+"Это автономная гидропонная установка, используемая для выращивания культур "
+"в закрытом помещении. В ней находится зрелое растение."
+
+#: .\furniture.json
+msgid "hydroponics unit with harvestable plant"
+msgstr "Гидропонная установка с урожайным растением"
+
+#. ~ Description for hydroponics unit with harvestable plant
+#: .\furniture.json
+msgid ""
+"This is a self-contained hydroponics unit used to grow crops indoors.  This "
+"one contains a mature plant that is ready for harvest."
+msgstr ""
+"Это автономная гидропонная установка, используемая для выращивания культур "
+"в закрытом помещении. В ней находится зрелое растение, готовое к сбору "
+"урожая."
+
+#: .\furniture.json
+msgid "hydroponics heater"
+msgstr "Гидропонный обогреватель"
+
+#. ~ Description for hydroponics heater
+#: .\furniture.json
+msgid "This is a self-contained heater, used to warm hydroponics units."
+msgstr ""
+"Это автономный нагреватель, используемый для обогрева установок гидропоники."
+
+#: .\modinfo.json
+msgid "Hydroponics"
+msgstr "Гидропоника"
+
+#. ~ Description for Hydroponics
+#: .\modinfo.json
+msgid ""
+"Adds hydroponic units, a furniture which can have crops planted in it for "
+"increased yields.  Spawn occasionally in labs or basements.  Or build your "
+"own."
+msgstr ""
+"Добавляет гидропонные установки - оборудование, в которое можно сажать "
+"культуры для повышения урожайности. Их периодически можно обнаружить в "
+"лабораториях или подвалах, а так же построить свою собственную."
+
+#: .\terrain.json
+msgid "LEGACY hydroponics unit"
+msgstr "УСТАРЕЛО Гидропонная установка"
+
+#. ~ Description for LEGACY hydroponics unit
+#: .\terrain.json
+msgid ""
+"This is a deprecated hydroponics unit.  Deconstruct it to receive your "
+"materials back."
+msgstr ""
+"Это устаревший блок гидропоники. Разберите его, чтобы получить свои "
+"материалы обратно."
+
+#: .\terrain.json
+msgid "crunch!"
+msgstr ""
+
+#: .\terrain.json
+msgid "whack!"
+msgstr ""
+
+#. ~ Computer name
+#: .\mapgen\lab_floorplans_1side.json
+msgid "Hydroponics Entrance"
+msgstr "Гидропоника - Вход"
+
+#. ~ Computer option
+#: .\mapgen\lab_floorplans_1side.json
+msgid "UNLOCK ENTRANCE"
+msgstr "РАЗБЛОКИРОВАТЬ ВХОД"
