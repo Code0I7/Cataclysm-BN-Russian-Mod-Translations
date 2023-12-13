@@ -1,0 +1,26 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: basement_extension\n"
+"POT-Creation-Date: 2023-12-13 11:46+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Code0I7\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\modinfo.json
+msgid "Alternative Basement Layouts"
+msgstr ""
+
+#. ~ Description for Alternative Basement Layouts
+#: .\modinfo.json
+msgid ""
+"RogueYun's work on fleshing out basements, in mod form. Adds 3 new flavors "
+"of basement."
+msgstr ""
+"Работа RogueYun над созданием подвалов в виде мода. \n"
+"- Добавляет 3 новых вида подвалов."
