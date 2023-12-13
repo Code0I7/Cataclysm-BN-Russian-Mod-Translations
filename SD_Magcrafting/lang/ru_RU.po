@@ -1,0 +1,22 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SD_Magcrafting\n"
+"POT-Creation-Date: 2023-12-13 11:51+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Code0I7\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\modinfo.json
+msgid "Craft Ammo Mags & Belt Links"
+msgstr ""
+
+#. ~ Description for Craft Ammo Mags & Belt Links
+#: .\modinfo.json
+msgid "Adds recipes for ammo mags and belt linkages."
+msgstr "Добавляет рецепты для патронных магазинов и лент."
