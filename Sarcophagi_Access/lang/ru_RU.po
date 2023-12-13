@@ -1,0 +1,44 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sarcophagi_access\n"
+"POT-Creation-Date: 2023-12-13 11:40+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Code0I7\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\modinfo.json
+msgid "Sarcophagi Access"
+msgstr "Доступ к саркофагу"
+
+#. ~ Description for Sarcophagi Access
+#: .\modinfo.json
+msgid "Enables an alternate method of accessing the sarcophagus."
+msgstr "Открывает альтернативный способ доступа к саркофагу."
+
+#: .\sa_book.json
+msgid "High Level Commercial and Military Cryptology"
+msgid_plural "High Level Commercial and Military Cryptology"
+msgstr[0] "книга \"Коммерческая и военная криптология высокого уровня\""
+msgstr[1] "книги \"Коммерческая и военная криптология высокого уровня\""
+msgstr[2] "книг \"Коммерческая и военная криптология высокого уровня\""
+
+#. ~ Description for {'str': 'High Level Commercial and Military Cryptology',
+#. 'str_pl': 'High Level Commercial and Military Cryptology'}
+#: .\sa_book.json
+msgid ""
+"An incredibly dense volume describing different advanced cryptographical "
+"methods, their strenghts, and weaknesses. This text would probably be easier "
+"to digest with an added decade in Computer Science Academia."
+msgstr ""
+"Невероятно плотный том, описывающий различные передовые криптографические "
+"методы, их сильные и слабые стороны. Вероятно, этот текст было бы легче "
+"усвоить, если бы в академической среде компьютерных наук прошло еще десять "
+"лет."
