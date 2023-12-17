@@ -1,0 +1,77 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Heavy miners\n"
+"POT-Creation-Date: 2023-12-17 22:44+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Code0I7\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\modinfo.json
+msgid "Roadheader and other mining vehicles"
+msgstr ""
+
+#. ~ Description for Roadheader and other mining vehicles
+#: .\modinfo.json
+msgid ""
+"Adds a roadheader mining vehicle and its parts. Requires Tankmod: Revived."
+msgstr ""
+"Добавляет проходческий комбайн и его детали. \n"
+"- Требуется: Tankmod - Revived."
+
+#: .\parts.json
+msgid "roadheader"
+msgid_plural "roadheaders"
+msgstr[0] "проходческий комбайн"
+msgstr[1] "проходческих комбайна"
+msgstr[2] "проходческих комбайнов"
+
+#. ~ Description for {'str': 'roadheader'}
+#: .\parts.json
+msgid ""
+"A large and heavy jagged metalhead with a lot of spikes for destroying mine "
+"walls."
+msgstr ""
+"Большой и тяжелый металлический бур с большим количеством шипов для "
+"разрушения стен в шахтах."
+
+#: .\parts.json
+msgid "Balancer"
+msgid_plural "Balancers"
+msgstr[0] "балансировщик"
+msgstr[1] "балансировщика"
+msgstr[2] "балансировщиков"
+
+#. ~ Description for {'str': 'Balancer'}
+#: .\parts.json
+msgid "A large and heavy metal bar for balancing a vehicle."
+msgstr "Большой и тяжелый металлический брус для балансировки автомобиля."
+
+#. ~ Description for {'str': 'Balancer'}
+#: .\parts.json
+msgid "A large and heavy metal drum for balancing a vehicle."
+msgstr "Большой и тяжелый металлический цилиндр для балансировки автомобиля."
+
+#. ~ Description for {'str': 'roadheader'}
+#: .\parts.json
+msgid ""
+"A large metal jagged metalhead, powered by the vehicle's engines.  Use the "
+"vehicle controls to turn it on or off.  When turned on, it will stop the "
+"vehicle unless it has a strong engine.  When turned on, it will destroy "
+"walls near it."
+msgstr ""
+"Большая металлическая зазубренная насадка, работающая от двигателя "
+"автомобиля.  Включите или выключите ее с помощью элементов управления "
+"автомобилем. При включении она остановит машину, если у нее нет мощного "
+"двигателя. Во включенном состоянии она будет разрушать стены рядом с собой."
+
+#: .\vehicles.json
+msgid "Roadheader"
+msgstr "Проходческий комбайн"
