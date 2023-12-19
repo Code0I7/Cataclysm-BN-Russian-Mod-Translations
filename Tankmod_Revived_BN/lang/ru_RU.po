@@ -1,0 +1,1352 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"POT-Creation-Date: 2023-12-17 23:21+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Code0I7\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#: .\ammo_types.json
+msgid "105mm shell"
+msgstr "105-мм снаряд"
+
+#: .\ammo_types.json
+msgid "120mm shell"
+msgstr "120-мм снаряд"
+
+#: .\ammo_types.json
+msgid "155mm shell"
+msgstr "155-мм снаряд"
+
+#: .\ammo_types.json
+msgid "25x137mm"
+msgstr "25x137 мм"
+
+#: .\items.json
+msgid "large artillery casing"
+msgid_plural "large artillery casings"
+msgstr[0] "большая артиллерийская гильза"
+msgstr[1] "большие артиллерийские гильзы"
+msgstr[2] "больших артиллерийских гильз"
+
+#: .\items.json
+msgid "25x137mm ammo belt"
+msgid_plural "25x137mm ammo belts"
+msgstr[0] "патронная лента 25x137 мм"
+msgstr[1] "патронные ленты 25x137 мм"
+msgstr[2] "патронных лент 25x137 мм"
+
+#: .\items.json
+msgid "25x137mm autocannon belt linkage"
+msgid_plural "25x137mm autocannon belt linkages"
+msgstr[0] "патронная лента автопушки 25x137 мм"
+msgstr[1] "патронные ленты автопушки 25x137 мм"
+msgstr[2] "патронных лент автопушки 25x137 мм"
+
+#: .\items.json
+msgid "25x137mm M792 HEI"
+msgid_plural "25x137mm M792 HEI"
+msgstr[0] "m792 25x137 мм (осколочно-фугасный)"
+msgstr[1] "m792 25x137 мм (осколочно-фугасный)"
+msgstr[2] "m792 25x137 мм (осколочно-фугасный)"
+
+#. ~ Description for {'str_sp': '25x137mm M792 HEI'}
+#: .\items.json
+msgid ""
+"A 25x137mm autocannon round, high explosive incendiary.  Designed for use "
+"against unarmored vehicles and to suppress infantry."
+msgstr ""
+"Снаряд 25х137 мм для автопушки, осколочно-фугасный. Предназначен для "
+"использования против небронированной техники и для подавления пехоты."
+
+#: .\items.json
+msgid "25x137mm M791 APDS"
+msgid_plural "25x137mm M791 APDS"
+msgstr[0] "m791 25x137 мм (подкалиберный)"
+msgstr[1] "m791 25x137 мм (подкалиберный)"
+msgstr[2] "m791 25x137 мм (подкалиберный)"
+
+#. ~ Description for {'str_sp': '25x137mm M791 APDS'}
+#: .\items.json
+msgid ""
+"A 25x137mm autocannon round using an armor-piercing, discarding sabot with a "
+"tungsten penetrator.  Used primarily against light armored vehicles and "
+"aerial targets."
+msgstr ""
+"Снаряд калибра 25x137 мм, подкалиберный, с вольфрамовым проникающим "
+"элементом. Используется в основном против легкобронированной техники и "
+"воздушных целей."
+
+#: .\items.json
+msgid "reloaded 25x137mm"
+msgid_plural "reloaded 25x137mm"
+msgstr[0] "25x137 мм (переснаряженный)"
+msgstr[1] "25x137 мм (переснаряженный)"
+msgstr[2] "25x137 мм (переснаряженный)"
+
+#. ~ Description for {'str_sp': 'reloaded 25x137mm'}
+#: .\items.json
+msgid ""
+"A 25x137mm autocannon round with its primer replaced, and loaded with a "
+"basic lead projectile.  Not as effective as the real thing, but still fairly "
+"potent."
+msgstr ""
+"Снаряд 25x137 мм для автопушки с замененным капсюлем и основным свинцовым "
+"сердечником. Не так эффективен, как оригинал, но все же достаточно мощный."
+
+#: .\items.json
+msgid "reloaded 25x137mm, black powder"
+msgid_plural "reloaded 25x137mm, black powder"
+msgstr[0] "25x137 мм (переснаряженный, чёрный порох)"
+msgstr[1] "25x137 мм (переснаряженный, чёрный порох)"
+msgstr[2] "25x137 мм (переснаряженный, чёрный порох)"
+
+#: .\items.json
+msgid "reloaded 25x137mm HE"
+msgid_plural "reloaded 25x137mm HE"
+msgstr[0] "25x137 мм (переснаряженный, осколочно-фугасный)"
+msgstr[1] "25x137 мм (переснаряженный, осколочно-фугасный)"
+msgstr[2] "25x137 мм (переснаряженный, осколочно-фугасный)"
+
+#. ~ Description for {'str_sp': 'reloaded 25x137mm HE'}
+#: .\items.json
+msgid ""
+"A 25x137mm autocannon round with its primer replaced, loaded with a homemade "
+"explosive round.  Useful against lightly armored targets, though not as "
+"effective as the real thing."
+msgstr ""
+"Снаряд 25x137 мм для автопушки с замененным капсюлем, заряженный самодельным "
+"взрывным составом. Полезен против легкобронированных целей, хотя и не так "
+"эффективен, как настоящий."
+
+#: .\items.json
+msgid "reloaded 25x137mm HE, black powder"
+msgid_plural "reloaded 25x137mm HE, black powder"
+msgstr[0] "25x137 мм (переснаряженный, осколочно-фугасный, чёрный порох)"
+msgstr[1] "25x137 мм (переснаряженный, осколочно-фугасный, чёрный порох)"
+msgstr[2] "25x137 мм (переснаряженный, осколочно-фугасный, чёрный порох)"
+
+#: .\items.json
+msgid "105mm M456 HEAT"
+msgid_plural "105mm M456 HEAT"
+msgstr[0] "m456 105 мм (кумулятивный)"
+msgstr[1] "m456 105 мм (кумулятивный)"
+msgstr[2] "m456 105 мм (кумулятивный)"
+
+#. ~ Description for {'str_sp': '105mm M456 HEAT'}
+#: .\items.json
+msgid ""
+"A 105mm High Explosive Anti Tank round, designed for older models of tank "
+"held in reserve up until the world was on the brink of ending.  Now that the "
+"world has gone and ended, it still packs quite a punch."
+msgstr ""
+"105-мм кумулятивный снаряд, предназначенный для старых моделей танков, "
+"хранившихся в резерве до тех пор, пока мир не оказался на грани конца света. "
+"Теперь, когда катаклизм наступил, он по-прежнему наносит ощутимый ущерб."
+
+#: .\items.json
+msgid "105mm M833 APFSDS"
+msgid_plural "105mm M833 APFSDS"
+msgstr[0] "m833 105 мм (бронебойный оперённый подкалиберный снаряд)"
+msgstr[1] "m833 105 мм (бронебойный оперённый подкалиберный снаряд)"
+msgstr[2] "m833 105 мм (бронебойный оперённый подкалиберный снаряд)"
+
+#. ~ Description for {'str_sp': '105mm M833 APFSDS'}
+#: .\items.json
+msgid ""
+"A 105mm Armor-Piercing Fin-Stabilized Discarding Sabot round, no longer "
+"commonly used except for hastily supplying obsolete tanks.  Brought out of "
+"mothballs or not, its depleted uranium projectile will still give whatever "
+"it hits a bad time."
+msgstr ""
+"105-мм бронебойный оперённый подкалиберный снаряд, который больше не "
+"используется, разве что для спешного снабжения устаревших танков. Снаряд с "
+"отработанным ураном, выведенный из эксплуатации или нет, все равно доставит "
+"неприятности всему, во что попадет."
+
+#: .\items.json
+msgid "makeshift 105mm slug"
+msgid_plural "makeshift 105mm slug"
+msgstr[0] "105 мм (самодельный, жакан)"
+msgstr[1] "105 мм (самодельный, жакан)"
+msgstr[2] "105 мм (самодельный, жакан)"
+
+#. ~ Description for {'str_sp': 'makeshift 105mm slug'}
+#: .\items.json
+msgid ""
+"A 105mm shell with a new electric primer installed, loaded with a large "
+"handmade slug.  While hardly ideal, it packs quite a punch."
+msgstr ""
+"105-мм снаряд с новым электрическим капсюлем, заряженный крупной пулей "
+"ручной работы. Хотя это и не идеальный вариант, он обладает неплохим "
+"поражающим действием."
+
+#: .\items.json
+msgid "makeshift 105mm slug, black powder"
+msgid_plural "makeshift 105mm slug, black powder"
+msgstr[0] "105 мм (самодельный, жакан, чёрный порох)"
+msgstr[1] "105 мм (самодельный, жакан, чёрный порох)"
+msgstr[2] "105 мм (самодельный, жакан, чёрный порох)"
+
+#: .\items.json
+msgid "reloaded 105mm HE"
+msgid_plural "reloaded 105mm HE"
+msgstr[0] "105 мм (переснаряженный, осколочно-фугасный)"
+msgstr[1] "105 мм (переснаряженный, осколочно-фугасный)"
+msgstr[2] "105 мм (переснаряженный, осколочно-фугасный)"
+
+#. ~ Description for {'str_sp': 'reloaded 105mm HE'}
+#: .\items.json
+msgid ""
+"A 105mm shell with a new electric primer installed, loaded with a homemade "
+"explosive round.  Obsolete or not, it packs quite a punch."
+msgstr ""
+"105-мм снаряд с новым электрическим капсюлем, заряженный самодельным "
+"взрывчатым веществом. Устаревший или нет, он обладает неплохим поражающим "
+"действием."
+
+#: .\items.json
+msgid "reloaded 105mm HE, black powder"
+msgid_plural "reloaded 105mm HE, black powder"
+msgstr[0] "105 мм (переснаряженный, осколочно-фугасный, чёрный порох)"
+msgstr[1] "105 мм (переснаряженный, осколочно-фугасный, чёрный порох)"
+msgstr[2] "105 мм (переснаряженный, осколочно-фугасный, чёрный порох)"
+
+#: .\items.json
+msgid "120mm M830A1 HEAT"
+msgid_plural "120mm M830A1 HEAT"
+msgstr[0] "m830a1 120 мм (кумулятивный)"
+msgstr[1] "m830a1 120 мм (кумулятивный)"
+msgstr[2] "m830a1 120 мм (кумулятивный)"
+
+#. ~ Description for {'str_sp': '120mm M830A1 HEAT'}
+#: .\items.json
+msgid ""
+"A 120mm High Explosive Anti Tank round.  Packs an explosive punch that could "
+"ruin anyone's whole day."
+msgstr ""
+"120-мм кумулятивный снаряд. Обладает взрывной силой, способной испортить "
+"кому угодно весь день."
+
+#: .\items.json
+msgid "120mm M829A3 APFSDS"
+msgid_plural "120mm M829A3 APFSDS"
+msgstr[0] "m829a3 120 мм (бронебойный оперённый подкалиберный снаряд)"
+msgstr[1] "m829a3 120 мм (бронебойный оперённый подкалиберный снаряд)"
+msgstr[2] "m829a3 120 мм (бронебойный оперённый подкалиберный снаряд)"
+
+#. ~ Description for {'str_sp': '120mm M829A3 APFSDS'}
+#: .\items.json
+msgid ""
+"A 120mm Armor-Piercing Fin-Stabilized Discarding Sabot round.  Uses a "
+"depleted uranium projectile to give whatever it hits a really bad day."
+msgstr ""
+"120-мм бронебойный оперённый подкалиберный снаряд. Использует снаряд из "
+"отработанного урана, чтобы устроить всем, в кого он попадет, очень плохой "
+"день."
+
+#: .\items.json
+msgid "reloaded 120mm shot"
+msgid_plural "reloaded 120mm shot"
+msgstr[0] "120 мм (самодельный, дробь)"
+msgstr[1] "120 мм (самодельный, дробь)"
+msgstr[2] "120 мм (самодельный, дробь)"
+
+#. ~ Description for {'str_sp': 'reloaded 120mm shot'}
+#: .\items.json
+msgid ""
+"A makeshift, rebuilt 120mm shell with a new electric primer installed, "
+"filled with a large amount of buckshot.  Effectively similar to no-longer-"
+"produced canister shot, but of lower quality."
+msgstr ""
+"Самодельный, переделанный 120-мм снаряд с новым электрическим капсюлем, "
+"заполненный большим количеством дроби. По сути, это аналог уже не "
+"выпускаемой картечи, но более низкого качества."
+
+#: .\items.json
+msgid "makeshift 120mm shot, black powder"
+msgid_plural "makeshift 120mm shot, black powder"
+msgstr[0] "120 мм (самодельный, дробь, чёрный порох)"
+msgstr[1] "120 мм (самодельный, дробь, чёрный порох)"
+msgstr[2] "120 мм (самодельный, дробь, чёрный порох)"
+
+#: .\items.json
+msgid "reloaded 120mm slug"
+msgid_plural "reloaded 120mm slug"
+msgstr[0] "120 мм (переснаряженный, жакан)"
+msgstr[1] "120 мм (переснаряженный, жакан)"
+msgstr[2] "120 мм (переснаряженный, жакан)"
+
+#. ~ Description for {'str_sp': 'reloaded 120mm slug'}
+#: .\items.json
+msgid ""
+"A makeshift, rebuilt 120mm shell with a new electric primer installed, "
+"loaded with a large handmade slug.  While hardly ideal, it packs quite a "
+"punch."
+msgstr ""
+"Самодельный, переделанный 120-мм снаряд с новым электрическим капсюлем, "
+"заряженный крупной пулей ручной работы. Хотя его нельзя назвать идеальным, "
+"он наносит неплохие повреждения."
+
+#: .\items.json
+msgid "makeshift 120mm slug, black powder"
+msgid_plural "makeshift 120mm slug, black powder"
+msgstr[0] "120 мм (самодельный, жакан, чёрный порох)"
+msgstr[1] "120 мм (самодельный, жакан, чёрный порох)"
+msgstr[2] "120 мм (самодельный, жакан, чёрный порох)"
+
+#: .\items.json
+msgid "reloaded 120mm HE"
+msgid_plural "reloaded 120mm HE"
+msgstr[0] "120 мм (переснаряженный, осколочно-фугасный)"
+msgstr[1] "120 мм (переснаряженный, осколочно-фугасный)"
+msgstr[2] "120 мм (переснаряженный, осколочно-фугасный)"
+
+#. ~ Description for {'str_sp': 'reloaded 120mm HE'}
+#: .\items.json
+msgid ""
+"A makeshift, rebuilt 120mm shell with a new electric primer installed, "
+"loaded with a homemade explosive round.  Packs an explosive punch that could "
+"ruin anyone's whole day."
+msgstr ""
+"Самодельный, переделанный 120-мм снаряд с новым электрическим капсюлем, "
+"заряженный самодельным взрывчатым веществом. Взрывчатка способна испортить "
+"кому угодно весь день."
+
+#: .\items.json
+msgid "reloaded 120mm HE, black powder"
+msgid_plural "reloaded 120mm HE, black powder"
+msgstr[0] "120 мм (переснаряженный, осколочно-фугасный, чёрный порох)"
+msgstr[1] "120 мм (переснаряженный, осколочно-фугасный, чёрный порох)"
+msgstr[2] "120 мм (переснаряженный, осколочно-фугасный, чёрный порох)"
+
+#: .\items.json
+msgid "155mm M712 HEAT"
+msgid_plural "155mm M712 HEAT"
+msgstr[0] "m712 155 мм (кумулятивный)"
+msgstr[1] "m712 155 мм (кумулятивный)"
+msgstr[2] "m712 155 мм (кумулятивный)"
+
+#. ~ Description for {'str_sp': '155mm M712 HEAT'}
+#: .\items.json
+msgid ""
+"A 155mm High Explosive Anti Tank round, normally laser-guided.  Separate-"
+"loading, it comes with the requisite fuze installed, a propellant bag, and "
+"percussion primer.  As its guidance feature requires a laser designator and "
+"has a minimum range of 3 kilometers, using it for direct fire is an "
+"astounding display of overkill."
+msgstr ""
+"Самодельный кумулятивный снаряд раздельного заряжания для 155-мм орудий. "
+"Состоит из корпуса со свинцовыми шариками, взрывателя и запасного капсюля. "
+"Поскольку для наведения требуется лазерный целеуказатель, а минимальная "
+"дальность стрельбы составляет 3 километра, использование его для стрельбы "
+"прямой наводкой является поразительным проявлением чрезмерной жестокости."
+
+#: .\items.json
+msgid "155mm M795 frag"
+msgid_plural "155mm M795 frag"
+msgstr[0] "m795 155 мм (осколочно-пучковый)"
+msgstr[1] "m795 155 мм (осколочно-пучковый)"
+msgstr[2] "m795 155 мм (осколочно-пучковый)"
+
+#. ~ Description for {'str_sp': '155mm M795 frag'}
+#: .\items.json
+msgid ""
+"A 155mm High Explosive Fragmentation round.  Separate-loading, it comes with "
+"the requisite fuze installed, a propellant bag, and percussion primer.  "
+"Designed to lob a heavy shell a long distance, using it direct-fire isn't "
+"exactly ideal, but it'll still give anything near what you hit a seriously "
+"bad time."
+msgstr ""
+"Самодельный осколочно-фугасный снаряд раздельного заряжания для 155-мм "
+"орудий. Состоит из корпуса со свинцовыми шариками, взрывателя и запасного "
+"капсюля. Снаряд предназначен для метания тяжелых пуль на большое расстояние. "
+"Использовать его для стрельбы прямой наводкой не идеально, но все же он "
+"доставит неприятности всему, что окажется поблизости."
+
+#: .\items.json
+msgid "makeshift 155mm shot"
+msgid_plural "makeshift 155mm shot"
+msgstr[0] "155 мм (самодельный, дробь)"
+msgstr[1] "155 мм (самодельный, дробь)"
+msgstr[2] "155 мм (самодельный, дробь)"
+
+#. ~ Description for {'str_sp': 'makeshift 155mm shot'}
+#: .\items.json
+msgid ""
+"A makeshift separate-loading shotshell for 155mm.  Consists of a canister of "
+"lead balls, a bag of propellant, and a replacement primer.  Effectively "
+"turns a howitzer into a punt gun on steroids."
+msgstr ""
+"Самодельный снаряд раздельного заряжания для 155-мм орудий. Состоит из "
+"корпуса со свинцовыми шариками, взрывателя и запасного капсюля. Эффективно "
+"превращает гаубицу в пунтовое ружье на стероидах."
+
+#: .\items.json
+msgid "makeshift 155mm shot, black powder"
+msgid_plural "makeshift 155mm shot, black powder"
+msgstr[0] "155 мм (самодельный, дробь, чёрный порох)"
+msgstr[1] "155 мм (самодельный, дробь, чёрный порох)"
+msgstr[2] "155 мм (самодельный, дробь, чёрный порох)"
+
+#: .\items.json
+msgid "makeshift 155mm slug"
+msgid_plural "makeshift 155mm slug"
+msgstr[0] "155 мм (самодельный, жакан)"
+msgstr[1] "155 мм (самодельный, жакан)"
+msgstr[2] "155 мм (самодельный, жакан)"
+
+#. ~ Description for {'str_sp': 'makeshift 155mm slug'}
+#: .\items.json
+msgid ""
+"A makeshift separate-loading round for 155mm.  Consists of a large lead "
+"ball, a bag of propellant, and a replacement primer.  Despite the lower "
+"effectiveness, whatever it hits is sure to feel it."
+msgstr ""
+"Самодельный снаряд раздельного заряжания для 155-мм орудий. Состоит из "
+"большого свинцового шара, взрывателя и запасного капсюля. Несмотря на низкую "
+"эффективность, все, во что он попадет, обязательно почувствует его."
+
+#: .\items.json
+msgid "makeshift 155mm slug, black powder"
+msgid_plural "makeshift 155mm slug, black powder"
+msgstr[0] "155 мм (самодельный, жакан, чёрный порох)"
+msgstr[1] "155 мм (самодельный, жакан, чёрный порох)"
+msgstr[2] "155 мм (самодельный, жакан, чёрный порох)"
+
+#: .\items.json
+msgid "reloaded 155mm HE"
+msgid_plural "reloaded 155mm HE"
+msgstr[0] "155 мм (переснаряженный, осколочно-фугасный)"
+msgstr[1] "155 мм (переснаряженный, осколочно-фугасный)"
+msgstr[2] "155 мм (переснаряженный, осколочно-фугасный)"
+
+#. ~ Description for {'str_sp': 'reloaded 155mm HE'}
+#: .\items.json
+msgid ""
+"A makeshift separate-loading HE round for 155mm.  Consists of a homemade "
+"explosive shell with fuze installed, a bag of propellant, and a replacement "
+"primer.  Using it for direct-fire isn't ideal, but it should be more than "
+"enough to ruin anyone's day."
+msgstr ""
+"Самодельный осколочно-фугасный снаряд раздельного заряжания для 155-мм "
+"орудий. Состоит из самодельного разрывного снаряда с установленным "
+"взрывателем, пакета с горючим и запасного капсюля. Использовать его для "
+"стрельбы прямой наводкой не идеально, но этого должно быть более чем "
+"достаточно, чтобы испортить кому-нибудь день."
+
+#: .\items.json
+msgid "reloaded 155mm HE, black powder"
+msgid_plural "reloaded 155mm HE, black powder"
+msgstr[0] "155 мм (переснаряженный, осколочно-фугасный, чёрный порох)"
+msgstr[1] "155 мм (переснаряженный, осколочно-фугасный, чёрный порох)"
+msgstr[2] "155 мм (переснаряженный, осколочно-фугасный, чёрный порох)"
+
+#: .\items.json
+msgid "155mm nuclear shell"
+msgid_plural "155mm nuclear shell"
+msgstr[0] "155 мм (ядерный снаряд)"
+msgstr[1] "155 мм (ядерный снаряд)"
+msgstr[2] "155 мм (ядерный снаряд)"
+
+#. ~ Description for {'str_sp': '155mm nuclear shell'}
+#: .\items.json
+msgid ""
+"A makeshift separate-loading round for 155mm, developed from experimental "
+"designs.  Uses a propellant bag and replacement primer to fire a modified "
+"mininuke, adapted to fit a howitzer.  Whatever would warrant such awesome "
+"firepower would best be engaged from a safe distance."
+msgstr ""
+"Самодельный снаряд раздельного заряжания для 155-мм орудий, разработанный на "
+"основе экспериментальных образцов. Использует топливный пакет и запасной "
+"капсюль для стрельбы модифицированной ядерной мини-бомбой, адаптированной "
+"под гаубицу. С тем, что может потребовать столь мощного огня, лучше всего "
+"бороться с безопасного расстояния."
+
+#: .\items.json
+msgid "25mm casing"
+msgid_plural "25mm casing"
+msgstr[0] "гильза 25 мм"
+msgstr[1] "гильзы 25 мм"
+msgstr[2] "гильз 25 мм"
+
+#. ~ Description for {'str_sp': '25mm casing'}
+#: .\items.json
+msgid "A canister from a spent 25mm shell."
+msgstr "Гильза от отстрелянного 25-мм снаряда."
+
+#: .\items.json
+msgid "105mm canister"
+msgid_plural "105mm canister"
+msgstr[0] "105 мм корпус"
+msgstr[1] "105 мм корпуса"
+msgstr[2] "105 мм корпусов"
+
+#. ~ Description for {'str_sp': '105mm canister'}
+#: .\items.json
+msgid "A canister from a spent 105mm shell, now an expensive paperweight."
+msgstr ""
+"Корпус от отстрелянного 105-мм снаряда, теперь это дорогое пресс-папье."
+
+#: .\items.json
+msgid "120mm case base"
+msgid_plural "120mm case base"
+msgstr[0] "120 мм корпус"
+msgstr[1] "120 мм корпуса"
+msgstr[2] "120 мм корпусов"
+
+#. ~ Description for {'str_sp': '120mm case base'}
+#: .\items.json
+msgid ""
+"The steel case base from a spent 120mm shell.  With combustible case walls "
+"forming the bulk of the casing itself, what's left is now an expensive "
+"paperweight."
+msgstr ""
+"Стальной корпус от отстрелянного 120-мм снаряда. Поскольку горючие стенки "
+"корпуса составляют основную его часть, все, что осталось, превратилось в "
+"дорогое пресс-папье."
+
+#: .\items.json
+msgid "makeshift 120mm canister"
+msgid_plural "makeshift 120mm canister"
+msgstr[0] "120 мм корпус (самодельный)"
+msgstr[1] "120 мм корпуса (самодельный)"
+msgstr[2] "120 мм корпусов (самодельный)"
+
+#. ~ Description for {'str_sp': 'makeshift 120mm canister'}
+#: .\items.json
+msgid ""
+"A spent 120mm case base converted into an improved casing, by welding new "
+"case walls of appropriate dimensions to the base.  Hopefully the welds are "
+"good, or else it might be a better fit for a pipe bomb instead."
+msgstr ""
+"Основание отработанного 120-мм корпуса переделано в улучшенный корпус путем "
+"приваривания к основанию новых стенок корпуса соответствующих размеров. "
+"Надеюсь, сварные швы получились качественными, иначе вместо него получится "
+"бомба-труба."
+
+#: .\items.json
+msgid "electric primer"
+msgid_plural "electric primer"
+msgstr[0] "электрический капсюль"
+msgstr[1] "электрических капсюля"
+msgstr[2] "электрических капсюлей"
+
+#. ~ Description for {'str_sp': 'electric primer'}
+#: .\items.json
+msgid "Primer for a tank shell.  Seems to use an electric ignition."
+msgstr ""
+"Капсюль для танкового снаряда. Похоже использутся электрическое зажигание."
+
+#: .\items.json
+msgid "artillery primer"
+msgid_plural "artillery primer"
+msgstr[0] "артиллерийский капсюль"
+msgstr[1] "артиллерийскых капсюля"
+msgstr[2] "артиллерийских капсюлей"
+
+#. ~ Description for {'str_sp': 'artillery primer'}
+#: .\items.json
+msgid "Primer for an artillery shell.  Uses percussion ignition."
+msgstr ""
+"Капсюль для артиллерийского снаряда. Используется ударное воспламенение."
+
+#: .\items.json
+msgid "M242 Bushmaster autocannon"
+msgid_plural "M242 Bushmaster autocannon"
+msgstr[0] "автопушка m242 bushmaster"
+msgstr[1] "автопушки m242 bushmaster"
+msgstr[2] "автопушек m242 bushmaster"
+
+#: .\items.json
+msgid ""
+"A chain-driven autocannon chambered in 25x137mm, designed for the Bradley "
+"IFV and other ground vehicles, with some naval use as well.  Electric-"
+"driven, it would be very difficult to fire if not mounted on a vehicle."
+msgstr ""
+"Автопушка с цепным приводом калибра 25x137 мм, разработанная для Bradley IFV "
+"и других наземных машин, а также для использования на флоте. С электрическим "
+"приводом из нее очень трудно стрелять, если она не установлена на машине."
+
+#: .\items.json
+msgid "stripped-down 25mm cannon"
+msgid_plural "stripped-down 25mm cannon"
+msgstr[0] "самодельная 25-мм пушка (снято с вооружения)"
+msgstr[1] "самодельные 25-мм пушки (снято с вооружения)"
+msgstr[2] "самодельных 25-мм пушек (снято с вооружения)"
+
+#: .\items.json
+msgid ""
+"Modified from a M242 Bushmaster autocannon, this pared down weapon has been "
+"altered into a makeshift anti-materiel rifle.  Its chain-driven mechanism "
+"has been removed, reducing weight in exchange for converting it into a "
+"single-shot design.  Still extremely bulky, requiring it to be deployed or "
+"mounted on a vehicle."
+msgstr ""
+"Модификация автопушки M242 Bushmaster превратила это урезанное оружие в "
+"полноценную противотанковую винтовку. Цепной механизм был удален, что "
+"позволило снизить вес и преобразовать винтовку в однозарядную. Винтовка по-"
+"прежнему очень громоздка и требует развертывания или установки на "
+"транспортное средство."
+
+#: .\items.json
+msgid "makeshift 25mm cannon"
+msgid_plural "makeshift 25mm cannon"
+msgstr[0] "самодельная 25-мм пушка"
+msgstr[1] "самодельные 25-мм пушки"
+msgstr[2] "самодельных 25-мм пушек"
+
+#: .\items.json
+msgid ""
+"A makeshift cannon crudely chambered for 25x137mm, with a short thick-walled "
+"barrel and a breechblock fashioned out of hardened steel.  Very unreliable "
+"and massively reduces performance, but simpler to install and easier to "
+"repair.  Only holds a single shot, and must be deployed or mounted on a "
+"vehicle."
+msgstr ""
+"Самодельная пушка под патрон 25x137 мм с коротким толстостенным стволом и "
+"затворной рамой, изготовленной из закаленной стали. Очень ненадежна и сильно "
+"теряет в боевых характеристиках, но зато проще в установке и легче в ремонте "
+"Заряжается только одним патроном, и её необходимо развернуть или установить "
+"на транспортное средство."
+
+#: .\items.json
+msgid "M246 120mm tank gun"
+msgid_plural "M246 120mm tank gun"
+msgstr[0] "120-мм танковая пушка m246"
+msgstr[1] "120-мм танковые пушки m246"
+msgstr[2] "120-мм танковых пушек m246"
+
+#: .\items.json
+msgid ""
+"A version of the Rheinmetall Rh-120, this 120mm cannon is most notably used "
+"in the M1 Abhrams.  Uses electric ignition, and obviously needs to be "
+"mounted on a vehicle to fire."
+msgstr ""
+"Версия Rheinmetall Rh-120, эта 120-мм пушка наиболее часто используется на "
+"M1 Abhrams. Использует электрическое зажигание и, очевидно, должна быть "
+"установлена на транспортном средстве для стрельбы."
+
+#: .\items.json
+msgid "XM246E1 autoloading tank gun"
+msgid_plural "XM246E1 autoloading tank gun"
+msgstr[0] "автозарядная танковая пушка XM246E1"
+msgstr[1] "автозарядные танковые пушки XM246E1"
+msgstr[2] "автозарядных танковых пушек XM246E1"
+
+#: .\items.json
+msgid ""
+"An experimental variant of the Rheinmetall Rh-120, this 120mm cannon is "
+"equipped with a 5-round autoloader.  Uses electric ignition, and obviously "
+"needs to be mounted on a vehicle to fire."
+msgstr ""
+"Экспериментальный вариант Rheinmetall Rh-120, эта 120-мм пушка оснащена 5-"
+"зарядным автоматическим магазином. Использует электрическое зажигание, и для "
+"стрельбы, очевидно, должна быть установлена на транспортном средстве."
+
+#: .\items.json .\parts.json
+msgid "makeshift 120mm tank gun"
+msgid_plural "makeshift 120mm tank gun"
+msgstr[0] "самодельная 120-мм танковая пушка"
+msgstr[1] "самодельные 120-мм танковые пушки"
+msgstr[2] "самодельных 120-мм танковых пушек"
+
+#: .\items.json
+msgid ""
+"A makeshift cannon crudely chambered for 120mm tank shells, with a short "
+"thick-walled barrel and a breechblock fashioned out of hardened steel.  Very "
+"unreliable and massively reduces performance, but simpler to install and "
+"easier to repair.  Only holds a single shot, uses electric ignition, and "
+"must be mounted on a vehicle to fire."
+msgstr ""
+"Самодельная пушка, грубо рассчитанная на 120-мм танковые снаряды, с коротким "
+"толстостенным стволом и затворной рамой, изготовленной из закаленной стали. "
+"Очень ненадежна и сильно теряет в боевых характеристиках, но зато проще в "
+"установке и легче в ремонте. Заряжается только одним выстрелом, использует "
+"электрическое воспламенение, а для стрельбы должна быть установлена на "
+"транспортном средстве."
+
+#: .\items.json
+msgid "M68 105mm tank gun"
+msgid_plural "M68 105mm tank gun"
+msgstr[0] "105-мм танковая пушка m68"
+msgstr[1] "105-мм танковые пушки m68"
+msgstr[2] "105-мм танковых пушек m68"
+
+#: .\items.json
+msgid ""
+"A version of the Royal Ordinance L7, this 105mm rifled cannon is used in "
+"various armored vehicles worldwide, many no longer in service, some still in "
+"use, and some brought back out of reserve in the desperate last days before "
+"the world ended.  Uses electric ignition, and obviously needs to be mounted "
+"on a vehicle to fire."
+msgstr ""
+"Эта 105-мм нарезная пушка, являющаяся версией Royal Ordinance L7, "
+"используется на различных бронемашинах по всему миру, многие из которых уже "
+"не эксплуатируются, некоторые все еще используются, а некоторые выведены из "
+"резерва в последние дни перед катаклизмом. Использует электрическое "
+"зажигание и, очевидно, должна быть установлена на машину для стрельбы."
+
+#: .\items.json .\parts.json
+msgid "makeshift 105mm tank gun"
+msgid_plural "makeshift 105mm tank gun"
+msgstr[0] "самодельная 105-мм танковая пушка"
+msgstr[1] "самодельные 105-мм танковые пушки"
+msgstr[2] "самодельных 105-мм танковых пушек"
+
+#: .\items.json
+msgid ""
+"A makeshift cannon crudely chambered for 105mm tank shells, with a short "
+"thick-walled barrel and a breechblock fashioned out of hardened steel.  Very "
+"unreliable and massively reduces performance, but simpler to install and "
+"easier to repair.  Only holds a single shot, uses electric ignition, and "
+"must be mounted on a vehicle to fire."
+msgstr ""
+"Самодельная пушка, грубо рассчитанная на 105-мм танковые снаряды, с коротким "
+"толстостенным стволом и затворной рамой, изготовленной из закаленной стали. "
+"Очень ненадежна и сильно теряет в боевых характеристиках, но зато проще в "
+"установке и легче в ремонте. Заряжается только одним выстрелом, использует "
+"электрическое воспламенение, а для стрельбы должна быть установлена на "
+"транспортном средстве."
+
+#: .\items.json
+msgid "M284 howitzer"
+msgid_plural "M284 howitzer"
+msgstr[0] "гаубица m284"
+msgstr[1] "гаубицы m284"
+msgstr[2] "гаубиц m284"
+
+#: .\items.json
+msgid ""
+"A 155mm cannon designed for self-propelled guns such as the M109.  Obviously "
+"it needs to be mounted on a vehicle to fire."
+msgstr ""
+"155-мм пушка, предназначенная для самоходных орудий, таких как M109. "
+"Очевидно, что для ведения огня она должна быть установлена на транспортном "
+"средстве."
+
+#: .\items.json .\parts.json
+msgid "makeshift 155mm howitzer"
+msgid_plural "makeshift 155mm howitzer"
+msgstr[0] "самодельная 155-мм гаубица"
+msgstr[1] "самодельные 155-мм гаубицы"
+msgstr[2] "самодельных 155-мм гаубиц"
+
+#: .\items.json
+msgid ""
+"A makeshift cannon crudely chambered for 155mm artillery shells, with a "
+"short thick-walled barrel and a breechblock fashioned out of hardened "
+"steel.  Very unreliable and massively reduces performance, but simpler to "
+"install and easier to repair.  Only holds a single shot, and must be mounted "
+"on a vehicle to fire."
+msgstr ""
+"Самодельная пушка, грубо рассчитанная на 155-мм артиллерийские снаряды, с "
+"коротким толстостенным стволом и затворной рамой, изготовленной из "
+"закаленной стали. Очень ненадежна и сильно теряет в боевых характеристиках, "
+"но зато проще в установке и легче в ремонте. Заряжается только одним "
+"выстрелом, и для стрельбы должна быть установлена на транспортном средстве."
+
+#: .\items.json
+msgid "BGM-71F TOW Under Armor"
+msgid_plural "BGM-71F TOW Under Armor"
+msgstr[0] "птрк bgm-71f tow"
+msgstr[1] "птрк bgm-71f tow"
+msgstr[2] "птрк bgm-71f tow"
+
+#: .\items.json
+msgid ""
+"A twin-tube launcher for anti-tank guided missiles, specifically designed "
+"for vehicle use.  While fairly accurate, it isn't fire-and-forget.  "
+"Obviously it needs to be mounted on a vehicle to fire."
+msgstr ""
+"Двухтрубная пусковая установка для противотанковых управляемых ракет, "
+"специально разработанная для использования на транспортных средствах. "
+"Несмотря на достаточную точность, это не \"выстрелил и забыл\". Очевидно, "
+"что для стрельбы она должна быть установлена на транспортном средстве."
+
+#: .\items.json
+msgid "Artillery and Field Gunnery"
+msgid_plural "copies of Artillery and Field Gunnery"
+msgstr[0] "книга \"Артиллерия и полевые орудия\""
+msgstr[1] "книги \"Артиллерия и полевые орудия\""
+msgstr[2] "книг \"Артиллерия и полевые орудия\""
+
+#. ~ Description for {'str': 'Artillery and Field Gunnery', 'str_pl': 'copies
+#. of Artillery and Field Gunnery'}
+#: .\items.json
+msgid ""
+"A textbook on the history of modern artillery, with a number of "
+"illustrations and excerpts from various field manuals.  A competent "
+"handloader or mechanic might find additional uses for the more technical "
+"parts of the text."
+msgstr ""
+"Учебник по истории современной артиллерии с большим количеством иллюстраций "
+"и выдержками из различных полевых уставов. Грамотный заряжающий или механик "
+"может найти дополнительное применение более техническим частям текста."
+
+#: .\items.json
+msgid "XM246E1 monster tank gun"
+msgid_plural "XM246E1 monster tank guns"
+msgstr[0] "орудие танка-монстра XM246E1"
+msgstr[1] "орудия танка-монстра XM246E1"
+msgstr[2] "орудий танка-монстра XM246E1"
+
+#: .\items.json
+msgid ""
+"This exists to alter the dispersion of the new tank drone.  This is a bug if "
+"you find one of these."
+msgstr ""
+"Это существует для того, чтобы изменить разброс нового танкового дрона. Это "
+"баг, если вы обнаружите одну из них."
+
+#: .\items.json
+msgid "broken Mini-Tank UAFV"
+msgid_plural "broken Mini-Tank UAFVs"
+msgstr[0] "сломанный мини-танк UAFV"
+msgstr[1] "сломанных мини-танка UAFV"
+msgstr[2] "сломанных мини-танков UAFV"
+
+#. ~ Description for {'str': 'broken Mini-Tank UAFV'}
+#: .\items.json
+msgid ""
+"A hulking wreck of treads, composite plating, and cold robotic hatred.  "
+"Hopefully won't ever be operational again, now only good for parts."
+msgstr ""
+"Громадная развалина из гусениц, композитного покрытия и холодной "
+"человеческой угрозы. Будем надеяться, что он больше никогда не будет "
+"функционировать, и теперь годится только на запчасти."
+
+#: .\items.json
+msgid "Rubber Caterpillar Track"
+msgid_plural "Rubber Caterpillar Tracks"
+msgstr[0] "резиновые гусеницы"
+msgstr[1] "резиновые гусеницы"
+msgstr[2] "резиновые гусеницы"
+
+#. ~ Description for {'str': 'Rubber Caterpillar Track'}
+#: .\items.json
+msgid ""
+"A short, interlocking set of hard rubber tracks reinforced by stiff wire "
+"held in place by a set of smaller wheels.  Similar with what you might see "
+"used on light construction vehicles.  It's significantly stronger than "
+"regular tires due to not being at risk of bursting; but is quite heavy."
+msgstr ""
+"Короткие, сцепленные между собой гусеницы из твердой резины, укрепленные "
+"жесткой проволокой и удерживаемые комплектом небольших колес. Похожи на те, "
+"что используются на легких строительных машинах. Они значительно прочнее "
+"обычных шин, так как не подвержены риску разрыва, но довольно тяжелые."
+
+#: .\items.json
+msgid "Steel Caterpillar Track"
+msgid_plural "Steel Caterpillar Tracks"
+msgstr[0] "стальные гусеницы"
+msgstr[1] "стальные гусеницы"
+msgstr[2] "стальные гусеницы"
+
+#. ~ Description for {'str': 'Steel Caterpillar Track'}
+#: .\items.json
+msgid ""
+"A short, interlocking set of shaped steel tracks held in place by a set of "
+"smaller wheels.  Similar with what you might see used on large construction "
+"vehicles.  It's significantly stronger than regular tires due to not being "
+"at risk of bursting; but is very heavy."
+msgstr ""
+"Короткие сцепленные между собой стальные гусеницы, удерживаемых комплектом "
+"небольших колес. Похожи на те, что используются на больших строительных "
+"машинах. Они значительно прочнее обычных шин, так как не подвержены риску "
+"разрыва, но очень тяжелые."
+
+#: .\items.json
+msgid "Reinforced Caterpillar Track"
+msgid_plural "Reinforced Caterpillar Tracks"
+msgstr[0] "усиленные гусеницы"
+msgstr[1] "усиленные гусеницы"
+msgstr[2] "усиленные гусеницы"
+
+#. ~ Description for {'str': 'Reinforced Caterpillar Track'}
+#: .\items.json
+msgid ""
+"A short, interlocking set of shaped steel tracks held in place by a set of "
+"smaller wheels.  Similar with what you might see used on APCs and armored "
+"vehicles.  It's significantly stronger than regular tires due to not being "
+"at risk of bursting; but is extremely heavy."
+msgstr ""
+"Короткие сцепленные между собой усиленные стальные гусеницы, удерживаемых на "
+"месте комплектом небольших колес. Похожи на те, что используются на БТР и "
+"бронетехнике. Они значительно прочнее обычных шин, так как не подвержены "
+"риску разрыва, но очень тяжелые."
+
+#: .\missiondef.json
+msgid "Supply Run"
+msgstr "Снабжение"
+
+#. ~ Description for mission '{'str': 'Supply Run'}'
+#: .\missiondef.json
+msgid ""
+"The last of your tank's crew was heading to a helipad in the area in search "
+"of supplies, and never returned.  They clearly didn't make it, and by now "
+"it's probably overrun, but some fuel and ammo would be better than nothing."
+msgstr ""
+"Последний экипаж вашего танка отправился на вертолетную площадку в этом "
+"районе в поисках припасов и не вернулся. Очевидно, они не успели добраться "
+"до места, и теперь оно, скорее всего, разрушено, но немного топлива и "
+"боеприпасов будет лучше, чем ничего."
+
+#: .\modinfo.json
+msgid "Tankmod: Revived"
+msgstr ""
+
+#. ~ Description for Tankmod: Revived
+#: .\modinfo.json
+msgid ""
+"The intended successor of my older, obsoleted Tanks and Other Vehicles mod."
+msgstr "Преемник моего старого, устаревшего мода Tanks and Other Vehicles."
+
+#: .\monsters.json
+msgid "XM246E1 Mini-Tank UAFV"
+msgid_plural "XM246E1 Mini-Tank UAFVs"
+msgstr[0] "мини-танк XM246E1 UAFV"
+msgstr[1] "мини-танка XM246E1 UAFV"
+msgstr[2] "мини-танков XM246E1 UAFV"
+
+#. ~ Description for {'str': 'XM246E1 Mini-Tank UAFV'}
+#: .\monsters.json
+msgid ""
+"An experimental, heavily armored UGV the size of a small vehicle, its "
+"structure dominated by a bulky 120mm main gun.  It trundles along on armored "
+"treads, ponderous yet implacable.  If it's taking aim at you… run."
+msgstr ""
+"Экспериментальный тяжело бронированный UGV размером с небольшой автомобиль, "
+"в его конструкции доминирует громоздкая 120-мм пушка. Он движется на "
+"армированных гусеницах, громоздкий, и непримиримый. Если он целится в вас... "
+"бегите."
+
+#: .\monsters.json
+msgid "The mini-tank fires its 120mm gun!"
+msgstr "Мини-танк стреляет из 120-мм орудия!"
+
+#: .\parts.json
+msgid "120mm tank gun"
+msgstr "120-мм танковая пушка"
+
+#: .\parts.json
+msgid "120mm autoloading tank gun"
+msgstr "120-мм танковая пушка с автоматическим заряжанием"
+
+#: .\parts.json
+msgid "105mm tank gun"
+msgstr "105-мм танковая пушка"
+
+#: .\parts.json
+msgid "155mm howitzer"
+msgstr "155-мм гаубица"
+
+#: .\parts.json
+msgid "ATGM turret"
+msgstr "турель с ПТУР"
+
+#: .\parts.json
+msgid "25mm chaingun"
+msgstr "25-мм пушка"
+
+#: .\parts.json
+msgid "stripped-down 25mm gun"
+msgstr "25-мм пушка (снято с вооружения)"
+
+#: .\parts.json
+msgid "makeshift25mm cannon"
+msgstr "25-мм пушка (самодельная)"
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Tank Driver"
+msgstr "Водитель танка"
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Tank Driver"
+msgstr "Водитель танка"
+
+#. ~ Profession (male Tank Driver) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were in charge of driving the tank, but without a commander it's a lot "
+"harder to get a clear picture of what's around you."
+msgstr ""
+"Вы отвечали за управление танком, но без командира гораздо сложнее получить "
+"четкое представление о том, что вас окружает."
+
+#. ~ Profession (female Tank Driver) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were in charge of driving the tank, but without a commander it's a lot "
+"harder to get a clear picture of what's around you."
+msgstr ""
+"Вы отвечали за управление танком, но без командира гораздо сложнее получить "
+"четкое представление о том, что вас окружает."
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Tank Gunner"
+msgstr "Наводчик танка"
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Tank Gunner"
+msgstr "Наводчик танка"
+
+#. ~ Profession (male Tank Gunner) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"You were responsible for aiming and firing the main gun, but now you have no "
+"one left to spot targets for you."
+msgstr ""
+"Вы отвечали за прицеливание и стрельбу из главного орудия, но теперь у вас "
+"не осталось никого, кто мог бы засечь цели за вас."
+
+#. ~ Profession (female Tank Gunner) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"You were responsible for aiming and firing the main gun, but now you have no "
+"one left to spot targets for you."
+msgstr ""
+"Вы отвечали за прицеливание и стрельбу из главного орудия, но теперь у вас "
+"не осталось никого, кто мог бы засечь цели за вас."
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Tank Loader"
+msgstr "Заряжающий танка"
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Tank Loader"
+msgstr "Заряжающий танка"
+
+#. ~ Profession (male Tank Loader) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Your job was to help the main gunner with loading, now you'll have to do all "
+"the work yourself."
+msgstr ""
+"Ваша работа заключалась в том, чтобы помогать главному наводчику с "
+"заряжанием, теперь же вам придется выполнять всю работу самостоятельно."
+
+#. ~ Profession (female Tank Loader) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Your job was to help the main gunner with loading, now you'll have to do all "
+"the work yourself."
+msgstr ""
+"Ваша работа заключалась в том, чтобы помогать главному наводчику с "
+"заряжанием, теперь же вам придется выполнять всю работу самостоятельно."
+
+#: .\professions.json
+msgctxt "profession_male"
+msgid "Tank Commander"
+msgstr "Командир танка"
+
+#: .\professions.json
+msgctxt "profession_female"
+msgid "Tank Commander"
+msgstr "Командир танка"
+
+#. ~ Profession (male Tank Commander) description
+#: .\professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Your role was to coordinate the tank crew's actions and spot targets, a job "
+"made significantly harder by everyone else being either dead or MIA."
+msgstr ""
+"Ваша роль заключалась в координации действий экипажа танка и обнаружении "
+"целей, что значительно усложняется тем, что теперь все остальные члены "
+"экипажа либо мертвы, либо пропали без вести."
+
+#. ~ Profession (female Tank Commander) description
+#: .\professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Your role was to coordinate the tank crew's actions and spot targets, a job "
+"made significantly harder by everyone else being either dead or MIA."
+msgstr ""
+"Ваша роль заключалась в координации действий экипажа танка и обнаружении "
+"целей, что значительно усложняется тем, что теперь все остальные члены "
+"экипажа либо мертвы, либо пропали без вести."
+
+#. ~ Name for scenario 'Armored Apocalypse' for a male character
+#: .\scenarios.json
+msgctxt "scenario_male"
+msgid "Armored Apocalypse"
+msgstr "Бронированный апокалипсис"
+
+#. ~ Name for scenario 'Armored Apocalypse' for a female character
+#: .\scenarios.json
+msgctxt "scenario_female"
+msgid "Armored Apocalypse"
+msgstr "Бронированный апокалипсис"
+
+#. ~ Description for scenario 'Armored Apocalypse' for a male character.
+#: .\scenarios.json
+msgctxt "scen_desc_male"
+msgid ""
+"Wandering in search of any other survivors after a disastrous mobilization, "
+"your tank and its crew have slowly been worn down by attrition.  After "
+"trying to establish communications using an old radio tower, the only other "
+"surviving crew member went off in search of supplies and fuel a few days "
+"ago.  Now something's stirred up the undead, several are converging on your "
+"position."
+msgstr ""
+"Блуждая в поисках других выживших после неудачной мобилизации, ваш танк и "
+"его экипаж постепенно истощаются. Попытавшись наладить связь с помощью "
+"старой радиовышки, единственный оставшийся в живых член экипажа несколько "
+"дней назад отправился на поиски припасов и топлива. Теперь что-то "
+"взбудоражило нежить, и несколько из них направляются к вашей позиции."
+
+#. ~ Description for scenario 'Armored Apocalypse' for a female character.
+#: .\scenarios.json
+msgctxt "scen_desc_female"
+msgid ""
+"Wandering in search of any other survivors after a disastrous mobilization, "
+"your tank and its crew have slowly been worn down by attrition.  After "
+"trying to establish communications using an old radio tower, the only other "
+"surviving crew member went off in search of supplies and fuel a few days "
+"ago.  Now something's stirred up the undead, several are converging on your "
+"position."
+msgstr ""
+"Блуждая в поисках других выживших после неудачной мобилизации, ваш танк и "
+"его экипаж постепенно истощаются. Попытавшись наладить связь с помощью "
+"старой радиовышки, единственный оставшийся в живых член экипажа несколько "
+"дней назад отправился на поиски припасов и топлива. Теперь что-то "
+"взбудоражило нежить, и несколько из них направляются к вашей позиции."
+
+#. ~ Starting location for scenario 'Armored Apocalypse'.
+#: .\scenarios.json
+msgctxt "start_name"
+msgid "Radio Tower"
+msgstr "Радиовышка"
+
+#: .\snippets.json
+msgid ""
+"\"Tank drone, meet the real deal.  See how you handle 120 millimeters of "
+"HELL YEAH!\""
+msgstr ""
+"\"Танковые дроны, встречайте настоящее. Посмотрим, как вы справитесь с 120 "
+"миллиметрами, ДА ЧЕРТ ВОЗЬМИ!\"."
+
+#: .\snippets.json
+msgid "\"big fucking gun, earplugs are good for your brain\""
+msgstr "\"Большая гребанная пушка, беруши будут полезны для вашего мозга\""
+
+#: .\snippets.json
+msgid "\"I have a bicycle-mounted tank cannon.  Your argument is invalid.\""
+msgstr ""
+"\"У меня есть танковая пушка, установленная на велосипеде. Ваш аргумент "
+"недействителен.\""
+
+#: .\snippets.json
+msgid ""
+"\"Next person to call this infantry fighting vehicle a 'tank' is walking "
+"home.\""
+msgstr ""
+"\"Следующий, кто назовет эту боевую машину пехоты \"танком\", отправится "
+"домой.\""
+
+#: .\snippets.json
+msgid ""
+"\"Found what used to be an armored platoon.  I don't want to find out what "
+"did them in.\""
+msgstr ""
+"\"Нашли то, что раньше было взводом бронетехники. Не хочу выяснять, что их "
+"убило.\""
+
+#: .\snippets.json
+msgid ""
+"EXPERIMENTAL TANKS TO ENTER FIELD TESTS - A press release yesterday from the "
+"Department of Defense has confirmed plans for a series of field tests for a "
+"new model of light tank, currently designated the XM7 Tankette.  A major "
+"departure from previous armor doctrine, the experimental design features a "
+"long-range electric engine and a state-of-the-art autoloader, recently "
+"upgraded to fit a 120mm main gun.  Most notable was the confirmation of a "
+"one-man crew compartment, with mention of advanced fire control and sensors "
+"rendering a commander and gunner unnecessary.  According to General "
+"Dabrowski, \"These aren't expected to replace the venerable Abrams, instead "
+"we're expecting them to find a new niche for urban warfare.  We're hoping in "
+"about a year these will cost a fourth as much as an Abrams to produce while "
+"having the same level of firepower.  For the same number of soldiers it'd "
+"take to crew one tank, we could have four of these all supporting each "
+"other, each monitoring the situation and calling in targets.\""
+msgstr ""
+"ЭКСПЕРИМЕНТАЛЬНЫЕ ТАНКИ ПРОЙДУТ ПОЛЕВЫЕ ИСПЫТАНИЯ - Вчерашний пресс-релиз "
+"Министерства обороны подтвердил планы проведения серии полевых испытаний "
+"новой модели легкого танка, получившей в настоящее время обозначение XM7 "
+"Tankette. Экспериментальная конструкция, значительно отличающаяся от "
+"предыдущей бронетанковой доктрины, оснащена электрическим двигателем "
+"повышенной мощности и современным устройством автоматического заряжания, "
+"недавно модернизированным для установки 120-мм основного орудия. Наиболее "
+"примечательным было подтверждение того, что экипаж может состоять из одного "
+"человека, при этом упоминалось, что передовые системы управления огнем и "
+"датчики делают командира и наводчика ненужными. По словам генерала "
+"Дабровского, \"ожидается, что они не заменят почтенные \"Абрамсов\", а "
+"найдут новую нишу для ведения боевых действий в городских условиях. Мы "
+"надеемся, что примерно через год их производство обойдется в четверть "
+"стоимости \"Абрамса\" при том же уровне огневой мощи. При том же количестве "
+"солдат, которое требуется для экипажа одного танка, мы сможем иметь четыре "
+"таких машины, которые будут поддерживать друг друга, отслеживать ситуацию и "
+"указывать цели.\""
+
+#: .\snippets.json
+msgid ""
+"ROBOT TANK UNVEILED - A recent press conference has confirmed the latest "
+"development in AI-driven defense systems.  Much of the details remain "
+"classified, other than the new project having only recently entered early "
+"testing.  \"We've refined some of the developments that went into the XM7 "
+"Tankette to fit an even more compact package.\" says the update, in "
+"reference to the experimental light tank program to see increased production "
+"and formal adoption in the coming months.  \"We're exploring uncharted "
+"territory with the autonomous fire control, nothing we've put into use so "
+"far has handled anything as large as a tank cannon.  Once we have all the "
+"kinks worked out we'll proceed with the next wave of trials.  We should have "
+"a working dual-core AI ready by the end of the year that can handle both the "
+"main gun and an M2 Browning, but for now we're focusing on the main gun.\""
+msgstr ""
+"РОБОТ-ТАНК ПРЕДСТАВЛЕН - Недавняя пресс-конференция подтвердила новейшую "
+"разработку в области оборонных систем, управляемых искусственным "
+"интеллектом. Большая часть деталей остается засекреченной, кроме того, что "
+"новый проект только недавно вышел на ранние испытания. \"Мы "
+"усовершенствовали некоторые из разработок, использовавшихся в XM7 Tankette, "
+"чтобы сделать его еще более компактным\", - говорится в обновленной "
+"информации, касающейся экспериментального легкого танка, производство и "
+"официальное принятие которого начнется в ближайшие месяцы. \"Мы исследуем "
+"новые возможности автономного управления огнем - до сих пор ни одна из наших "
+"разработок не справлялась с такими крупными орудиями, как танковая пушка. "
+"Как только мы разберемся со всеми нюансами, мы приступим к следующей волне "
+"испытаний. К концу года у нас должен быть готов рабочий двухъядерный ИИ, "
+"способный работать как с основным орудием, так и с M2 Browning, но пока мы "
+"сосредоточены на основном орудии.\""
+
+#: .\snippets.json
+msgid ""
+"PATTON TANKS TO BE RESTORED - Amid rumors of war on the horizon and growing "
+"unrest, a recent new briefing outlined an emergency plan to restore and "
+"rearm several M60 Patton main battle tanks, with roughly two hundred "
+"projected to be available across the New England region within the coming "
+"weeks.  Officials refused to clarify the purpose of this rearmament program, "
+"leaving speculation that the move is an unintentional confirmation of an "
+"impending Chinese invasion.  According to an anonymous source within the "
+"military, \"They don't expect them to be facing Type 96 or 99 tanks.  "
+"They'll likely be used to engage IFVs such as the Type 08 or the Type 15 "
+"light tank.\""
+msgstr ""
+"ТАНКИ PATTON БУДУТ ВОССТАНОВЛЕНЫ - На фоне слухов о приближающейся войне и "
+"растущих беспорядках в ходе недавнего брифинга был обнародован экстренный "
+"план по восстановлению и перевооружению нескольких основных боевых танков "
+"M60 Patton, около двухсот из которых, по прогнозам, будут доступны в регионе "
+"Новой Англии в течение ближайших недель. Официальные лица отказались "
+"уточнить цель этой программы перевооружения, оставив предположения, что этот "
+"шаг является непреднамеренным подтверждением надвигающегося китайского "
+"вторжения. По словам анонимного источника в вооруженных силах, \"Они не "
+"ожидают, что им будут противостоять танки Type 96 или Type 99. Вероятней "
+"всего, думают противостоять таким такнкам как IFV, Type 08 или легкий танк "
+"Type 15\""
+
+#: .\speech.json
+msgid "hummm!"
+msgstr "хммм!"
+
+#: .\speech.json
+msgid "whirrr!"
+msgstr "вррр!"
+
+#: .\speech.json
+msgid "the trundle of machinery."
+msgstr "гул машин"
+
+#: .\speech.json
+msgid "the creaking of steel treads."
+msgstr "скрип стальных протекторов."
+
+#: .\speech.json
+msgid "the metallic squeal of tank tracks!"
+msgstr "металлический визг танковых гусениц!"
+
+#: .\start_locations.json
+msgid "Radio Tower"
+msgstr "Радиовышка"
+
+#: .\treads.json
+msgid "rubber treads"
+msgstr "резиновые гусеницы"
+
+#. ~ Description for {'str': 'rubber treads'}
+#. ~ Description for {'str': 'steel treads'}
+#. ~ Description for {'str': 'tank treads'}
+#: .\treads.json
+msgid ""
+"A section of continuous track, the kind mounted on construction vehicles and "
+"military fighting vehicles.  It acts as a wheel, and the broad surface "
+"provides plenty of traction to move heavy vehicles off-road, but at the cost "
+"of speed due to the heavy weight."
+msgstr ""
+"Секция непрерывной гусеницы, устанавливаемая на строительные машины и "
+"военные боевые машины. Она действует как колесо, а широкая поверхность "
+"обеспечивает достаточную тягу для передвижения тяжелых машин по бездорожью, "
+"но за счет большого веса снижается скорость."
+
+#: .\treads.json
+msgid "steel treads"
+msgstr "стальные гусеницы"
+
+#: .\treads.json
+msgid "tank treads"
+msgstr "танковые гусеницы"
+
+#: .\vehicles.json
+msgid "M1 Abrams Main Battle Tank"
+msgstr "Основной боевой танк M1 Abrams"
+
+#: .\vehicles.json
+msgid "M109 Self-Propelled Howitzer"
+msgstr "Самоходная гаубица M109"
+
+#: .\vehicles.json
+msgid "M2 Bradley Infantry Fighting Vehicle"
+msgstr "Боевая машина пехоты M2 Bradley"
+
+# На гражданском бульдозере то не будет 25 мм турели
+#: .\vehicles.json
+msgid "Bandit Bulldozer"
+msgstr "Бандитский бульдозер"
+
+#: .\vehicles.json
+msgid "Heavy Planter Tractor"
+msgstr "Тяжелый сеялочный трактор"
+
+#: .\vehicles.json
+msgid "Heavy Plow Tractor"
+msgstr "Тяжелый плужный трактор"
+
+#: .\vehicles.json
+msgid "Heavy Reaper Tractor"
+msgstr "Тяжелый трактор \"Жнец\""
+
+#: .\vehicles.json
+msgid "M60 Patton Main Battle Tank"
+msgstr "Основной боевой танк M60 Patton"
+
+#: .\vehicles.json
+msgid "XM7 Electric Mini-Tank"
+msgstr "Электрический мини-танк XM7"
